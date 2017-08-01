@@ -9,6 +9,7 @@ class LangCodes{
             'fr_FR'=>'fr_FR',
             'en_GB'=>'en_US',
             'en_US'=>'en_US',
+            'cs_CZ'=>'cs_CZ',
             'zh_CN'=>'zh_CN',
             'zh_TW'=>'zh_TW'//,
             //'de_DE'=>'de_DE'
@@ -20,6 +21,7 @@ class LangCodes{
             'fr_FR'=>'Français',
             'en_GB'=>'English',
             'en_US'=>'English',
+            'cs_CZ'=>'Čeština',
             'zh_CN'=>'中文 (简体)',
             'zh_TW'=>'中文 (正體)'//,
             //'de_DE'=>'Deutsch'

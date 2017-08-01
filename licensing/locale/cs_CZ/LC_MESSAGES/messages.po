@@ -1,0 +1,1469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: messages\n"
+"POT-Creation-Date: 2016-10-04 09:53-0600\n"
+"PO-Revision-Date: 2016-10-16 20:11-0600\n"
+"Last-Translator: <>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: js/admin.js:122 js/admin.js:257 js/admin.js:282 js/admin.js:308
+#: js/admin.js:335 js/index.js:43
+msgid "Processing..."
+msgstr "Zpracovávám..."
+
+#: js/admin.js:255 js/admin.js:333
+msgid "Do you really want to delete this data?"
+msgstr "Vážně si přejete smazat tato data?"
+
+#: js/admin.js:280
+msgid "Do you really want to delete this user?"
+msgstr "Vážně si přejete smazat tohoto uživatele?"
+
+#: js/admin.js:306
+msgid ""
+"Do you really want to delete this expression type?  Any associated "
+"Qualifiers will be deleted as well."
+msgstr ""
+"Vážně si přejete smazat tento úryvek? Budou smazány"
+"také nastavené příznaky."
+
+#: js/admin.js:357 js/forms/documentForm.js:188 js/forms/expressionForm.js:78
+#: js/forms/licenseForm.js:172 js/forms/signatureForm.js:115 ajax_forms.php:480
+#: ajax_forms.php:743
+msgid "add"
+msgstr "Přidat"
+
+#: js/forms/attachmentForm.js:41 js/forms/attachmentForm.js:54
+#: js/forms/documentForm.js:102
+msgid "File name is already being used..."
+msgstr "Název souboru je už použit jinde..."
+
+#: js/forms/attachmentForm.js:46
+msgid "The attachments directory is not writable."
+msgstr "Do složky s přílohami nelze zapisovat"
+
+#: js/forms/attachmentForm.js:84 js/forms/documentForm.js:134 js/license.js:457
+msgid " successfully uploaded."
+msgstr " úspěšně nahráno."
+
+#: js/forms/attachmentForm.js:84 ajax_forms.php:458 ajax_forms.php:728
+#: ajax_forms.php:815 ajax_htmldata.php:142 ajax_htmldata.php:234
+#: ajax_htmldata.php:1150 ajax_htmldata.php:1230 ajax_htmldata.php:1287
+#: ajax_htmldata.php:1335 ajax_htmldata.php:1452
+msgid "remove"
+msgstr "odstranit"
+
+#: js/forms/attachmentForm.js:101 js/forms/attachmentForm.js:109
+msgid "Do you really want to delete this attachment?"
+msgstr "Opravdu si přejete smazat tuto přílohu?"
+
+#: js/forms/documentForm.js:38 js/forms/licenseForm.js:34
+msgid "This name is already being used!"
+msgstr "Tento název je již používán!"
+
+#: js/forms/documentForm.js:106
+msgid ""
+"File name may not contain special characters - ampersand, single quote, "
+"double quote or less than/greater than characters"
+msgstr ""
+"Název souboru nesmí obsahovat speciální znaky - &, uvozovky "
+"a znaky < a >."
+
+#: js/forms/documentForm.js:110
+msgid "The documents directory is not writable."
+msgstr "Do složky s dokumenty nelze zapisovat."
+
+#: js/forms/documentForm.js:176
+msgid "Document Type is required."
+msgstr "Musíte nastavit pole Typ dokumentu."
+
+#: js/forms/documentForm.js:177
+msgid "Short Name is required."
+msgstr "Musíte nastavit pole Krátký název."
+
+#: js/forms/documentForm.js:207
+msgid "DocumentType has been added"
+msgstr "Typ dokumentu byl přidán"
+
+#: js/forms/expressionForm.js:89
+msgid "ExpressionType has been added"
+msgstr "Typ úryvku byl přidán"
+
+#: js/forms/licenseForm.js:57 js/forms/licenseForm.js:118 js/onix_import.js:11
+#: js/onix_import.js:68
+msgid "Warning!  This organization will be added new."
+msgstr "Upozornění! Pro tuto organizaci bude vytvořen nový záznam."
+
+#: js/forms/licenseForm.js:191
+msgid "Konzorcium has been added"
+msgstr "Bylo přidáno konsorcium"
+
+#: js/forms/licenseForm.js:200
+msgid "License Name is required."
+msgstr "Musíte zadat Název licence."
+
+#: js/forms/licenseForm.js:201
+msgid "Provider is required."
+msgstr "Musíte zadat Poskytovatele."
+
+#: js/forms/sfxForm.js:59
+msgid "A document must be selected to continue."
+msgstr "Pro pokračování vyberte dokument."
+
+#: js/forms/sfxForm.js:60
+msgid "Terms Tool Resource must be entered to continue."
+msgstr "Pro pokračování vložte Terms Tool Resource."
+
+#: js/forms/signatureForm.js:41
+msgid "No match!"
+msgstr "Nebyla nalezena shoda!"
+
+#: js/forms/signatureForm.js:41
+msgid "Selected: "
+msgstr "Vybráno: "
+
+#: js/forms/signatureForm.js:96
+msgid "Do you really want to delete this signature?"
+msgstr "Vážně si přejete smazat tento podpis?"
+
+#: js/forms/signatureForm.js:126
+msgid "SignatureType has been added"
+msgstr "Byl přidán Typ podpisu"
+
+#: js/license.js:103
+msgid "Do you really want to delete this license?"
+msgstr "Opravdu si přejete smazat tuto licenci?"
+
+#: js/license.js:159
+msgid "Refreshing Contents..."
+msgstr "Obnovování obsahu..."
+
+#: js/license.js:279
+msgid " record)"
+msgstr " záznam)"
+
+#: js/license.js:281
+msgid " records)"
+msgstr " záznamy)"
+
+#: js/license.js:314
+msgid "Do you really want to archive this document?"
+msgstr "Opravdu si přejete archivovat tento dokument?"
+
+#: js/license.js:332
+msgid "Do you really want to delete this document?"
+msgstr "Opravdu si přejete smazat tento dokument?"
+
+#: js/license.js:339
+msgid ""
+"There was a problem with deleting the document.  You may not delete a "
+"document if there are associated expressions.  Remove all expressions and "
+"try again."
+msgstr ""
+"Nastal problém při mazání dokumentu. Nemůžete smazat"
+"dokument, pokud má přiřazeny úryvky. Smažte všechny úryvky a "
+"zkuste jej smazat znovu."
+
+#: js/license.js:353
+msgid "Do you really want to delete this expression?"
+msgstr "Opravdu si přejete smazat tento úryvek"
+
+#: js/license.js:368
+msgid ""
+"Do you really want to delete this attachment?  This will also delete all "
+"attached files."
+msgstr ""
+"Opravdu si přejete smazat tuto přílohu? Tato akce smaže"
+"také přiložené soubory."
+
+#: js/license.js:385
+msgid "Do you really want to delete this terms tool resource link?"
+msgstr ""
+"Opravdu si přejete smazat tento terms tool resource link?"
+
+#: js/license.js:425 js/license.js:455
+msgid "File name is already being used."
+msgstr "Název souboru je již používán."
+
+#: js/onix_import.js:99
+msgid "Please select a file to upload."
+msgstr "Prosím vyberte soubor k nahrání."
+
+#: js/onix_import.js:105
+msgid "At least one term type must be selected."
+msgstr "Musíte vybrat alespoň jeden term type."
+
+#: js/onix_import.js:111
+msgid "The Publisher / Provider field must contain a value."
+msgstr "Pole Vydavatel / Poskytovatel musí obsahovat nějakou hodnotu."
+
+#: js/onix_import.js:114
+msgid ""
+"Please correct the following form error(s):\n"
+"\n"
+msgstr ""
+"Prosíme opravte následující chyby:\n"
+"\n"
+
+#: js/plugins/date.js:30
+msgid "Sunday"
+msgstr "Neděle"
+
+#: js/plugins/date.js:30
+msgid "Monday"
+msgstr "Pondělí"
+
+#: js/plugins/date.js:30
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: js/plugins/date.js:30
+msgid "Wednesday"
+msgstr "Středa"
+
+#: js/plugins/date.js:30
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: js/plugins/date.js:30
+msgid "Friday"
+msgstr "Pátek"
+
+#: js/plugins/date.js:30
+msgid "Saturday"
+msgstr "Sobota"
+
+#: js/plugins/date.js:42
+msgid "Sun"
+msgstr "Ne"
+
+#: js/plugins/date.js:42
+msgid "Mon"
+msgstr "Po"
+
+#: js/plugins/date.js:42
+msgid "Tue"
+msgstr "Út"
+
+#: js/plugins/date.js:42
+msgid "Wed"
+msgstr "St"
+
+#: js/plugins/date.js:42
+msgid "Thu"
+msgstr "Čt"
+
+#: js/plugins/date.js:42
+msgid "Fri"
+msgstr "Pá"
+
+#: js/plugins/date.js:42
+msgid "Sat"
+msgstr "So"
+
+#: js/plugins/date.js:54
+msgid "January"
+msgstr "Leden"
+
+#: js/plugins/date.js:54
+msgid "February"
+msgstr "Únor"
+
+#: js/plugins/date.js:54
+msgid "March"
+msgstr "Březen"
+
+#: js/plugins/date.js:54
+msgid "April"
+msgstr "Duben"
+
+#: js/plugins/date.js:54 js/plugins/date.js:66
+msgid "May"
+msgstr "Květen"
+
+#: js/plugins/date.js:54
+msgid "June"
+msgstr "Červen"
+
+#: js/plugins/date.js:54
+msgid "July"
+msgstr "Červenec"
+
+#: js/plugins/date.js:54
+msgid "August"
+msgstr "Srpen"
+
+#: js/plugins/date.js:54
+msgid "September"
+msgstr "Září"
+
+#: js/plugins/date.js:54
+msgid "October"
+msgstr "Říjen"
+
+#: js/plugins/date.js:54
+msgid "November"
+msgstr "Listopad"
+
+#: js/plugins/date.js:54
+msgid "December"
+msgstr "Prosinec"
+
+#: js/plugins/date.js:66
+msgid "Jan"
+msgstr "Led"
+
+#: js/plugins/date.js:66
+msgid "Feb"
+msgstr "Úno"
+
+#: js/plugins/date.js:66
+msgid "Mar"
+msgstr "Bře"
+
+#: js/plugins/date.js:66
+msgid "Apr"
+msgstr "Dub"
+
+#: js/plugins/date.js:66
+msgid "Jun"
+msgstr "Čvn"
+
+#: js/plugins/date.js:66
+msgid "Jul"
+msgstr "Čvc"
+
+#: js/plugins/date.js:66
+msgid "Aug"
+msgstr "Srp"
+
+#: js/plugins/date.js:66
+msgid "Sep"
+msgstr "Zář"
+
+#: js/plugins/date.js:66
+msgid "Oct"
+msgstr "Říj"
+
+#: js/plugins/date.js:66
+msgid "Nov"
+msgstr "Lis"
+
+#: js/plugins/date.js:66
+msgid "Dec"
+msgstr "Pro"
+
+#: js/plugins/jquery.datePicker.js:1129
+msgid "Previous year"
+msgstr "Předchozí rok"
+
+#: js/plugins/jquery.datePicker.js:1130
+msgid "Previous month"
+msgstr "Předchozí měsíc"
+
+#: js/plugins/jquery.datePicker.js:1131
+msgid "Next year"
+msgstr "Následující rok"
+
+#: js/plugins/jquery.datePicker.js:1132
+msgid "Next month"
+msgstr "Následující měsíc"
+
+#: js/plugins/jquery.datePicker.js:1133 ajax_forms.php:490 ajax_forms.php:753
+msgid "Close"
+msgstr "Zavřít"
+
+#: js/plugins/jquery.datePicker.js:1134
+msgid "Choose date"
+msgstr "Vyberte datum"
+
+#: admin.php:22
+msgid "Administration"
+msgstr "Administrace"
+
+#: admin.php:35
+msgid "Users"
+msgstr "Uživatelé"
+
+#: admin.php:36
+msgid "add new user"
+msgstr "Přidat uživatele"
+
+#: admin.php:39 admin.php:56 admin.php:70 admin.php:83 admin.php:97
+#: admin.php:112 admin.php:132 admin.php:153 admin.php:167 in_progress.php:38
+#: license.php:70 license.php:112 license.php:131 license.php:151
+msgid "Loading..."
+msgstr "Načítám..."
+
+#: admin.php:52
+msgid "Document Types"
+msgstr "Typy dokumentů"
+
+#: admin.php:53
+msgid "add new document type"
+msgstr "přidat nový typ dokumentu"
+
+#: admin.php:66
+msgid "Expression Types"
+msgstr "Typy úryvků"
+
+#: admin.php:67
+msgid "add new expression type"
+msgstr "přidat nový typ úryvku"
+
+#: admin.php:79
+msgid "Qualifiers"
+msgstr "Příznaky"
+
+#: admin.php:80
+msgid "add new qualifier"
+msgstr "Přidat nový příznak"
+
+#: admin.php:93
+msgid "Signature Types"
+msgstr "Typy subjektů"
+
+#: admin.php:94
+msgid "add new signature type"
+msgstr "Přidat nový typ subjektu"
+
+#: admin.php:108
+msgid "License Statuses"
+msgstr "Stavy licence"
+
+#: admin.php:109
+msgid "add new license status"
+msgstr "Přidat nový stav licence"
+
+#: admin.php:129 ajax_forms.php:1035
+msgid "Calendar Settings"
+msgstr "Nastavení kalendáře"
+
+#: admin.php:149
+msgid "Consortia"
+msgstr "Konzorcia"
+
+#: admin.php:150
+msgid "add new Konzorcium"
+msgstr "Přidat nové konzorcium"
+
+#: admin.php:163
+msgid "Providers"
+msgstr "Poskytovatelé"
+
+#: admin.php:164
+msgid "add new provider"
+msgstr "Přidat nového poskytovatele"
+
+#: admin.php:180
+msgid "You don't have permission to access this page"
+msgstr "Nemáte dostatečná práva pro zobrazení této stránky"
+
+#: admin/classes/common/DBService.php:40
+msgid "There was a problem with the database: "
+msgstr "Nastal problém s databází: "
+
+#: admin/classes/common/Object.php:72
+msgid "Cannot get value for undefined key ("
+msgstr "Nelze získat hodnotu pro nedefinovaný klíč ("
+
+#: ajax_forms.php:47 ajax_htmldata.php:630
+msgid "License"
+msgstr "Licence"
+
+#: ajax_forms.php:51
+msgid "License Name:"
+msgstr "Název licence:"
+
+#: ajax_forms.php:56 onix_import.php:325
+msgid "Publisher / Provider:"
+msgstr "Vydavatel / poskytovatel:"
+
+#: ajax_forms.php:66
+msgid "Konzorcium:"
+msgstr "Konzorcium:"
+
+#: ajax_forms.php:94 ajax_htmldata.php:496 index.php:92
+msgid ""
+"There was an error processing this request - please verify configuration.ini "
+"is set up for organizations correctly and the database and tables have been "
+"created."
+msgstr ""
+"Nastala chyba při zpracovávání požadavku - prosím ověřte správné nastavení "
+"configuration.ini a vytvoření databáze a tabulek."
+
+#: ajax_forms.php:106
+msgid "add Konzorcium"
+msgstr "Přidat konzorcium"
+
+#: ajax_forms.php:113 ajax_forms.php:270 ajax_forms.php:369 ajax_forms.php:639
+#: ajax_forms.php:831
+msgid "submit"
+msgstr "Odeslat"
+
+#: ajax_forms.php:114 ajax_forms.php:271 ajax_forms.php:370 ajax_forms.php:640
+#: ajax_forms.php:832 ajax_forms.php:965 ajax_forms.php:1011
+#: ajax_forms.php:1119 ajax_forms.php:1173
+msgid "cancel"
+msgstr "Zrušit"
+
+#: ajax_forms.php:164
+msgid "Document Upload"
+msgstr "Nahrát dokument"
+
+#: ajax_forms.php:167
+msgid "Effective Date:"
+msgstr "Datum účinnosti:"
+
+#: ajax_forms.php:174
+msgid "Document Type:"
+msgstr "Typ dokumentu:"
+
+#: ajax_forms.php:195
+msgid "add document type"
+msgstr "Přidat typ dokumentu"
+
+#: ajax_forms.php:203
+msgid "Parent:"
+msgstr "Nadřazený záznam:"
+
+#: ajax_forms.php:235
+msgid "Name:"
+msgstr "Název:"
+
+#: ajax_forms.php:241
+msgid "File:"
+msgstr "Soubor:"
+
+#: ajax_forms.php:247
+msgid "replace with new file"
+msgstr "Nahradit novým souborem"
+
+#: ajax_forms.php:263
+msgid "Archived:"
+msgstr "Archivováno:"
+
+#: ajax_forms.php:297
+msgid "Archive Document Date"
+msgstr "Datum archivace dokumentu"
+
+#: ajax_forms.php:302
+msgid "Archive Date:"
+msgstr "Datum archivace:"
+
+#: ajax_forms.php:305 ajax_processing.php:505 ajax_processing.php:517
+#: ajax_processing.php:530
+msgid "Continue"
+msgstr "Pokračovat"
+
+#: ajax_forms.php:335
+msgid "Terms Tool Resource Link"
+msgstr "Terms Tool Resource Link"
+
+#: ajax_forms.php:340 ajax_htmldata.php:1079
+msgid "For Document:"
+msgstr "Pro dokument:"
+
+#: ajax_forms.php:363
+msgid "Terms Tool Resource:"
+msgstr "Terms Tool Resource:"
+
+#: ajax_forms.php:401 ajax_htmldata.php:773 ajax_htmldata.php:778
+#: ajax_htmldata.php:903 ajax_htmldata.php:908
+msgid "Signatures"
+msgstr "Signatáři"
+
+#: ajax_forms.php:407
+msgid "Signer Name"
+msgstr "Jméno signatáře"
+
+#: ajax_forms.php:408 ajax_htmldata.php:182
+msgid "Date"
+msgstr "Datum"
+
+#: ajax_forms.php:409 ajax_htmldata.php:771 ajax_htmldata.php:776
+#: ajax_htmldata.php:901 ajax_htmldata.php:906 ajax_htmldata.php:1083
+msgid "Type"
+msgstr "Typ"
+
+#: ajax_forms.php:444 ajax_forms.php:705
+msgid "commit update"
+msgstr "Uložit"
+
+#: ajax_forms.php:457 ajax_forms.php:727 ajax_htmldata.php:141
+#: ajax_htmldata.php:234 ajax_htmldata.php:1150 ajax_htmldata.php:1229
+#: ajax_htmldata.php:1412
+msgid "edit"
+msgstr "Upravit"
+
+#: ajax_forms.php:546 license.php:63 license.php:105 license.php:125
+#: license.php:144
+msgid "Expressions"
+msgstr "Úryvky"
+
+#: ajax_forms.php:551
+msgid "Document:"
+msgstr "Dokument:"
+
+#: ajax_forms.php:573
+msgid "Expression Type:"
+msgstr "Typ úryvku:"
+
+#: ajax_forms.php:592
+msgid "add expression"
+msgstr "Přidat úryvek"
+
+#: ajax_forms.php:599
+msgid "Qualifier:"
+msgstr "Příznaky:"
+
+#: ajax_forms.php:635 ajax_htmldata.php:543
+msgid "Document Text:"
+msgstr "Text dokumentu:"
+
+#: ajax_forms.php:673 ajax_forms.php:684 ajax_htmldata.php:631
+msgid "Notes"
+msgstr "Poznámky"
+
+#: ajax_forms.php:674
+msgid "For Document Text:"
+msgstr "Pro text dokumentu:"
+
+#: ajax_forms.php:789 license.php:65 license.php:107 license.php:127
+#: license.php:146
+msgid "Attachments"
+msgstr "Přílohy"
+
+#: ajax_forms.php:793
+msgid "Date:"
+msgstr "Datum:"
+
+#: ajax_forms.php:800
+msgid "Details:"
+msgstr "Detaily:"
+
+#: ajax_forms.php:806
+msgid "Attachments:"
+msgstr "Přílohy:"
+
+#: ajax_forms.php:860 ajax_forms.php:901 ajax_forms.php:984 ajax_forms.php:1135
+msgid "Update"
+msgstr "Obnovit"
+
+#: ajax_forms.php:865 ajax_htmldata.php:1286 ajax_htmldata.php:1334
+#: ajax_htmldata.php:1451
+msgid "update"
+msgstr "obnovit"
+
+#: ajax_forms.php:872
+msgid "close"
+msgstr "zavřít"
+
+#: ajax_forms.php:904 ajax_forms.php:987 ajax_forms.php:1138
+msgid "Add New"
+msgstr "Přidat"
+
+#: ajax_forms.php:912
+msgid "User"
+msgstr "Uživatel"
+
+#: ajax_forms.php:913 ajax_htmldata.php:1258
+msgid "Login ID"
+msgstr "Login"
+
+#: ajax_forms.php:914 ajax_htmldata.php:1259
+msgid "First Name"
+msgstr "Jméno"
+
+#: ajax_forms.php:915 ajax_htmldata.php:1260
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: ajax_forms.php:916 ajax_htmldata.php:1261
+msgid "Privilege"
+msgstr "Oprávnění"
+
+#: ajax_forms.php:919 ajax_forms.php:922
+msgid "Add/Edit users can add, edit, or remove licenses and associated fields"
+msgstr ""
+"Uživatelé s Přidat/upravit mohou přidávat, upravovat nebo mazat licence a další údaje"
+
+#: ajax_forms.php:919 ajax_forms.php:922
+msgid "Admin users have access to the Admin page and the SFX tab."
+msgstr ""
+"Administrátoři mají přístup ke stránce admina a tabulce SFX"
+
+#: ajax_forms.php:919 ajax_forms.php:922
+msgid "Restricted users do not have the ability to view documents"
+msgstr "Omezení uživatelé nemají možnost zobrazit si dokumenty"
+
+#: ajax_forms.php:919 ajax_forms.php:922
+msgid ""
+"View only users can view all license information, including the license pdf"
+msgstr ""
+"Prohlížející uživatelé si mohou zobrazit licence včetně souborů."
+
+#: ajax_forms.php:951
+msgid "Terms Tool Email"
+msgstr "Terms tool e-mail"
+
+#: ajax_forms.php:954
+msgid ""
+"Enter email address if you wish this user to receive email notifications "
+"when the terms tool box is checked on the Expressions tab."
+msgstr ""
+"Vložte e-mail pokud si přejete, aby tento uživatel dostával upozornění,"
+"pokud je nastavena možnost Terms Tool na stránce Úryvků."
+
+#: ajax_forms.php:954
+msgid "Leave this field blank if the user shouldn't receive emails."
+msgstr ""
+"Nechte toto pole prázdné, pokud uživatel nemá dostávat informační e-maily."
+
+#: ajax_forms.php:995 ajax_forms.php:996 ajax_htmldata.php:1324 index.php:180
+msgid "Expression Type"
+msgstr "Typ úryvku"
+
+#: ajax_forms.php:997 ajax_htmldata.php:1325
+msgid "Note Type"
+msgstr "Typ poznámky"
+
+#: ajax_forms.php:1000
+msgid "Internal"
+msgstr "Interní"
+
+#: ajax_forms.php:1001
+msgid "Display"
+msgstr "Zobrazit"
+
+#: ajax_forms.php:1006
+msgid "Note type of display allows for terms tool use"
+msgstr "Typ poznámky k zobrazení umožní použít terms tool"
+
+#: ajax_forms.php:1026
+msgid "Edit"
+msgstr "Upravit"
+
+#: ajax_forms.php:1040 ajax_forms.php:1070 ajax_forms.php:1103
+msgid "Variable Name"
+msgstr "Název proměnné"
+
+#: ajax_forms.php:1043 ajax_forms.php:1073 ajax_forms.php:1104
+#: ajax_htmldata.php:1366
+msgid "Value"
+msgstr "Hodnota"
+
+#: ajax_forms.php:1146 ajax_forms.php:1169 ajax_htmldata.php:1086
+#: ajax_htmldata.php:1439 index.php:205
+msgid "Qualifier"
+msgstr "Příznak"
+
+#: ajax_forms.php:1148 ajax_htmldata.php:1438
+msgid "For Expression Type"
+msgstr "Pro typ úryvku"
+
+#: ajax_forms.php:1196 ajax_htmldata.php:1590 ajax_processing.php:1172
+msgid "Action "
+msgstr "Akce "
+
+#: ajax_forms.php:1196 ajax_htmldata.php:1590 ajax_processing.php:1172
+msgid " not set up!"
+msgstr " není nastaveno!"
+
+#: ajax_htmldata.php:50
+msgid "edit license"
+msgstr "Upravit licenci"
+
+#: ajax_htmldata.php:50
+msgid "remove license"
+msgstr "Odstranit licenci"
+
+#: ajax_htmldata.php:61
+msgid "edit organization"
+msgstr "Upravit organizaci"
+
+#: ajax_htmldata.php:78
+msgid "License Status:"
+msgstr "Status licence:"
+
+#: ajax_htmldata.php:131
+msgid "For Document"
+msgstr "Pro dokument"
+
+#: ajax_htmldata.php:132
+msgid "Resource"
+msgstr "Zdroj"
+
+#: ajax_htmldata.php:155 ajax_htmldata.php:245 ajax_htmldata.php:852
+#: ajax_htmldata.php:970 ajax_htmldata.php:1027 ajax_htmldata.php:1196
+#: ajax_htmldata.php:1239 ajax_htmldata.php:1296 ajax_htmldata.php:1344
+#: ajax_htmldata.php:1421
+msgid "(none found)"
+msgstr "(nenalezeno)"
+
+#: ajax_htmldata.php:159
+msgid "add new terms tool resource link"
+msgstr "Přidat nový link na terms tool resource"
+
+#: ajax_htmldata.php:183
+msgid "Details"
+msgstr "Detaily"
+
+#: ajax_htmldata.php:206 ajax_htmldata.php:675
+msgid "more..."
+msgstr "více..."
+
+#: ajax_htmldata.php:211 ajax_htmldata.php:680
+msgid "less..."
+msgstr "méně..."
+
+#: ajax_htmldata.php:223 ajax_htmldata.php:865 ajax_htmldata.php:983
+msgid "(none uploaded)"
+msgstr "(není nahráno)"
+
+#: ajax_htmldata.php:228
+msgid "view attachment "
+msgstr "Zobrazit přílohu "
+
+#: ajax_htmldata.php:249
+msgid "add new attachment"
+msgstr "Vložit přílohu"
+
+#: ajax_htmldata.php:322
+msgid "Sorry, no licenses fit your query"
+msgstr "Vašemu dotazu neodpovídá žádný výsledek"
+
+#: ajax_htmldata.php:329
+msgid "Displaying "
+msgstr "Zobrazuji "
+
+#: ajax_htmldata.php:329
+msgid " to "
+msgstr " do "
+
+#: ajax_htmldata.php:329
+msgid " of "
+msgstr " z "
+
+#: ajax_htmldata.php:329
+msgid " License Records"
+msgstr " Licence"
+
+#: ajax_htmldata.php:383 ajax_htmldata.php:463 ajax_htmldata.php:770
+#: ajax_htmldata.php:775 ajax_htmldata.php:900 ajax_htmldata.php:905
+msgid "Name"
+msgstr "Název"
+
+#: ajax_htmldata.php:384 ajax_htmldata.php:464
+msgid "Publisher / Provider"
+msgstr "Vydavatel / poskytovatel"
+
+#: ajax_htmldata.php:385 ajax_htmldata.php:465 index.php:101
+msgid "Konzorcium"
+msgstr "Konzorcium"
+
+#: ajax_htmldata.php:386 ajax_htmldata.php:466 index.php:124
+msgid "Status"
+msgstr "Stav"
+
+#: ajax_htmldata.php:432
+msgid "records per page"
+msgstr "záznamů na stránku"
+
+#: ajax_htmldata.php:535
+msgid "view / edit license"
+msgstr "zobrazit / upravit licence"
+
+#: ajax_htmldata.php:535
+msgid "view / edit "
+msgstr "Zobrazit / upravit "
+
+#: ajax_htmldata.php:535 ajax_htmldata.php:1176
+msgid " notes"
+msgstr " poznámky"
+
+#: ajax_htmldata.php:535 ajax_htmldata.php:537 ajax_htmldata.php:863
+#: ajax_htmldata.php:981
+msgid "view document"
+msgstr "Zobrazit dokument"
+
+#: ajax_htmldata.php:537 ajax_htmldata.php:639
+msgid "view license"
+msgstr "Zobrazit licence"
+
+#: ajax_htmldata.php:547 ajax_htmldata.php:652 ajax_htmldata.php:1155
+#: ajax_htmldata.php:1157
+msgid " Notes:"
+msgstr " Poznámky:"
+
+#: ajax_htmldata.php:573
+msgid "Qualifiers:"
+msgstr "Příznaky:"
+
+#: ajax_htmldata.php:632 ajax_htmldata.php:1084
+msgid "Document Text"
+msgstr "Text dokumentu"
+
+#: ajax_htmldata.php:644
+msgid "(document text not entered)"
+msgstr "(není zadán text dokumentu)"
+
+#: ajax_htmldata.php:692
+msgid "(none for "
+msgstr "(žádný pro "
+
+#: ajax_htmldata.php:742
+msgid "Archived Documents"
+msgstr "Archivované dokumenty"
+
+#: ajax_htmldata.php:742
+msgid "hide archives"
+msgstr "skrýt archivované"
+
+#: ajax_htmldata.php:772 ajax_htmldata.php:777 ajax_htmldata.php:902
+#: ajax_htmldata.php:907
+msgid "Effective Date"
+msgstr "Datum účinnosti"
+
+#: ajax_htmldata.php:813 ajax_htmldata.php:933
+msgid "archived on: "
+msgstr "Archivováno: "
+
+#: ajax_htmldata.php:836 ajax_htmldata.php:954
+msgid "(no date)"
+msgstr "(bez data)"
+
+#: ajax_htmldata.php:847 ajax_htmldata.php:965
+msgid "add/view details"
+msgstr "přidat/zobrazit detaily"
+
+#: ajax_htmldata.php:854 ajax_htmldata.php:972
+msgid "add signatures"
+msgstr "přidat subjekty"
+
+#: ajax_htmldata.php:870 ajax_htmldata.php:987
+msgid "view expressions"
+msgstr "Zobrazit úryvky"
+
+#: ajax_htmldata.php:876 ajax_htmldata.php:993
+msgid "edit document"
+msgstr "Upravit dokument"
+
+#: ajax_htmldata.php:876 ajax_htmldata.php:993
+msgid "remove document"
+msgstr "Smazat dokument"
+
+#: ajax_htmldata.php:886 ajax_htmldata.php:888
+msgid "This document has "
+msgstr "Tento dokument má "
+
+#: ajax_htmldata.php:886 ajax_htmldata.php:888
+msgid " children document(s) not displayed."
+msgstr " související dokumenty nezobrazeny."
+
+#: ajax_htmldata.php:886 ajax_htmldata.php:888
+msgid "show all documents for this parent"
+msgstr "Zobrazit všechny související dokumenty pro tento dokument"
+
+#: ajax_htmldata.php:892 ajax_htmldata.php:894 ajax_htmldata.php:1002
+#: ajax_htmldata.php:1004
+msgid "The following "
+msgstr "Následující "
+
+#: ajax_htmldata.php:892 ajax_htmldata.php:894 ajax_htmldata.php:1002
+#: ajax_htmldata.php:1004
+msgid " document(s) belong to "
+msgstr " dokumenty náleží k "
+
+#: ajax_htmldata.php:892 ajax_htmldata.php:894
+msgid "hide children documents for this parent"
+msgstr "skrýt související dokumenty pro tento dokument"
+
+#: ajax_htmldata.php:931
+msgid "archive document"
+msgstr "archivovat dokument"
+
+#: ajax_htmldata.php:1031
+msgid " archive(s) available."
+msgstr " dostupných archivovaných souborů."
+
+#: ajax_htmldata.php:1031
+msgid "show archives"
+msgstr "Zobrazit archivované"
+
+#: ajax_htmldata.php:1037
+msgid "upload new document"
+msgstr "Nahrát dokument"
+
+#: ajax_htmldata.php:1125
+msgid "used in terms tool"
+msgstr "použitý v terms tool"
+
+#: ajax_htmldata.php:1170 index.php:105
+msgid "(none)"
+msgstr "(žádný)"
+
+#: ajax_htmldata.php:1176
+msgid "add/view "
+msgstr "Přidat/zobrazit "
+
+#: ajax_htmldata.php:1200
+msgid "add new expression"
+msgstr "Přidat úryvek"
+
+#: ajax_htmldata.php:1267
+msgid "Terms Tool Update Email"
+msgstr "Upravit e-mail pro aktualizaci terms tool"
+
+#: ajax_htmldata.php:1365
+msgid "Setting"
+msgstr "Nastavení"
+
+#: ajax_htmldata.php:1488
+msgid "Limit by Qualifier:"
+msgstr "Omezit na příznak:"
+
+#: ajax_htmldata.php:1572
+msgid "Resources Module"
+msgstr "Informační zdroje"
+
+#: ajax_processing.php:96
+msgid "License successfully deleted."
+msgstr "Licence úspěšně smazána."
+
+#: ajax_processing.php:172 ajax_processing.php:957
+msgid "success uploading!"
+msgstr "úspěšně nahráno!"
+
+#: ajax_processing.php:175 ajax_processing.php:960
+msgid "There was a problem saving your file to"
+msgstr "Nastala chyba při ukládání souboru do"
+
+#: ajax_processing.php:236
+msgid "Document Saved Successfully."
+msgstr "Dokument úspěšně uložen."
+
+#: ajax_processing.php:250
+msgid "Signature Deleted Successfully."
+msgstr "Subjekt úspěšně smazán."
+
+#: ajax_processing.php:312
+msgid "Expression Removed Successfully."
+msgstr "Úryvek úspěšně smazán."
+
+#: ajax_processing.php:335
+msgid ""
+"An expression in the licensing module has been approved for terms tool use."
+msgstr ""
+"Úryvek v licenčním modulu byl schválen do terms tool."
+
+#: ajax_processing.php:336
+msgid "License:  "
+msgstr "Licence:  "
+
+#: ajax_processing.php:337
+msgid "View License Record:  "
+msgstr "Zobrazit licenci: "
+
+#: ajax_processing.php:341
+msgid "Licensing - expression set to production use"
+msgstr "Licence - úryvek nastaven k užití"
+
+#: ajax_processing.php:346
+msgid "Approved for terms tool display."
+msgstr "Schváleno pro zobrazení v terms tool."
+
+#: ajax_processing.php:348
+msgid "Removed from terms tool display."
+msgstr "Odstraněno ze zobrazení v terms tool."
+
+#: ajax_processing.php:375
+msgid "Expression Note Updated Successfully."
+msgstr "Poznámka k úryvku úspěšně změněna."
+
+#: ajax_processing.php:391
+msgid "Expression Note Added Successfully."
+msgstr "Poznámka k úryvku úspěšně přidána."
+
+#: ajax_processing.php:415
+msgid "Note Removed Successfully."
+msgstr "Poznámka úspěšně odstraněna."
+
+#: ajax_processing.php:452
+msgid "Terms Tool Resource Link successfully deleted"
+msgstr "Odkaz v Terms tool resource úspěšně smazán."
+
+#: ajax_processing.php:468
+msgid "License Updated Successfully."
+msgstr "Licence úspěšně změněna."
+
+#: ajax_processing.php:477
+msgid "License Added Successfully."
+msgstr "Licence úspěšně přidána."
+
+#: ajax_processing.php:477
+msgid "Please continue to upload documents and add expressions or emails."
+msgstr ""
+"Pokračujte v nahrávání dokumentů a přidávání úryvků nebo e-mailů."
+
+#: ajax_processing.php:514 ajax_processing.php:527
+msgid "SQL Insert Failed."
+msgstr "Selhal SQL Insert"
+
+#: ajax_processing.php:514 ajax_processing.php:527
+msgid "Please make sure everything is filled out correctly."
+msgstr "Prosíme zkontrolujte správnost vyplnění polí."
+
+#: ajax_processing.php:772
+msgid "Unable to delete  - this "
+msgstr "Nepodařilo se smazat - zdroj"
+
+#: ajax_processing.php:772
+msgid ""
+" is in use.  Please make sure no licenses are set up with this information."
+msgstr ""
+" je využíván. Zkontrolujte, že nejsou s touto informací spojeny žádné licence."
+
+#: ajax_processing.php:778
+msgid ""
+"Unable to delete.  Please make sure no licenses are set up with this "
+"information."
+msgstr ""
+"Nepodařilo se smazat. Ujistěte se, že nejsou s touto informací spojeny "
+"žádné licence."
+
+#: ajax_processing.php:1027
+msgid "Attachment successfully deleted"
+msgstr "Příloha úspěšně smazána."
+
+#: ajax_processing.php:1041
+msgid "Attachment file successfully deleted"
+msgstr "Soubor přílohy úspěšně smazán."
+
+#: ajax_processing.php:1062
+msgid "Status has been updated"
+msgstr "Stav byl změněn."
+
+#: calendar.php:21 in_progress.php:23 index.php:23 templates/header.php:181
+#: templates/header.php:236 templates/header.php:284
+msgid "Home"
+msgstr "Domů"
+
+#: calendar.php:34 templates/header.php:210 templates/header.php:265
+#: templates/header.php:313
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: calendar.php:41
+msgid "Could not connect to host."
+msgstr "Nepodařilo se připojit k host."
+
+#: calendar.php:42
+msgid "Could not find License database."
+msgstr "Nepodařilo se načíst databázi licencí."
+
+#: calendar.php:43
+msgid "Could not find Resource database."
+msgstr "Nepodařilo se vyhledat databázi informačních zdrojů."
+
+#: calendar.php:49
+msgid ""
+"There was an error with the CalendarSettings Table please verify the table "
+"has been created."
+msgstr ""
+"Nastala chyba v tabulce CalendarSettings. Ověřte, zda byla tabulka vytvořena"
+
+#: calendar.php:90
+msgid "There was an error with the CalendarSettings Configuration."
+msgstr ""
+"Nastala chyba v nastavení CalendarSettings."
+
+#: calendar.php:115 calendar.php:152
+msgid "Bad Query Failure"
+msgstr "Chyba Bad Query"
+
+#: calendar.php:122
+msgid "Upcoming License Renewals"
+msgstr "Nadcházející prodloužení licencí"
+
+#: calendar.php:210
+msgid "No associated licenses available."
+msgstr "Žádné dostupné asociované licence."
+
+#: calendar.php:216
+msgid "Expired "
+msgstr "Vypršela před"
+
+#: calendar.php:216
+msgid " days ago"
+msgstr " dny"
+
+#: calendar.php:218
+msgid "- Expires in "
+msgstr "- Vyprší za "
+
+#: calendar.php:221
+msgid " days)"
+msgstr " dnů)"
+
+#: calendar.php:223
+msgid " days "
+msgstr " dnů "
+
+#: calendar.php:234
+msgid "Participants:  "
+msgstr "Účastníci :"
+
+#: compare.php:22 templates/header.php:202 templates/header.php:257
+#: templates/header.php:305
+msgid "Expression Comparison"
+msgstr "Srovnání úryvků"
+
+#: compare.php:39
+msgid "Limit by Expression Type:"
+msgstr "Omezit podle typu úryvku:"
+
+#: in_progress.php:33
+msgid "Licenses In Progress"
+msgstr "Licence v řízení"
+
+#: in_progress.php:33
+msgid "Browse All"
+msgstr "Procházet všechny"
+
+#: index.php:48
+msgid "Search"
+msgstr "Hledat"
+
+#: index.php:49 index.php:238
+msgid "new search"
+msgstr "Nové hledání"
+
+#: index.php:58
+msgid "Name (contains)"
+msgstr "Název (obsahuje)"
+
+#: index.php:61
+msgid "go!"
+msgstr "OK!"
+
+#: index.php:67
+msgid "Publisher/Provider"
+msgstr "Vydavatel/poskytovatel"
+
+#: index.php:78 index.php:104
+msgid "All"
+msgstr "Všechny"
+
+#: index.php:149
+msgid "Document Type"
+msgstr "Typ dokumentu"
+
+#: index.php:215
+msgid "Starts with"
+msgstr "Začíná na"
+
+#: license.php:62 license.php:104 license.php:124 license.php:143
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: license.php:64 license.php:106 license.php:126 license.php:145
+msgid "Terms Tool"
+msgstr "Terms Tool"
+
+#: license.php:79
+msgid "Helpful Links"
+msgstr "Další odkazy"
+
+#: license.php:87
+msgid "Send feedback on this resource"
+msgstr "Zaslat odezvu na tento informační zdroj."
+
+#: not_available.php:21
+msgid "Not Available"
+msgstr "Není k dispozici"
+
+#: not_available.php:66
+msgid "Please contact your Administrator for access to the Licensing Module."
+msgstr ""
+"Kontaktujte administrátora pro udělení přístupu do modulu licencí."
+
+#: onix_import.php:14 onix_import.php:17
+msgid "ONIX-PL Import"
+msgstr "Importér ONIX-PL"
+
+#: onix_import.php:28
+msgid "The file has been successfully uploaded."
+msgstr "Soubor byl úspěšně nahrán."
+
+#: onix_import.php:51
+msgid "Unable to create file for license."
+msgstr "Nepodařilo se vytvořit soubor k licenci."
+
+#: onix_import.php:284
+msgid " Expression Type(s) Created"
+msgstr " Typ úryvku vytvořen"
+
+#: onix_import.php:285
+msgid " Qualifiers Created"
+msgstr " Příznaky vytvořeny"
+
+#: onix_import.php:289
+msgid "Cannot create XML object"
+msgstr "Nelze vytvořit XML objekt"
+
+#: onix_import.php:294
+msgid "Unable to upload the file"
+msgstr "Nelze nahrát soubor"
+
+#: onix_import.php:298
+msgid "Error: "
+msgstr "Chyba: "
+
+#: onix_import.php:312
+msgid "File selection"
+msgstr "Výběr souboru"
+
+#: onix_import.php:313
+msgid "XML File"
+msgstr "XML soubor"
+
+#: onix_import.php:317
+msgid "Import options"
+msgstr "Možnosti importu"
+
+#: onix_import.php:319
+msgid "Usage Terms"
+msgstr "Podmínky užívání"
+
+#: onix_import.php:320
+msgid "Supply Terms"
+msgstr "Podmínky dodavatele"
+
+#: onix_import.php:321
+msgid "Continuing Access Terms"
+msgstr "Podmínky pokračujícího přístupu"
+
+#: onix_import.php:322
+msgid "Payment Terms"
+msgstr "Podmínky platby"
+
+#: onix_import.php:323
+msgid "General Terms"
+msgstr "Obecné podmínky"
+
+#: onix_import.php:334
+msgid "Upload"
+msgstr "Nahrát"
+
+#: templates/footer.php:21
+msgid "Copyright"
+msgstr "Copyright"
+
+#: templates/footer.php:21
+msgid "Licensing Module version"
+msgstr "Verze licenčního modulu"
+
+#: templates/footer.php:21
+msgid "CORAL Project Website"
+msgstr "Web projektu CORAL"
+
+#: templates/footer.php:21
+msgid "Report an issue"
+msgstr "Nahlásit problém"
+
+#: templates/header.php:35
+msgid ""
+"Both license name and organization must be filled out.  Please try again."
+msgstr ""
+"Musí být vyplněny jméno licence a organizace. Zkuste to znovu."
+
+#: templates/header.php:85
+msgid ""
+"JavaScript must be enabled in order for you to use CORAL. However, it seems "
+"JavaScript is either disabled or not supported by your browser. To use "
+"CORAL, enable JavaScript by changing your browser options, then "
+msgstr ""
+"Pro práci se systémem musíte mít zapnutý JavaScript. Prosím zapněte si "
+"JavaScript ve svém prohlížeči a "
+
+#: templates/header.php:85
+msgid "try again"
+msgstr "zkuste akci znovu."
+
+#: templates/header.php:107
+msgid "Licensing"
+msgstr "Licence"
+
+#: templates/header.php:108
+msgid "Powered by"
+msgstr "Postaveno na"
+
+#: templates/header.php:114
+msgid "Hello"
+msgstr "Dobrý den"
+
+#: templates/header.php:124
+msgid "logout"
+msgstr "Odhlásit se"
+
+#: templates/header.php:124
+msgid "Help"
+msgstr "Pomoc"
+
+#: templates/header.php:142
+msgid "Invalid translation route!"
+msgstr "Chyba nastavení překladu!"
+
+#: templates/header.php:188 templates/header.php:243 templates/header.php:291
+msgid "New License"
+msgstr "Přidat licenci"
+
+#: templates/header.php:195 templates/header.php:250 templates/header.php:298
+msgid "License In Progress"
+msgstr "Licence v řízení"
+
+#: templates/header.php:218 templates/header.php:273 templates/header.php:321
+msgid "ONIX-PL File Import"
+msgstr "Importér souboru ONIX-PL"
+
+#: templates/header.php:225
+msgid "Admin"
+msgstr "Administrace"
+
+#: templates/header.php:342
+msgid "Change Module"
+msgstr "Změnit modul"
+
+#: templates/header.php:345
+msgid "Main Menu"
+msgstr "Hlavní menu"
+
+#: templates/header.php:350
+msgid "Resources"
+msgstr "Informační zdroje"
+
+#: templates/header.php:355
+msgid "Organizations"
+msgstr "Organizace"
+
+#: templates/header.php:360
+msgid "Usage Statistics"
+msgstr "Statistiky uživání"
+
+#: templates/header.php:365
+msgid "Management"
+msgstr "Management"
+
+#: terms_report.php:22
+msgid "Terms Report"
+msgstr "Terms Report"
