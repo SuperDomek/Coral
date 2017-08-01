@@ -23,7 +23,7 @@ class Utility {
 		return $days * 24 * 60 * 60;
 	}
 
-	public function objectFromArray($array) {
+	public static function objectFromArray($array) {
 		$object = new DynamicObject;
 		foreach ($array as $key => $value) {
 			if (is_array($value)) {
@@ -58,7 +58,7 @@ class Utility {
 	//returns page URL up to /coral/
 	public function getCORALURL(){
 		$pageURL = 'http';
-		if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
+		if ( isset( $_SERVER["HTTPS"] ) && strtolower( $_SERVER["HTTPS"] ) == "on" ) $pageURL .= "s";
 		$pageURL .= "://";
 		if ($_SERVER["SERVER_PORT"] != "80") {
 		  $pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"];

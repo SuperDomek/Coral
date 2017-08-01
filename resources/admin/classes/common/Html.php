@@ -19,7 +19,7 @@
 
 class Html {
 
-  public function nameToID($str) {
+  public static function nameToID($str) {
     $str = preg_replace('/[^a-zA-Z0-9]/', ' ', $str);
     $str = explode(' ', $str);
     $str = array_map('ucfirst', $str);
@@ -52,7 +52,7 @@ class Html {
     return '<label for="'. htmlspecialchars($for).'">'.htmlspecialchars($name).':'.$required_text.'</label>';
   }
 
-  public function hidden_field_tag($name, $value, $options = array()) {
+  public static function hidden_field_tag($name, $value, $options = array()) {
     $default_id = Html::nameToID($name);
     $default_options = array('id' => $default_id);
     $options = array_merge($default_options, $options);
@@ -60,11 +60,11 @@ class Html {
     return '<input type="hidden" id="'.htmlspecialchars($options['id']).'" name="'.htmlspecialchars($name).'" value="'.htmlspecialchars($value). '" />';
   }
 
-  public function hidden_search_field_tag($name, $value, $options = array()) {
+  public static function hidden_search_field_tag($name, $value, $options = array()) {
     return Html::hidden_field_tag("search[".$name."]", $value, $options);
   }
 
-  public function text_field_tag($name, $value, $options = array()) {
+  public static function text_field_tag($name, $value, $options = array()) {
     $default_id = Html::nameToID($name);
     $default_options = array('width' => '180px', 'id' => $default_id, 'class' => 'changeInput');
     $options = array_merge($default_options, $options);
@@ -76,7 +76,7 @@ class Html {
     return Html::text_field_tag($field, $object->$field, $options);
   }
 
-  public function text_search_field_tag($name, $value, $options = array()) {
+  public static function text_search_field_tag($name, $value, $options = array()) {
     $default_options = array('width' => '145px', 'class' => '');
     $options = array_merge($default_options, $options);
     return Html::text_field_tag("search[".$name."]", $value, $options);

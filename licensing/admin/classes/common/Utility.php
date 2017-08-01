@@ -23,7 +23,7 @@ class Utility {
 		return $days * 24 * 60 * 60;
 	}
 
-	public function objectFromArray($array) {
+	public static function objectFromArray($array) {
 		$object = new DynamicObject;
 		foreach ($array as $key => $value) {
 			if (is_array($value)) {
