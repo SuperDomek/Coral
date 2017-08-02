@@ -2,38 +2,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "POT-Creation-Date: 2016-06-13 13:00-0600\n"
-"PO-Revision-Date: 2016-06-13 13:07-0600\n"
-"Last-Translator: Paul Poulain <paul.poulain@biblibre.com>\n"
+"PO-Revision-Date: 2017-08-02 11:57+0200\n"
+"Last-Translator: Dominik Bláha <blaha.dominik@gmail.com>\n"
 "Language-Team: \n"
-"Language: fr_FR\n"
+"Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 2.0.3\n"
 "X-Poedit-Basepath: ../../..\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: js/admin.js:67
 msgid "Passwords do not match"
-msgstr "Les mots de passe ne correspondent pas"
+msgstr "Hesla se neshodují"
 
 #: js/admin.js:73
 msgid "Password is required"
-msgstr "Le mot de passe est obligatoire"
+msgstr "Heslo je vyžadováno"
 
 #: js/admin.js:78
 msgid "UserID is required"
-msgstr "Le nom d'utilisateur est obligatoire"
+msgstr "Je vyžadováno ID uživatele"
 
 #: js/admin.js:89
 msgid "Do you really want to delete this user?"
-msgstr "Voulez-vous vraiment supprimer cet utilisateur ?"
+msgstr "Opravdu chcete smazat tohoto uživatele?"
 
 #: js/index.js:40
 msgid "Refreshing Contents..."
-msgstr "Actualisation des contenus en cours..."
+msgstr "Obnovuji obsah..."
 
 #: admin.php:66 index.php:195
 msgid ""
@@ -41,209 +41,202 @@ msgid ""
 "JavaScript is either disabled or not supported by your browser. To use "
 "CORAL, enable JavaScript by changing your browser options, then"
 msgstr ""
-"JavaScript doit être activé pour utiliser CORAL. Cependant, il semble que "
-"JavaScript soit désactivé ou n'est pas supporté par votre navigateur web. "
-"Pour utiliser CORAL, activez JavaScript en modifiant les options de votre "
-"navigateur, puis"
+"Pro použití systému musíte mít zapnutý JavaScript. Zapněte JavaScript v "
+"nastavení svého prohlížeče a"
 
 #: admin.php:66 index.php:195
 msgid "try again"
-msgstr "réessayez"
+msgstr "opakujte akci"
 
 #: admin.php:75 index.php:205
 msgid "eRM Authentication"
-msgstr "Authentification eRM"
+msgstr "eRM autentizace"
 
 #: admin.php:82
 msgid "Users"
-msgstr "Utilisateurs"
+msgstr "Uživatelé"
 
 #: admin.php:83
 msgid "Login ID must match the login ID set up in the modules"
-msgstr ""
-"Le nom d'utilisateur doit être identique au nom d'utilisateur paramétré dans "
-"les modules"
+msgstr "Login se musí shodovat s loginem v ostatních modulech"
 
 #: admin.php:89
 msgid "Processing..."
-msgstr "Traitement en cours..."
+msgstr "Zpracovávám..."
 
 #: admin.php:93 index.php:226
 msgid "Change language:"
-msgstr "Modifier la langue :"
+msgstr "Změnit jazyk:"
 
 #: admin.php:109 index.php:242
 msgid "Invalid translation route!"
-msgstr "Chemin vers les traductions invalide !"
+msgstr "Chyba překladu!"
 
 #: admin.php:134
 msgid "Login page"
-msgstr "Page de connexion"
+msgstr "Přihlašovací stránka"
 
 #: admin/classes/common/DBService.php:39
 msgid "There was a problem with the database: "
-msgstr "Il y a eu un problème avec la base de données : "
+msgstr "Nastala chyba s databází: "
 
 #: admin/classes/common/LdapPerson.php:34
 msgid "Could not connect to "
-msgstr "Impossible de se connecter à "
+msgstr "Nepodařilo se připojit k "
 
 #: admin/classes/common/Object.php:63
 msgid "Cannot set value for undefined key ("
-msgstr "Impossible d'attribuer une valeur à une clé indéfinie ("
+msgstr "Nepodařilo se nastavit hodnotu pro nedefinovaný klíč ("
 
 #: admin/classes/common/Object.php:72
 msgid "Cannot get value for undefined key ("
-msgstr "Impossible d'obtenir la valeur d'une clé indéfinie ("
+msgstr "Nepodařilo se získat hodnotu pro nedefinovaný klíč ("
 
 #: admin/classes/domain/User.php:82 admin/classes/domain/User.php:89
 msgid "Could not connect to LDAP server."
-msgstr "Impossible de se connecter au serveur LDAP."
+msgstr "Nepodařilo se připojit k LDAP serveru."
 
 #: admin/classes/domain/User.php:97
 msgid ""
 "There is a problem with the LDAP configuration, contact your server "
 "administrator."
-msgstr ""
-"Il y a un problème avec la configuration LDAP, contactez votre "
-"administrateur de serveur."
+msgstr "Nastala chyba v konfiguraci LDAP, kontaktujte administrátora."
 
 #: ajax_forms.php:43
 msgid "Edit User"
-msgstr "Modifier un utilisateur"
+msgstr "Upravit uživatele"
 
 #: ajax_forms.php:43
 msgid "Add New User"
-msgstr "Ajouter un nouvel utilisateur"
+msgstr "Přidat uživatele"
 
 #: ajax_forms.php:56
 msgid "Login ID"
-msgstr "Nom d'utilisateur"
+msgstr "Login"
 
 #: ajax_forms.php:58
 msgid "Enter password for changes only"
-msgstr "Entrez un mot de passe uniquement pour les modifications"
+msgstr "Vložte heslo jen pokud jej chcete změnit"
 
 #: ajax_forms.php:59
 msgid "New "
-msgstr "Nouveau "
+msgstr "Nové "
 
 #: ajax_forms.php:59
 msgid "Password"
-msgstr "Mot de passe"
+msgstr "Heslo"
 
 #: ajax_forms.php:62
 msgid "Reenter Password"
-msgstr "Re-tapez le mot de passe"
+msgstr "Zopakujte heslo"
 
 #: ajax_forms.php:65
 msgid "Admin?"
-msgstr "Admin ?"
+msgstr "Admin?"
 
 #: ajax_forms.php:77
 msgid "submit"
-msgstr "Envoyer"
+msgstr "odeslat"
 
 #: ajax_forms.php:78
 msgid "cancel"
-msgstr "Annuler"
+msgstr "zrušit"
 
 #: ajax_forms.php:114 ajax_htmldata.php:75 ajax_processing.php:89
 msgid "Action "
-msgstr "Action "
+msgstr "Akce "
 
 #: ajax_forms.php:114 ajax_htmldata.php:75 ajax_processing.php:89
 msgid " not set up!"
-msgstr " non-défini !"
+msgstr " nenastaveno!"
 
 #: ajax_htmldata.php:53
 msgid "edit password or admin status"
-msgstr "modifier le mot de passe ou le statut administrateur"
+msgstr "upravit heslo nebo stav admina"
 
 #: ajax_htmldata.php:54
 msgid "remove"
-msgstr "Retirer"
+msgstr "odstranit"
 
 #: ajax_htmldata.php:60 ajax_htmldata.php:64
 msgid "add new user"
-msgstr "Ajouter un nouvel utilisateur"
+msgstr "přidat uživatele"
 
 #: ajax_processing.php:77
 msgid "User successfully deleted."
-msgstr "Utilisateur supprimé avec succès."
+msgstr "Uživatel úspěšně smazán."
 
 #: index.php:55
 msgid "You are successfully logged out of the system."
-msgstr "Vous êtes à présent déconnecté du système."
+msgstr "Úspěšně jste se odhlásil(a) ze systému."
 
 #: index.php:86
 msgid "Invalid login ID.  Please try again."
-msgstr "Nom d'utilisateur invalide. Veuillez réessayer à nouveau."
+msgstr "Špatný login. Zkuste to znovu."
 
 #: index.php:91
 msgid "Invalid password.  Please try again."
-msgstr "Mot de passe invalide. Veuillez réessayer à nouveau."
+msgstr "Špatné heslo. Zkuste to znovu."
 
 #: index.php:108
 msgid "You are already logged in as "
-msgstr "Vous êtes déjà connecté en tant que "
+msgstr "Už jste přihlášen(a) jako "
 
 #: index.php:108
 msgid "You may log in as another user below,"
-msgstr "Vous pouvez vous connecter sous un autre compte ci-dessous,"
+msgstr "Můžete se přihlásit jako jiný uživatel,"
 
 #: index.php:108
 msgid "return"
-msgstr "Retourner"
+msgstr "zpět"
 
 #: index.php:108
 msgid "or"
-msgstr "ou"
+msgstr "nebo"
 
 #: index.php:108
 msgid "logout"
-msgstr "Déconnectez-vous"
+msgstr "odhlásit se"
 
 #: index.php:129
 msgid "Please enter login credentials to sign in."
-msgstr "Merci d'entrer vos identifiants de connexion pour ouvrir une session."
+msgstr "Zadejte login a heslo pro přihlášení."
 
 #: index.php:137
 msgid "Your session has timed out."
-msgstr "Votre session a expiré."
+msgstr "Vaše relace vypršela."
 
 #: index.php:146
 msgid "You do not have permission to enter."
-msgstr "Vous n'avez pas les autorisations requises pour accéder au site."
+msgstr "Nemáte oprávnění pro otevření stránky."
 
 #: index.php:146
 msgid "Please contact an administrator."
-msgstr "Merci de contacter un administrateur."
+msgstr "Kontaktujte administrátora."
 
 #: index.php:156
 msgid "You must log in before accessing the admin page."
-msgstr ""
-"Vous devez vous identifier avant d'accéder à cette page d'administration."
+msgstr "Před přístupem ke stránce admina se přihlašte."
 
 #: index.php:211
 msgid "Login ID:"
-msgstr "Nom d'utilisateur :"
+msgstr "Login:"
 
 #: index.php:214
 msgid "Password:"
-msgstr "Mot de passe :"
+msgstr "Heslo:"
 
 #: index.php:218
 msgid "Remember my login ID"
-msgstr "Mémoriser mes identifiants de connexion"
+msgstr "Zapamatuj si mě"
 
 #: index.php:221
 msgid "Login"
-msgstr "Se connecter"
+msgstr "Přihlásit se"
 
 #: index.php:267
 msgid "Admin page"
-msgstr "Page d'administration"
+msgstr "Administrace"
 
 #~ msgid "French"
 #~ msgstr "Français"

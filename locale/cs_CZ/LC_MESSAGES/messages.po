@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "POT-Creation-Date: 2016-05-11 14:32-0600\n"
-"PO-Revision-Date: 2016-05-11 14:44-0600\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2017-08-02 12:01+0200\n"
+"Last-Translator: Dominik Bláha <blaha.dominik@gmail.com>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 2.0.3\n"
 "X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -21,36 +21,36 @@ msgstr "eRM"
 
 #: index.php:49
 msgid "eResource Management"
-msgstr "Gestion des ressources électroniques"
+msgstr "správa elektronických informačních zdrojů"
 
 #: index.php:51
 msgid "Change language:"
-msgstr "Modifier la langue:"
+msgstr "Změnit jazyk:"
 
 #: index.php:67
 msgid "Invalid translation route!"
-msgstr "Chemin d'accès aux traductions invalide!"
+msgstr "Chyba překladu!"
 
 #: index.php:101 index.php:106
 msgid "Resources"
-msgstr "Ressources"
+msgstr "Informační zdroje"
 
 #: index.php:116 index.php:121
 msgid "Licensing"
-msgstr "Licences"
+msgstr "Licence"
 
 #: index.php:130 index.php:135
 msgid "Organizations"
-msgstr "Organisations"
+msgstr "Organizace"
 
 #: index.php:144 index.php:149
 msgid "Usage Statistics"
-msgstr "Statistiques d'utilisation"
+msgstr "Statistiky využití"
 
 #: index.php:158 index.php:163
 msgid "Management"
-msgstr "Gestion"
+msgstr "Management"
 
 #: index.php:170
 msgid "Powered by"
-msgstr "Alimenté par"
+msgstr "Systém postaven na"
