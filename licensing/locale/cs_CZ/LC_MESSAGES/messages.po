@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "POT-Creation-Date: 2016-10-04 09:53-0600\n"
-"PO-Revision-Date: 2016-10-16 20:11-0600\n"
-"Last-Translator: <>\n"
+"PO-Revision-Date: 2017-08-02 14:05+0200\n"
+"Last-Translator: Dominik Bláha <blaha.dominik@gmail.com>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../..\n"
-"X-Generator: Poedit 1.8.10\n"
+"X-Generator: Poedit 2.0.3\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: js/admin.js:122 js/admin.js:257 js/admin.js:282 js/admin.js:308
-#: js/admin.js:335 js/index.js:43
+#: js/admin.js:122 js/admin.js:257 js/admin.js:282 js/admin.js:308 js/admin.js:335
+#: js/index.js:43
 msgid "Processing..."
 msgstr "Zpracovávám..."
 
@@ -30,17 +30,15 @@ msgstr "Vážně si přejete smazat tohoto uživatele?"
 
 #: js/admin.js:306
 msgid ""
-"Do you really want to delete this expression type?  Any associated "
-"Qualifiers will be deleted as well."
-msgstr ""
-"Vážně si přejete smazat tento úryvek? Budou smazány"
-"také nastavené příznaky."
+"Do you really want to delete this expression type?  Any associated Qualifiers will "
+"be deleted as well."
+msgstr "Vážně si přejete smazat tento úryvek? Budou smazánytaké nastavené příznaky."
 
 #: js/admin.js:357 js/forms/documentForm.js:188 js/forms/expressionForm.js:78
 #: js/forms/licenseForm.js:172 js/forms/signatureForm.js:115 ajax_forms.php:480
 #: ajax_forms.php:743
 msgid "add"
-msgstr "Přidat"
+msgstr "přidat"
 
 #: js/forms/attachmentForm.js:41 js/forms/attachmentForm.js:54
 #: js/forms/documentForm.js:102
@@ -49,7 +47,7 @@ msgstr "Název souboru je už použit jinde..."
 
 #: js/forms/attachmentForm.js:46
 msgid "The attachments directory is not writable."
-msgstr "Do složky s přílohami nelze zapisovat"
+msgstr "Do složky s přílohami nelze zapisovat."
 
 #: js/forms/attachmentForm.js:84 js/forms/documentForm.js:134 js/license.js:457
 msgid " successfully uploaded."
@@ -72,11 +70,9 @@ msgstr "Tento název je již používán!"
 
 #: js/forms/documentForm.js:106
 msgid ""
-"File name may not contain special characters - ampersand, single quote, "
-"double quote or less than/greater than characters"
-msgstr ""
-"Název souboru nesmí obsahovat speciální znaky - &, uvozovky "
-"a znaky < a >."
+"File name may not contain special characters - ampersand, single quote, double quote "
+"or less than/greater than characters"
+msgstr "Název souboru nesmí obsahovat speciální znaky - &, uvozovky a znaky < a >"
 
 #: js/forms/documentForm.js:110
 msgid "The documents directory is not writable."
@@ -165,30 +161,25 @@ msgstr "Opravdu si přejete smazat tento dokument?"
 
 #: js/license.js:339
 msgid ""
-"There was a problem with deleting the document.  You may not delete a "
-"document if there are associated expressions.  Remove all expressions and "
-"try again."
+"There was a problem with deleting the document.  You may not delete a document if "
+"there are associated expressions.  Remove all expressions and try again."
 msgstr ""
-"Nastal problém při mazání dokumentu. Nemůžete smazat"
-"dokument, pokud má přiřazeny úryvky. Smažte všechny úryvky a "
-"zkuste jej smazat znovu."
+"Nastal problém při mazání dokumentu. Nemůžete smazatdokument, pokud má přiřazeny "
+"úryvky. Smažte všechny úryvky a zkuste jej smazat znovu."
 
 #: js/license.js:353
 msgid "Do you really want to delete this expression?"
-msgstr "Opravdu si přejete smazat tento úryvek"
+msgstr "Opravdu si přejete smazat tento úryvek?"
 
 #: js/license.js:368
 msgid ""
-"Do you really want to delete this attachment?  This will also delete all "
-"attached files."
-msgstr ""
-"Opravdu si přejete smazat tuto přílohu? Tato akce smaže"
-"také přiložené soubory."
+"Do you really want to delete this attachment?  This will also delete all attached "
+"files."
+msgstr "Opravdu si přejete smazat tuto přílohu? Tato akce smažetaké přiložené soubory."
 
 #: js/license.js:385
 msgid "Do you really want to delete this terms tool resource link?"
-msgstr ""
-"Opravdu si přejete smazat tento terms tool resource link?"
+msgstr "Opravdu si přejete smazat tento terms tool resource link?"
 
 #: js/license.js:425 js/license.js:455
 msgid "File name is already being used."
@@ -396,11 +387,11 @@ msgstr "Uživatelé"
 
 #: admin.php:36
 msgid "add new user"
-msgstr "Přidat uživatele"
+msgstr "přidat uživatele"
 
-#: admin.php:39 admin.php:56 admin.php:70 admin.php:83 admin.php:97
-#: admin.php:112 admin.php:132 admin.php:153 admin.php:167 in_progress.php:38
-#: license.php:70 license.php:112 license.php:131 license.php:151
+#: admin.php:39 admin.php:56 admin.php:70 admin.php:83 admin.php:97 admin.php:112
+#: admin.php:132 admin.php:153 admin.php:167 in_progress.php:38 license.php:70
+#: license.php:112 license.php:131 license.php:151
 msgid "Loading..."
 msgstr "Načítám..."
 
@@ -426,7 +417,7 @@ msgstr "Příznaky"
 
 #: admin.php:80
 msgid "add new qualifier"
-msgstr "Přidat nový příznak"
+msgstr "přidat nový příznak"
 
 #: admin.php:93
 msgid "Signature Types"
@@ -434,7 +425,7 @@ msgstr "Typy subjektů"
 
 #: admin.php:94
 msgid "add new signature type"
-msgstr "Přidat nový typ subjektu"
+msgstr "přidat nový typ subjektu"
 
 #: admin.php:108
 msgid "License Statuses"
@@ -442,7 +433,7 @@ msgstr "Stavy licence"
 
 #: admin.php:109
 msgid "add new license status"
-msgstr "Přidat nový stav licence"
+msgstr "přidat nový stav licence"
 
 #: admin.php:129 ajax_forms.php:1035
 msgid "Calendar Settings"
@@ -454,7 +445,7 @@ msgstr "Konzorcia"
 
 #: admin.php:150
 msgid "add new Konzorcium"
-msgstr "Přidat nové konzorcium"
+msgstr "přidat nové konzorcium"
 
 #: admin.php:163
 msgid "Providers"
@@ -462,7 +453,7 @@ msgstr "Poskytovatelé"
 
 #: admin.php:164
 msgid "add new provider"
-msgstr "Přidat nového poskytovatele"
+msgstr "přidat nového poskytovatele"
 
 #: admin.php:180
 msgid "You don't have permission to access this page"
@@ -494,27 +485,26 @@ msgstr "Konzorcium:"
 
 #: ajax_forms.php:94 ajax_htmldata.php:496 index.php:92
 msgid ""
-"There was an error processing this request - please verify configuration.ini "
-"is set up for organizations correctly and the database and tables have been "
-"created."
+"There was an error processing this request - please verify configuration.ini is set "
+"up for organizations correctly and the database and tables have been created."
 msgstr ""
 "Nastala chyba při zpracovávání požadavku - prosím ověřte správné nastavení "
 "configuration.ini a vytvoření databáze a tabulek."
 
 #: ajax_forms.php:106
 msgid "add Konzorcium"
-msgstr "Přidat konzorcium"
+msgstr "přidat konzorcium"
 
 #: ajax_forms.php:113 ajax_forms.php:270 ajax_forms.php:369 ajax_forms.php:639
 #: ajax_forms.php:831
 msgid "submit"
-msgstr "Odeslat"
+msgstr "odeslat"
 
 #: ajax_forms.php:114 ajax_forms.php:271 ajax_forms.php:370 ajax_forms.php:640
-#: ajax_forms.php:832 ajax_forms.php:965 ajax_forms.php:1011
-#: ajax_forms.php:1119 ajax_forms.php:1173
+#: ajax_forms.php:832 ajax_forms.php:965 ajax_forms.php:1011 ajax_forms.php:1119
+#: ajax_forms.php:1173
 msgid "cancel"
-msgstr "Zrušit"
+msgstr "zrušit"
 
 #: ajax_forms.php:164
 msgid "Document Upload"
@@ -530,7 +520,7 @@ msgstr "Typ dokumentu:"
 
 #: ajax_forms.php:195
 msgid "add document type"
-msgstr "Přidat typ dokumentu"
+msgstr "přidat typ dokumentu"
 
 #: ajax_forms.php:203
 msgid "Parent:"
@@ -546,7 +536,7 @@ msgstr "Soubor:"
 
 #: ajax_forms.php:247
 msgid "replace with new file"
-msgstr "Nahradit novým souborem"
+msgstr "nahradit novým souborem"
 
 #: ajax_forms.php:263
 msgid "Archived:"
@@ -577,8 +567,8 @@ msgstr "Pro dokument:"
 msgid "Terms Tool Resource:"
 msgstr "Terms Tool Resource:"
 
-#: ajax_forms.php:401 ajax_htmldata.php:773 ajax_htmldata.php:778
-#: ajax_htmldata.php:903 ajax_htmldata.php:908
+#: ajax_forms.php:401 ajax_htmldata.php:773 ajax_htmldata.php:778 ajax_htmldata.php:903
+#: ajax_htmldata.php:908
 msgid "Signatures"
 msgstr "Signatáři"
 
@@ -590,23 +580,21 @@ msgstr "Jméno signatáře"
 msgid "Date"
 msgstr "Datum"
 
-#: ajax_forms.php:409 ajax_htmldata.php:771 ajax_htmldata.php:776
-#: ajax_htmldata.php:901 ajax_htmldata.php:906 ajax_htmldata.php:1083
+#: ajax_forms.php:409 ajax_htmldata.php:771 ajax_htmldata.php:776 ajax_htmldata.php:901
+#: ajax_htmldata.php:906 ajax_htmldata.php:1083
 msgid "Type"
 msgstr "Typ"
 
 #: ajax_forms.php:444 ajax_forms.php:705
 msgid "commit update"
-msgstr "Uložit"
+msgstr "uložit"
 
-#: ajax_forms.php:457 ajax_forms.php:727 ajax_htmldata.php:141
-#: ajax_htmldata.php:234 ajax_htmldata.php:1150 ajax_htmldata.php:1229
-#: ajax_htmldata.php:1412
+#: ajax_forms.php:457 ajax_forms.php:727 ajax_htmldata.php:141 ajax_htmldata.php:234
+#: ajax_htmldata.php:1150 ajax_htmldata.php:1229 ajax_htmldata.php:1412
 msgid "edit"
-msgstr "Upravit"
+msgstr "upravit"
 
-#: ajax_forms.php:546 license.php:63 license.php:105 license.php:125
-#: license.php:144
+#: ajax_forms.php:546 license.php:63 license.php:105 license.php:125 license.php:144
 msgid "Expressions"
 msgstr "Úryvky"
 
@@ -620,7 +608,7 @@ msgstr "Typ úryvku:"
 
 #: ajax_forms.php:592
 msgid "add expression"
-msgstr "Přidat úryvek"
+msgstr "přidat úryvek"
 
 #: ajax_forms.php:599
 msgid "Qualifier:"
@@ -638,8 +626,7 @@ msgstr "Poznámky"
 msgid "For Document Text:"
 msgstr "Pro text dokumentu:"
 
-#: ajax_forms.php:789 license.php:65 license.php:107 license.php:127
-#: license.php:146
+#: ajax_forms.php:789 license.php:65 license.php:107 license.php:127 license.php:146
 msgid "Attachments"
 msgstr "Přílohy"
 
@@ -699,18 +686,15 @@ msgstr ""
 
 #: ajax_forms.php:919 ajax_forms.php:922
 msgid "Admin users have access to the Admin page and the SFX tab."
-msgstr ""
-"Administrátoři mají přístup ke stránce admina a tabulce SFX"
+msgstr "Administrátoři mají přístup ke stránce admina a tabulce SFX."
 
 #: ajax_forms.php:919 ajax_forms.php:922
 msgid "Restricted users do not have the ability to view documents"
 msgstr "Omezení uživatelé nemají možnost zobrazit si dokumenty"
 
 #: ajax_forms.php:919 ajax_forms.php:922
-msgid ""
-"View only users can view all license information, including the license pdf"
-msgstr ""
-"Prohlížející uživatelé si mohou zobrazit licence včetně souborů."
+msgid "View only users can view all license information, including the license pdf"
+msgstr "Prohlížející uživatelé si mohou zobrazit licence včetně souborů"
 
 #: ajax_forms.php:951
 msgid "Terms Tool Email"
@@ -718,16 +702,15 @@ msgstr "Terms tool e-mail"
 
 #: ajax_forms.php:954
 msgid ""
-"Enter email address if you wish this user to receive email notifications "
-"when the terms tool box is checked on the Expressions tab."
+"Enter email address if you wish this user to receive email notifications when the "
+"terms tool box is checked on the Expressions tab."
 msgstr ""
-"Vložte e-mail pokud si přejete, aby tento uživatel dostával upozornění,"
-"pokud je nastavena možnost Terms Tool na stránce Úryvků."
+"Vložte e-mail pokud si přejete, aby tento uživatel dostával upozornění,pokud je "
+"nastavena možnost Terms Tool na stránce Úryvků."
 
 #: ajax_forms.php:954
 msgid "Leave this field blank if the user shouldn't receive emails."
-msgstr ""
-"Nechte toto pole prázdné, pokud uživatel nemá dostávat informační e-maily."
+msgstr "Nechte toto pole prázdné, pokud uživatel nemá dostávat informační e-maily."
 
 #: ajax_forms.php:995 ajax_forms.php:996 ajax_htmldata.php:1324 index.php:180
 msgid "Expression Type"
@@ -757,8 +740,7 @@ msgstr "Upravit"
 msgid "Variable Name"
 msgstr "Název proměnné"
 
-#: ajax_forms.php:1043 ajax_forms.php:1073 ajax_forms.php:1104
-#: ajax_htmldata.php:1366
+#: ajax_forms.php:1043 ajax_forms.php:1073 ajax_forms.php:1104 ajax_htmldata.php:1366
 msgid "Value"
 msgstr "Hodnota"
 
@@ -781,15 +763,15 @@ msgstr " není nastaveno!"
 
 #: ajax_htmldata.php:50
 msgid "edit license"
-msgstr "Upravit licenci"
+msgstr "upravit licenci"
 
 #: ajax_htmldata.php:50
 msgid "remove license"
-msgstr "Odstranit licenci"
+msgstr "odstranit licenci"
 
 #: ajax_htmldata.php:61
 msgid "edit organization"
-msgstr "Upravit organizaci"
+msgstr "upravit organizaci"
 
 #: ajax_htmldata.php:78
 msgid "License Status:"
@@ -812,7 +794,7 @@ msgstr "(nenalezeno)"
 
 #: ajax_htmldata.php:159
 msgid "add new terms tool resource link"
-msgstr "Přidat nový link na terms tool resource"
+msgstr "přidat nový link na terms tool resource"
 
 #: ajax_htmldata.php:183
 msgid "Details"
@@ -832,11 +814,11 @@ msgstr "(není nahráno)"
 
 #: ajax_htmldata.php:228
 msgid "view attachment "
-msgstr "Zobrazit přílohu "
+msgstr "zobrazit přílohu "
 
 #: ajax_htmldata.php:249
 msgid "add new attachment"
-msgstr "Vložit přílohu"
+msgstr "vložit přílohu"
 
 #: ajax_htmldata.php:322
 msgid "Sorry, no licenses fit your query"
@@ -885,7 +867,7 @@ msgstr "zobrazit / upravit licence"
 
 #: ajax_htmldata.php:535
 msgid "view / edit "
-msgstr "Zobrazit / upravit "
+msgstr "zobrazit / upravit "
 
 #: ajax_htmldata.php:535 ajax_htmldata.php:1176
 msgid " notes"
@@ -894,11 +876,11 @@ msgstr " poznámky"
 #: ajax_htmldata.php:535 ajax_htmldata.php:537 ajax_htmldata.php:863
 #: ajax_htmldata.php:981
 msgid "view document"
-msgstr "Zobrazit dokument"
+msgstr "zobrazit dokument"
 
 #: ajax_htmldata.php:537 ajax_htmldata.php:639
 msgid "view license"
-msgstr "Zobrazit licence"
+msgstr "zobrazit licence"
 
 #: ajax_htmldata.php:547 ajax_htmldata.php:652 ajax_htmldata.php:1155
 #: ajax_htmldata.php:1157
@@ -936,7 +918,7 @@ msgstr "Datum účinnosti"
 
 #: ajax_htmldata.php:813 ajax_htmldata.php:933
 msgid "archived on: "
-msgstr "Archivováno: "
+msgstr "archivováno: "
 
 #: ajax_htmldata.php:836 ajax_htmldata.php:954
 msgid "(no date)"
@@ -952,15 +934,15 @@ msgstr "přidat subjekty"
 
 #: ajax_htmldata.php:870 ajax_htmldata.php:987
 msgid "view expressions"
-msgstr "Zobrazit úryvky"
+msgstr "zobrazit úryvky"
 
 #: ajax_htmldata.php:876 ajax_htmldata.php:993
 msgid "edit document"
-msgstr "Upravit dokument"
+msgstr "upravit dokument"
 
 #: ajax_htmldata.php:876 ajax_htmldata.php:993
 msgid "remove document"
-msgstr "Smazat dokument"
+msgstr "smazat dokument"
 
 #: ajax_htmldata.php:886 ajax_htmldata.php:888
 msgid "This document has "
@@ -972,7 +954,7 @@ msgstr " související dokumenty nezobrazeny."
 
 #: ajax_htmldata.php:886 ajax_htmldata.php:888
 msgid "show all documents for this parent"
-msgstr "Zobrazit všechny související dokumenty pro tento dokument"
+msgstr "zobrazit všechny související dokumenty pro tento dokument"
 
 #: ajax_htmldata.php:892 ajax_htmldata.php:894 ajax_htmldata.php:1002
 #: ajax_htmldata.php:1004
@@ -998,11 +980,11 @@ msgstr " dostupných archivovaných souborů."
 
 #: ajax_htmldata.php:1031
 msgid "show archives"
-msgstr "Zobrazit archivované"
+msgstr "zobrazit archivované"
 
 #: ajax_htmldata.php:1037
 msgid "upload new document"
-msgstr "Nahrát dokument"
+msgstr "nahrát dokument"
 
 #: ajax_htmldata.php:1125
 msgid "used in terms tool"
@@ -1014,11 +996,11 @@ msgstr "(žádný)"
 
 #: ajax_htmldata.php:1176
 msgid "add/view "
-msgstr "Přidat/zobrazit "
+msgstr "přidat/zobrazit "
 
 #: ajax_htmldata.php:1200
 msgid "add new expression"
-msgstr "Přidat úryvek"
+msgstr "přidat úryvek"
 
 #: ajax_htmldata.php:1267
 msgid "Terms Tool Update Email"
@@ -1061,10 +1043,8 @@ msgid "Expression Removed Successfully."
 msgstr "Úryvek úspěšně smazán."
 
 #: ajax_processing.php:335
-msgid ""
-"An expression in the licensing module has been approved for terms tool use."
-msgstr ""
-"Úryvek v licenčním modulu byl schválen do terms tool."
+msgid "An expression in the licensing module has been approved for terms tool use."
+msgstr "Úryvek v licenčním modulu byl schválen do terms tool."
 
 #: ajax_processing.php:336
 msgid "License:  "
@@ -1100,7 +1080,7 @@ msgstr "Poznámka úspěšně odstraněna."
 
 #: ajax_processing.php:452
 msgid "Terms Tool Resource Link successfully deleted"
-msgstr "Odkaz v Terms tool resource úspěšně smazán."
+msgstr "Odkaz v Terms tool resource úspěšně smazán"
 
 #: ajax_processing.php:468
 msgid "License Updated Successfully."
@@ -1112,12 +1092,11 @@ msgstr "Licence úspěšně přidána."
 
 #: ajax_processing.php:477
 msgid "Please continue to upload documents and add expressions or emails."
-msgstr ""
-"Pokračujte v nahrávání dokumentů a přidávání úryvků nebo e-mailů."
+msgstr "Pokračujte v nahrávání dokumentů a přidávání úryvků nebo e-mailů."
 
 #: ajax_processing.php:514 ajax_processing.php:527
 msgid "SQL Insert Failed."
-msgstr "Selhal SQL Insert"
+msgstr "Selhal SQL Insert."
 
 #: ajax_processing.php:514 ajax_processing.php:527
 msgid "Please make sure everything is filled out correctly."
@@ -1125,33 +1104,29 @@ msgstr "Prosíme zkontrolujte správnost vyplnění polí."
 
 #: ajax_processing.php:772
 msgid "Unable to delete  - this "
-msgstr "Nepodařilo se smazat - zdroj"
+msgstr "Nepodařilo se smazat - zdroj "
 
 #: ajax_processing.php:772
-msgid ""
-" is in use.  Please make sure no licenses are set up with this information."
-msgstr ""
-" je využíván. Zkontrolujte, že nejsou s touto informací spojeny žádné licence."
+msgid " is in use.  Please make sure no licenses are set up with this information."
+msgstr " je využíván. Zkontrolujte, že nejsou s touto informací spojeny žádné licence."
 
 #: ajax_processing.php:778
 msgid ""
-"Unable to delete.  Please make sure no licenses are set up with this "
-"information."
+"Unable to delete.  Please make sure no licenses are set up with this information."
 msgstr ""
-"Nepodařilo se smazat. Ujistěte se, že nejsou s touto informací spojeny "
-"žádné licence."
+"Nepodařilo se smazat. Ujistěte se, že nejsou s touto informací spojeny žádné licence."
 
 #: ajax_processing.php:1027
 msgid "Attachment successfully deleted"
-msgstr "Příloha úspěšně smazána."
+msgstr "Příloha úspěšně smazána"
 
 #: ajax_processing.php:1041
 msgid "Attachment file successfully deleted"
-msgstr "Soubor přílohy úspěšně smazán."
+msgstr "Soubor přílohy úspěšně smazán"
 
 #: ajax_processing.php:1062
 msgid "Status has been updated"
-msgstr "Stav byl změněn."
+msgstr "Stav byl změněn"
 
 #: calendar.php:21 in_progress.php:23 index.php:23 templates/header.php:181
 #: templates/header.php:236 templates/header.php:284
@@ -1177,15 +1152,13 @@ msgstr "Nepodařilo se vyhledat databázi informačních zdrojů."
 
 #: calendar.php:49
 msgid ""
-"There was an error with the CalendarSettings Table please verify the table "
-"has been created."
-msgstr ""
-"Nastala chyba v tabulce CalendarSettings. Ověřte, zda byla tabulka vytvořena"
+"There was an error with the CalendarSettings Table please verify the table has been "
+"created."
+msgstr "Nastala chyba v tabulce CalendarSettings. Ověřte, zda byla tabulka vytvořena."
 
 #: calendar.php:90
 msgid "There was an error with the CalendarSettings Configuration."
-msgstr ""
-"Nastala chyba v nastavení CalendarSettings."
+msgstr "Nastala chyba v nastavení CalendarSettings."
 
 #: calendar.php:115 calendar.php:152
 msgid "Bad Query Failure"
@@ -1201,7 +1174,7 @@ msgstr "Žádné dostupné asociované licence."
 
 #: calendar.php:216
 msgid "Expired "
-msgstr "Vypršela před"
+msgstr "Vypršela před "
 
 #: calendar.php:216
 msgid " days ago"
@@ -1221,7 +1194,7 @@ msgstr " dnů "
 
 #: calendar.php:234
 msgid "Participants:  "
-msgstr "Účastníci :"
+msgstr "Účastníci: "
 
 #: compare.php:22 templates/header.php:202 templates/header.php:257
 #: templates/header.php:305
@@ -1246,7 +1219,7 @@ msgstr "Hledat"
 
 #: index.php:49 index.php:238
 msgid "new search"
-msgstr "Nové hledání"
+msgstr "nové hledání"
 
 #: index.php:58
 msgid "Name (contains)"
@@ -1286,7 +1259,7 @@ msgstr "Další odkazy"
 
 #: license.php:87
 msgid "Send feedback on this resource"
-msgstr "Zaslat odezvu na tento informační zdroj."
+msgstr "Zaslat odezvu na tento informační zdroj"
 
 #: not_available.php:21
 msgid "Not Available"
@@ -1294,8 +1267,7 @@ msgstr "Není k dispozici"
 
 #: not_available.php:66
 msgid "Please contact your Administrator for access to the Licensing Module."
-msgstr ""
-"Kontaktujte administrátora pro udělení přístupu do modulu licencí."
+msgstr "Kontaktujte administrátora pro udělení přístupu do modulu licencí."
 
 #: onix_import.php:14 onix_import.php:17
 msgid "ONIX-PL Import"
@@ -1382,23 +1354,21 @@ msgid "Report an issue"
 msgstr "Nahlásit problém"
 
 #: templates/header.php:35
-msgid ""
-"Both license name and organization must be filled out.  Please try again."
-msgstr ""
-"Musí být vyplněny jméno licence a organizace. Zkuste to znovu."
+msgid "Both license name and organization must be filled out.  Please try again."
+msgstr "Musí být vyplněny jméno licence a organizace. Zkuste to znovu."
 
 #: templates/header.php:85
 msgid ""
 "JavaScript must be enabled in order for you to use CORAL. However, it seems "
-"JavaScript is either disabled or not supported by your browser. To use "
-"CORAL, enable JavaScript by changing your browser options, then "
+"JavaScript is either disabled or not supported by your browser. To use CORAL, enable "
+"JavaScript by changing your browser options, then "
 msgstr ""
-"Pro práci se systémem musíte mít zapnutý JavaScript. Prosím zapněte si "
-"JavaScript ve svém prohlížeči a "
+"Pro práci se systémem musíte mít zapnutý JavaScript. Prosím zapněte si JavaScript ve "
+"svém prohlížeči a "
 
 #: templates/header.php:85
 msgid "try again"
-msgstr "zkuste akci znovu."
+msgstr "zkuste akci znovu"
 
 #: templates/header.php:107
 msgid "Licensing"
@@ -1414,7 +1384,7 @@ msgstr "Dobrý den"
 
 #: templates/header.php:124
 msgid "logout"
-msgstr "Odhlásit se"
+msgstr "odhlásit se"
 
 #: templates/header.php:124
 msgid "Help"
