@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "POT-Creation-Date: 2016-11-21 11:05-0700\n"
-"PO-Revision-Date: 2016-11-21 11:05-0700\n"
-"Last-Translator: <>\n"
+"PO-Revision-Date: 2017-08-03 14:44+0200\n"
+"Last-Translator: Dominik Bláha <blaha.dominik@gmail.com>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -12,544 +12,541 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.3\n"
 "X-Poedit-KeywordsList: watchString\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: js/admin.js:493
 msgid "Number of days must be a number"
-msgstr "Le nombre de jours doit être un chiffre"
+msgstr "Počet dnů musí být číslo"
 
 #: js/admin.js:496
 msgid "Number of days should be between 1 and 365"
-msgstr "Le nombre de jours doit être compris entre 1 et 365"
+msgstr "Počet dnů musí být mezi 1 a 365"
 
 #: js/admin.js:516
 msgid "Do you really want to delete this data?"
-msgstr "Voulez-vous vraiment supprimer ces données ?"
+msgstr "Opravdu si přejete smazat tato data?"
 
 #: js/admin.js:543 js/admin.js:571 js/admin.js:599 js/admin.js:682
 msgid "Do you really want to remove this data?"
-msgstr "Voulez-vous vraiment retirer ces données ?"
+msgstr "Opravdu si přejete smazat tato data?"
 
 #: js/admin.js:627
 msgid "Do you really want to delete this user?"
-msgstr "Voulez-vous vraiment supprimer cet utilisateur ?"
+msgstr "Opravdu si přejete smazat tohoto uživatele?"
 
 #: js/admin.js:654
 msgid "Do you really want to remove this alert setting?"
-msgstr "Voulez-vous vraiment effacer ce paramètre d'alerte ?"
+msgstr "Opravdu si přejete smazat toto nastavení alertu?"
 
 #: js/admin.js:710
 msgid "Do you really want to delete this currency?"
-msgstr "Voulez-vous vraiment supprimer cette devise monétaire ?"
+msgstr "Opravdu si přejete smazat tuto měnu?"
 
 #: js/common.js:70
 msgid "No match!"
-msgstr "Aucune correspondance !"
+msgstr "Nenalezena shoda!"
 
 #: js/common.js:70
 msgid "Selected: "
-msgstr "Sélectionné : "
+msgstr "Vybráno: "
 
 #: js/forms/acquisitionsForm.js:123 js/forms/costForm.js:329
 msgid "Error - Either amount or fund is required"
-msgstr "Erreur - un fond ou un montant est obligatoire"
+msgstr "Chyba - zadejte buď částku nebo fond"
 
 #: js/forms/acquisitionsForm.js:126 js/forms/costForm.js:334
 msgid "Error - order type is a required field"
-msgstr "Erreur - Type de commande est un champ obligatoire"
+msgstr "Chyba - zadejte typ objednávky"
 
 #: js/forms/acquisitionsForm.js:129 js/forms/costForm.js:339
 msgid "Error - price is not numeric"
-msgstr "Erreur -  le prix n'est pas un chiffre"
+msgstr "Chyba - cena není číslo"
 
 #: js/forms/acquisitionsForm.js:147 js/forms/acquisitionsForm.js:148
 #: js/forms/costForm.js:144
 msgid "remove this payment"
-msgstr "Supprimer ce paiement"
+msgstr "smazat tuto platbu"
 
 #: js/forms/acquisitionsForm.js:232
 msgid "Error - acquisition type is a required field"
-msgstr "Erreur - Type d'acquisition est un champ obligatoire"
+msgstr "Chyba - vyplňte typ akvizice"
 
 #: js/forms/attachmentForm.js:94
 msgid "File name is already being used..."
-msgstr "Le nom du fichier est déjà utilisé..."
+msgstr "Název souboru je už využit..."
 
 #: js/forms/attachmentForm.js:98
 msgid ""
 "File name may not contain special characters - ampersand, single quote, "
 "double quote or less than/greater than characters"
-msgstr ""
-"Le nom du fichier ne peut contenir de caractères spéciaux (\"et\" "
-"commercial, apostrophe, guillemets ou de signes plus grand que/moins que)."
+msgstr "Název souboru nesmí obsahovat speciální znaky - &, uvozovky, < a >"
 
 #: js/forms/attachmentForm.js:102
 msgid "The attachments directory is not writable."
-msgstr "Le dossier des pièces jointes n'a pas de droits d'écriture."
+msgstr "Nelze zapisovat do složky s přílohami."
 
 #: js/forms/attachmentForm.js:124 js/forms/attachmentForm.js:146
 msgid " successfully uploaded."
-msgstr " téléchargé avec succès."
+msgstr " úspěšně nahrán."
 
 #: js/forms/attachmentForm.js:159 js/forms/resourceUpdateForm.js:378
 msgid "Name must be entered to continue."
-msgstr "Le nom doit être entré avant de continuer."
+msgstr "Pro pokračování zadejte název."
 
 #: js/forms/attachmentForm.js:160
 msgid "Attachment Type must be selected to continue."
-msgstr "Le type de pièce jointe doit être sélectionné avant de continuer."
+msgstr "Pro pokračování vyberte typ přílohy."
 
 #: js/forms/attachmentForm.js:178
 msgid "A file must be uploaded"
-msgstr "Un fichier doit être téléchargé"
+msgstr "Musíte nahrát soubor"
 
 #: js/forms/contactForm.js:179
 msgid "Please choose at least one role."
-msgstr "Sélectionnez au moins un rôle."
+msgstr "Vyberte alespoň jednu roli."
 
 #: js/forms/costForm.js:301
 msgid "Validation Failed"
-msgstr "Echec de la validation"
+msgstr "Chyba validace"
 
 #: js/forms/detailedSubjectForm.js:60 js/forms/generalSubjectForm.js:59
 msgid "Error - Please enter a value"
-msgstr "Erreur - Entrez une valeur"
+msgstr "Chyba - zadejte hodnotu"
 
 #: js/forms/generalDetailSubjectForm.js:87
 msgid "Error - Detailed Subject is required"
-msgstr "Erreur - Le sujet détaillé est obligatoire"
+msgstr "Chyba - vyplňte podobor"
 
 #: js/forms/generalDetailSubjectForm.js:108
 #: js/forms/generalDetailSubjectForm.js:109
 msgid "Error - Detail Subject Already Added"
-msgstr "Erreur - Le sujet détaillé est déjà ajouté"
+msgstr "Chyba - podobor už existuje"
 
 #: js/forms/generalDetailSubjectForm.js:133
 #: ajax_forms/getGeneralDetailSubjectForm.php:107
 msgid "remove detailed subject"
-msgstr "Supprimer un sujet spécifique"
+msgstr "odstranit podobor"
 
 #: js/forms/generalDetailSubjectForm.js:175
 msgid "Short Name must be entered to continue."
-msgstr "Un Nom court doit être entré pour continuer."
+msgstr "Pro pokračování zadejte Krátký název."
 
 #: js/forms/licenseForm.js:140 js/forms/licenseForm.js:251
 msgid "Error - Please choose a valid license"
-msgstr "Erreur - Sélectionnez une licence valide"
+msgstr "Chyba - vyberte licenci"
 
 #: js/forms/licenseForm.js:153
 msgid "remove this license"
-msgstr "Supprimer cette licence"
+msgstr "odstranit licenci"
 
 #: js/forms/resourceNewForm.js:99
 msgid "Warning: this name already exists."
-msgstr "Attention : le nom existe déjà."
+msgstr "Varování: tento název už je používán."
 
 #: js/forms/resourceNewForm.js:227
 msgid "A title must be entered to continue."
-msgstr "Un titre doit être entré avant de continuer."
+msgstr "Pro pokračování musíte zvolit titulek."
 
 #: js/forms/resourceNewForm.js:232
 msgid "The resource format is required."
-msgstr "Le format de la ressource est obligatoire."
+msgstr "Vyberte formát zdroje."
 
 #: js/forms/resourceNewForm.js:237
 msgid "The resource type is required."
-msgstr "Le type de ressource est obligatoire."
+msgstr "Zadejte typ zdroje."
 
 #: js/forms/resourceNoteForm.js:34
 msgid "Note must be entered to continue."
-msgstr "La remarque doit être entrée avant de continuer."
+msgstr "Pro pokračování zadejte poznámku."
 
 #: js/forms/resourceUpdateForm.js:90
 msgid "Error - Parent cannot be the same as the child"
-msgstr "Erreur - Le principal et le subsidiaire ne doivent pas être identiques"
+msgstr "Chyba - nadřazený zdroj nemůže být zároveň dceřinným"
 
 #: js/forms/resourceUpdateForm.js:223 js/forms/resourceUpdateForm.js:307
 #: js/forms/resourceUpdateForm.js:392 js/forms/resourceUpdateForm.js:403
 msgid "Error - Both fields are required"
-msgstr "Erreur -  Les deux champs sont obligatoires"
+msgstr "Chyba - obě pole jsou povinná"
 
 #: js/forms/resourceUpdateForm.js:236 ajax_forms/getUpdateProductForm.php:400
 msgid "remove this alias"
-msgstr "Supprimer cet alias"
+msgstr "odstranit zkratku"
 
 #: js/forms/resourceUpdateForm.js:263 ajax_forms/getUpdateProductForm.php:164
 msgid "remove Issn/Isbn"
-msgstr "Supprimer Issn/Isbn"
+msgstr "odstranit ISSN / ISBN"
 
 #: js/forms/resourceUpdateForm.js:282
 msgid "Error - Parent is not found.  Please use the Autocomplete."
 msgstr ""
-"Erreur - Elément principal non-trouvé. Utilisez l'option d'auto-complétion."
+"Chyba - nadřazený zdroj nenalezen. Začněte psát znovu a počkejte na nápovědu "
+"u pole."
 
 #: js/forms/resourceUpdateForm.js:291 ajax_forms/getUpdateProductForm.php:137
 msgid "remove parent"
-msgstr "Supprimer une ressource principale"
+msgstr "odstranit nadřazený zdroj"
 
 #: js/forms/resourceUpdateForm.js:309
 msgid "Error - Organization is not found.  Please use the Autocomplete."
-msgstr "Erreur - Organisation non-trouvée. Utilisez l’auto-complétion."
+msgstr ""
+"Chyba - Organizace nenalezena. Začněte psát znovu a počkejte na nápovědu u "
+"pole."
 
 #: js/forms/resourceUpdateForm.js:324
 msgid "remove this organization"
-msgstr "Supprimer cette organisation"
+msgstr "odstranit organizaci"
 
 #: js/forms/resourceUpdateForm.js:394
 msgid "Error - Organization is not found.  Please use Autocomplete."
-msgstr "Erreur - Organisation non-trouvée. Utilisez l’auto-complétion."
+msgstr ""
+"Chyba - Organizace nenalezena. Začněte psát znovu a počkejte na nápovědu u "
+"pole."
 
 #: js/forms/userGroupForm.js:101
 msgid "Error - User is required"
-msgstr "Erreur - l'utilisateur est obligatoire"
+msgstr "Chyba - zadejte uživatele"
 
 #: js/forms/userGroupForm.js:117 ajax_forms/getAdminUserGroupForm.php:121
 msgid "remove user from group"
-msgstr "Retirer un utilisateur du groupe"
+msgstr "odstranit uživatele ze skupiny"
 
 #: js/forms/userGroupForm.js:118
 msgid "remove from group"
-msgstr "Retirer du groupe"
+msgstr "odstranit ze skupiny"
 
 #: js/forms/userGroupForm.js:163
 msgid "Group name must be entered to continue."
-msgstr "Le nom du groupe doit être entré avant de continuer."
+msgstr "Pro pokračování zadejte název skupiny."
 
 #: js/forms/workflowForm.js:185
 msgid "Error - Step name is required"
-msgstr "Erreur - Le nom de l'étape est obligatoire"
+msgstr "Chyba - zadejte název kroku"
 
 #: js/forms/workflowForm.js:201 js/forms/workflowForm.js:202
 #: ajax_forms/getAdminWorkflowForm.php:238
 msgid "remove this step"
-msgstr "Supprimer cette étape"
+msgstr "odstranit krok"
 
 #: js/forms/workflowForm.js:373
 msgid "Please add at least one step to this workflow."
-msgstr "Veuillez ajouter au moins une étape à ce workflow."
+msgstr "Zadejte alespoň jeden krok to tohoto procesu."
 
 #: js/forms/workflowForm.js:379
 msgid ""
 "Please click the Add button to the first step before submitting this "
 "workflow."
-msgstr ""
-"Cliquez sur le bouton Ajouter de la première étape avant de valider ce "
-"workflow."
+msgstr "Před odesláním klikněte na tlačítko Přidat pro přidání kroku."
 
 #: js/index.js:100
 msgid "Processing..."
-msgstr "Traitement en cours..."
+msgstr "Zpracovávám..."
 
 #: js/index.js:202 index.php:345
 msgid "more options..."
-msgstr "Plus d'options..."
+msgstr "více možností..."
 
 #: js/plugins/date.js:30
 msgid "Sunday"
-msgstr "Dimanche"
+msgstr "Neděle"
 
 #: js/plugins/date.js:30
 msgid "Monday"
-msgstr "Lundi"
+msgstr "Pondělí"
 
 #: js/plugins/date.js:30
 msgid "Tuesday"
-msgstr "Mardi"
+msgstr "Úterý"
 
 #: js/plugins/date.js:30
 msgid "Wednesday"
-msgstr "Mercredi"
+msgstr "Středa"
 
 #: js/plugins/date.js:30
 msgid "Thursday"
-msgstr "Jeudi"
+msgstr "Čtvrtek"
 
 #: js/plugins/date.js:30
 msgid "Friday"
-msgstr "Vendredi"
+msgstr "Pátek"
 
 #: js/plugins/date.js:30
 msgid "Saturday"
-msgstr "Samedi"
+msgstr "Sobota"
 
 #: js/plugins/date.js:42
 msgid "Sun"
-msgstr "Dim"
+msgstr "Ne"
 
 #: js/plugins/date.js:42
 msgid "Mon"
-msgstr "Lun"
+msgstr "Po"
 
 #: js/plugins/date.js:42
 msgid "Tue"
-msgstr "Mar"
+msgstr "Út"
 
 #: js/plugins/date.js:42
 msgid "Wed"
-msgstr "Mer"
+msgstr "St"
 
 #: js/plugins/date.js:42
 msgid "Thu"
-msgstr "Jeu"
+msgstr "Čt"
 
 #: js/plugins/date.js:42
 msgid "Fri"
-msgstr "Ven"
+msgstr "Pá"
 
 #: js/plugins/date.js:42
 msgid "Sat"
-msgstr "Sam"
+msgstr "So"
 
 #: js/plugins/date.js:54
 msgid "January"
-msgstr "Janvier"
+msgstr "Leden"
 
 #: js/plugins/date.js:54
 msgid "February"
-msgstr "Février"
+msgstr "Únor"
 
 #: js/plugins/date.js:54
 msgid "March"
-msgstr "Mars"
+msgstr "Březen"
 
 #: js/plugins/date.js:54
 msgid "April"
-msgstr "Avril"
+msgstr "Duben"
 
 #: js/plugins/date.js:54 js/plugins/date.js:66
 msgid "May"
-msgstr "Mai"
+msgstr "Květen"
 
 #: js/plugins/date.js:54
 msgid "June"
-msgstr "Juin"
+msgstr "Červen"
 
 #: js/plugins/date.js:54
 msgid "July"
-msgstr "Juillet"
+msgstr "Červenec"
 
 #: js/plugins/date.js:54
 msgid "August"
-msgstr "Août"
+msgstr "Srpen"
 
 #: js/plugins/date.js:54
 msgid "September"
-msgstr "Septembre"
+msgstr "Září"
 
 #: js/plugins/date.js:54
 msgid "October"
-msgstr "Octobre"
+msgstr "Říjen"
 
 #: js/plugins/date.js:54
 msgid "November"
-msgstr "Novembre"
+msgstr "Listopad"
 
 #: js/plugins/date.js:54
 msgid "December"
-msgstr "Décembre"
+msgstr "Prosinec"
 
 #: js/plugins/date.js:66
 msgid "Jan"
-msgstr "Jan"
+msgstr "Led"
 
 #: js/plugins/date.js:66
 msgid "Feb"
-msgstr "Fév"
+msgstr "Úno"
 
 #: js/plugins/date.js:66
 msgid "Mar"
-msgstr "Mar"
+msgstr "Bře"
 
 #: js/plugins/date.js:66
 msgid "Apr"
-msgstr "Avr"
+msgstr "Dub"
 
 #: js/plugins/date.js:66
 msgid "Jun"
-msgstr "Jui"
+msgstr "Čvn"
 
 #: js/plugins/date.js:66
 msgid "Jul"
-msgstr "Juil"
+msgstr "Čvc"
 
 #: js/plugins/date.js:66
 msgid "Aug"
-msgstr "Aoû"
+msgstr "Srp"
 
 #: js/plugins/date.js:66
 msgid "Sep"
-msgstr "Sep"
+msgstr "Zář"
 
 #: js/plugins/date.js:66
 msgid "Oct"
-msgstr "Oct"
+msgstr "Říj"
 
 #: js/plugins/date.js:66
 msgid "Nov"
-msgstr "Nov"
+msgstr "Lis"
 
 #: js/plugins/date.js:66
 msgid "Dec"
-msgstr "Déc"
+msgstr "Pro"
 
 #: js/plugins/jquery.datePicker.js:1129
 msgid "Previous year"
-msgstr "Année précédente"
+msgstr "Předchozí rok"
 
 #: js/plugins/jquery.datePicker.js:1130
 msgid "Previous month"
-msgstr "Mois précédent"
+msgstr "Předchozí měsíc"
 
 #: js/plugins/jquery.datePicker.js:1131
 msgid "Next year"
-msgstr "Année suivante"
+msgstr "Následující rok"
 
 #: js/plugins/jquery.datePicker.js:1132
 msgid "Next month"
-msgstr "Mois suivant"
+msgstr "Následující měsíc"
 
 #: js/plugins/jquery.datePicker.js:1133
 msgid "Close"
-msgstr "Fermer"
+msgstr "Zavřít"
 
 #: js/plugins/jquery.datePicker.js:1134
 msgid "Choose date"
-msgstr "Sélectionnez une date"
+msgstr "Vyberte datum"
 
 #: js/queue.js:55 js/queue.js:89 js/queue.js:123 js/queue.js:155
 msgid "Refreshing..."
-msgstr "Actualisation des contenus en cours..."
+msgstr "Obnovuji..."
 
 #: js/queue.js:153
 msgid "Do you really want to delete this request?"
-msgstr "Voulez-vous vraiment supprimer cette demande ?"
+msgstr "Opravdu si přejete smazat tento požadavek?"
 
 #: js/queue.js:193 js/queue.js:214 js/queue.js:235 js/resource.js:653
 msgid " record)"
-msgstr " fiche)"
+msgstr " záznam)"
 
 #: js/queue.js:195 js/queue.js:216 js/queue.js:237 js/resource.js:655
 msgid " records)"
-msgstr " fiches)"
+msgstr " záznamy)"
 
 #: js/resource.js:93
 msgid "Must set a date."
-msgstr "Indiquez une date."
+msgstr "Musíte nastavit datum."
 
 #: js/resource.js:119
 msgid "Must set an end date."
-msgstr "Indiquez une date de fin."
+msgstr "Musíte nastavit koncové datum."
 
 #: js/resource.js:173
 msgid "New contact must have a name."
-msgstr "Le nouveau contact doit avoir un nom."
+msgstr "Nový kontakt musí mí vyplněno jméno."
 
 #: js/resource.js:180 js/resource.js:222
 msgid "CC must be a valid email."
-msgstr "CC doit être une adresse email valide."
+msgstr "CC musí být e-mail."
 
 #: js/resource.js:376 js/resource.js:701
 msgid "Refreshing Contents..."
-msgstr "Rechargement des contenus..."
+msgstr "Obnovuji obsah..."
 
 #: js/resource.js:469
 msgid ""
 "Opening an issue requires a resource to be associated with an organization. "
 "Please contact your IT department."
 msgstr ""
-"Signaler un incident nécessite d'associer une ressource à une organisation. "
-"Veuillez contacter votre service informatique."
+"Pro otevření nového problému musí být inf. zdroj propojený s organizací. "
+"Kontaktujte administrátora."
 
 #: js/resource.js:474
 msgid "A contact must be selected to continue."
-msgstr "Sélectionnez un contact pour continuer."
+msgstr "Pro pokračování vyberte kontakt."
 
 #: js/resource.js:479
 msgid "A subject must be entered to continue."
-msgstr "Entrez un objet pour continuer."
+msgstr "Pro pokračování zadejte obor."
 
 #: js/resource.js:484
 msgid "A body must be entered to continue."
-msgstr "Saisissez du texte dans le message pour continuer."
+msgstr "Pro pokračování vyplňte text problému."
 
 #: js/resource.js:497
 msgid "An issue must be associated with an organization or resource(s)."
-msgstr ""
-"Un incident doit être associé à une organisation ou à une/des ressource(s)."
+msgstr "Problém musí být propojen s organizací nebo inf. zdrojem."
 
 #: js/resource.js:741
 msgid "Do you really want to delete this contact?"
-msgstr "Voulez-vous vraiment supprimer ce contact ?"
+msgstr "Opravdu si přejete smazat tento kontakt?"
 
 #: js/resource.js:759
 msgid "Do you really want to delete this account?"
-msgstr "Voulez-vous vraiment supprimer ce compte ?"
+msgstr "Opravdu si přejete smazat tento účet?"
 
 #: js/resource.js:777
 msgid "Do you really want to delete this attachment?"
-msgstr "Voulez-vous vraiment supprimer cette pièce jointe ?"
+msgstr "Opravdu si přejete smazat tuto přílohu?"
 
 #: js/resource.js:797
 msgid "Do you really want to delete this resource?"
-msgstr "Voulez-vous vraiment supprimer cette ressource ?"
+msgstr "Opravdu si přejete smazat tento zdroj?"
 
 #: js/resource.js:815
 msgid "Do you really want to delete this resource and all its children?"
-msgstr ""
-"Voulez-vous vraiment supprimer cette ressource et tous ses ressources "
-"subsidiaires ?"
+msgstr "Opravdu si přejete smazat tento zdroj a jeho dceřinné zdroje?"
 
 #: js/resource.js:836
 msgid "Do you really want to remove this Subject?"
-msgstr "Voulez-vous vraiment supprimer ce Sujet ?"
+msgstr "Opravdu si přejete smazat tento obor?"
 
 #: js/resource.js:854
 msgid "Do you really want to delete this note?"
-msgstr "Voulez-vous vraiment supprimer cette remarque ?"
+msgstr "Opravdu si přejete smazat tuto poznámku?"
 
 #: js/resource.js:896
 msgid ""
 "Warning!  You are about to remove any steps that have been started and "
 "completed.  Are you sure you wish to continue?"
 msgstr ""
-"Attention ! Vous êtes sur le point de supprimer toutes les étapes qui ont "
-"été commencées et terminées. Êtes-vous sûr  de vouloir continuer ?"
+"Varování! Chystáte se smazat všechny kroky, které byly dokončeny. Opravdu si "
+"přejete pokračovat?"
 
 #: js/resource.js:913
 msgid ""
 "Do you really want to mark this resource complete?  This action cannot be "
 "undone."
 msgstr ""
-"Êtes-vous sûr de vouloir marquer cette ressource comme Terminée ? Cette "
-"action ne peut être annulée."
+"Opravdu si přejete označit tento zdroj za hotový? Tato akce nemůže být "
+"vrácena."
 
 #: js/resource.js:927
 msgid ""
 "Do you really want to delete this step? If other steps depended on this one, "
 "they will be started upon deletion. This action cannot be undone"
 msgstr ""
-"Voulez-vous vraiment supprimer cette étape? Si d'autres étapes en dépendent, "
-"elles seront recommencées lors de la suppression. Cette opération est "
-"définitive."
+"Opravdu si přejete smazat tento krok? Pokud na tomto kroku závisely další "
+"kroky, budou po smazání započaty. Tato akce nemůže být vrácena"
 
 #: admin.php:22 admin.php:40
 msgid "Administration"
-msgstr "Administration"
+msgstr "Administrace"
 
 #: admin.php:51 ajax_htmldata/getAdminUserDisplay.php:19
 #: ajax_htmldata/getAdminWorkflowDisplay.php:74
 msgid "Users"
-msgstr "Utilisateurs/usagers"
+msgstr "Uživatelé"
 
 #: admin.php:52
 msgid "Workflow / User Group"
-msgstr "Workflow / Groupe d'utilisateurs"
+msgstr "Proces / Uživatelská skupina"
 
 #: admin.php:53
 msgid "Access Method"
-msgstr "Mèthode d'accès"
+msgstr "Způsob přístupu"
 
 #: admin.php:54 ajax_forms/getNewResourceForm.php:176
 #: ajax_htmldata/getAdminWorkflowDisplay.php:16
@@ -557,331 +554,330 @@ msgstr "Mèthode d'accès"
 #: ajax_htmldata/getSearchResources.php:117
 #: ajax_htmldata/getSubmittedQueue.php:17 index.php:115
 msgid "Acquisition Type"
-msgstr "Type d'acquisition"
+msgstr "Typ akvizice"
 
 #: admin.php:55 index.php:472
 msgid "Administering Site"
-msgstr "Site gérant"
+msgstr "Spravující oddělení"
 
 #: admin.php:57 ajax_htmldata/getAdminAlertDisplay.php:10
 msgid "Alert Settings"
-msgstr "Configuration des messages"
+msgstr "Nastavení upozornění"
 
 #: admin.php:59 ajax_forms/getImportConfigForm.php:57
 #: ajax_forms/getImportConfigForm.php:71 ajax_forms/getImportConfigForm.php:247
 msgid "Alias Type"
-msgstr "Type d'alias"
+msgstr "Typ zkratky"
 
 #: admin.php:60
 msgid "Attachment Type"
-msgstr "Type de pièce jointe"
+msgstr "Typ přílohy"
 
 #: admin.php:61 index.php:502
 msgid "Authentication Type"
-msgstr "Type d'authentification"
+msgstr "Typ autentizace uživatelů"
 
 #: admin.php:62 index.php:440
 msgid "Authorized Site"
-msgstr "Site autorisé"
+msgstr "Přístup z"
 
 #: admin.php:63 index.php:532 resources/cataloging_edit.php:55
 msgid "Cataloging Status"
-msgstr "Statut de catalogage"
+msgstr "Stav katalogizace"
 
 #: admin.php:64 resources/cataloging_edit.php:48
 msgid "Cataloging Type"
-msgstr "Type de catalogage"
+msgstr "Typ katalogizace"
 
 #: admin.php:65
 msgid "Contact Role"
-msgstr "Rôle du contact"
+msgstr "Kontaktní role"
 
 #: admin.php:67 ajax_forms/getCostForm.php:81
 msgid "Cost Details"
-msgstr "Détails du prix"
+msgstr "Detaily o platbě"
 
 #: admin.php:69 ajax_forms/getCostForm.php:78
 #: ajax_htmldata/getAdminCurrencyDisplay.php:8
 msgid "Currency"
-msgstr "Devise monétaire"
+msgstr "Měna"
 
 #: admin.php:70
 msgid "Downtime Type"
-msgstr "Type d'indisponibilité du système"
+msgstr "Typ výpadku"
 
 #: admin.php:71
 msgid "External Login Type"
-msgstr "Type de connexion externe"
+msgstr "Typ externího loginu"
 
 #: admin.php:72
 msgid "Funds"
-msgstr "Fonds"
+msgstr "Finanční zdroje"
 
 #: admin.php:73 ajax_htmldata/getAdminImportConfigDisplay.php:7
 msgid "Import Configuration"
-msgstr "Importer une configuration"
+msgstr "Konfigurace importu"
 
 #: admin.php:74
 msgid "License Status"
-msgstr "Statut de licence"
+msgstr "Stav licence"
 
 #: admin.php:75 ajax_forms/getImportConfigForm.php:149
 #: ajax_forms/getImportConfigForm.php:163
 #: ajax_forms/getImportConfigForm.php:271 index.php:350
 msgid "Note Type"
-msgstr "Type de remarque"
+msgstr "Typ poznámky"
 
 #: admin.php:76
 msgid "Order Type"
-msgstr "Type de commande"
+msgstr "Typ objednávky"
 
 #: admin.php:83 ajax_forms/getImportConfigForm.php:184
 #: ajax_forms/getImportConfigForm.php:196
 #: ajax_forms/getImportConfigForm.php:277
 msgid "Organization Role"
-msgstr "Rôle de l'organisation"
+msgstr "Role v organizaci"
 
 #: admin.php:84 templates/header.php:225
 msgid "Organizations"
-msgstr "Organisations"
+msgstr "Organizace"
 
 #: admin.php:88
 msgid "Purchasing Site"
-msgstr "Site achetant"
+msgstr "Nakupující oddělení"
 
 #: admin.php:89 ajax_forms/getImportConfigForm.php:49
 #: ajax_htmldata/getAdminWorkflowDisplay.php:17 index.php:201
 msgid "Resource Format"
-msgstr "Format de la ressource"
+msgstr "Formát zdroje"
 
 #: admin.php:90 ajax_forms/getImportConfigForm.php:50
 #: ajax_forms/getNewResourceForm.php:223
 #: ajax_htmldata/getAdminWorkflowDisplay.php:18 index.php:225
 msgid "Resource Type"
-msgstr "Type de ressource"
+msgstr "Typ zdroje"
 
 #: admin.php:91
 msgid "Storage Location"
-msgstr "Lieu de stockage"
+msgstr "Lokace uložení"
 
 #: admin.php:92 ajax_htmldata/getProductDetails.php:322
 msgid "Subjects"
-msgstr "Sujets"
+msgstr "Obory"
 
 #: admin.php:93
 msgid "User Limit"
-msgstr "Limite d'utilisateurs"
+msgstr "Limit uživatelů"
 
 #: admin.php:98 queue.php:59
 msgid "Loading..."
-msgstr "Chargement en cours..."
+msgstr "Načítám..."
 
 #: admin.php:121
 msgid "You do not have permissions to access this screen."
-msgstr ""
-"Vous n'avez pas les autorisations nécessaires pour accéder à cette page."
+msgstr "Nemáte oprávnění k načtení této stránky."
 
 #: admin/classes/common/DBService.php:39
 msgid "There was a problem with the database: "
-msgstr "Problème avec la base de données : "
+msgstr "Nastal problém s databází: "
 
 #: admin/classes/common/LdapPerson.php:34
 msgid "Could not connect to "
-msgstr "Impossible de se connecter à "
+msgstr "Nepodařilo se připojit k "
 
 #: admin/classes/common/Object.php:63 admin/classes/common/Object.php:72
 msgid "Cannot set value for undefined key ("
-msgstr "Impossible d'assigner une valeur pour la clé indéfinie ("
+msgstr "Nelze nastavit hodnotu pro neznámý klíč ("
 
 #: admin/classes/common/Utility.php:121
 msgid "Error: unexpected fgets() fail"
-msgstr "Erreur : échec inattendu de fgets()"
+msgstr "Chyba: neočekávaná chyba fgets()"
 
 #: admin/classes/common/Utility.php:133
 msgid "Edit DDW facet/term selections at: "
-msgstr "Modifier les sélections de facettes DDW /termes à : "
+msgstr "Upravit výběr DDW fasety / termínu na: "
 
 #: admin/classes/common/Utility.php:148
 msgid "Email template file not found: "
-msgstr "Fichier du modèle d'email non-trouvé : "
+msgstr "Nenalezena šablona pro e-mail: "
 
 #: admin/classes/domain/Resource.php:860
 msgid "Name contains: "
-msgstr "Nom contient : "
+msgstr "Název obsahuje: "
 
 #: admin/classes/domain/Resource.php:867
 msgid "ISSN/ISBN: "
-msgstr "ISSN/ISBN : "
+msgstr "ISSN / ISBN: "
 
 #: admin/classes/domain/Resource.php:874
 msgid "Routing Step: "
-msgstr "Étape du routage :"
+msgstr "Krok: "
 
 #: admin/classes/domain/Resource.php:889
 msgid "Status: "
-msgstr "Statut :"
+msgstr "Stav: "
 
 #: admin/classes/domain/Resource.php:901
 msgid "Creator: "
-msgstr "Créé par :"
+msgstr "Tvůrce: "
 
 #: admin/classes/domain/Resource.php:907
 msgid "Resource Format: "
-msgstr "Format de ressource :"
+msgstr "Formát zdroje: "
 
 #: admin/classes/domain/Resource.php:913
 msgid "Acquisition Type: "
-msgstr "Type d'acquisition :"
+msgstr "Typ akvizice: "
 
 #: admin/classes/domain/Resource.php:919
 msgid "Note contains: "
-msgstr "Remarque contient :"
+msgstr "Poznámka obsahuje: "
 
 #: admin/classes/domain/Resource.php:925
 msgid "Created on or after: "
-msgstr "Créé sur le ou après :"
+msgstr "Vytvořeno v době od: "
 
 #: admin/classes/domain/Resource.php:927
 msgid "Created between: "
-msgstr "Créé entre :"
+msgstr "Vytvořeno mezi: "
 
 #: admin/classes/domain/Resource.php:934
 msgid "Created on or before: "
-msgstr "Créé sur le ou après le :"
+msgstr "Vytvořeno před dnem: "
 
 #: admin/classes/domain/Resource.php:940
 msgid "Starts with: "
-msgstr "Commençe par :"
+msgstr "Začíná na: "
 
 #: admin/classes/domain/Resource.php:946
 msgid "Fund: none"
-msgstr "Fonds : aucun"
+msgstr "Finanční zdroj: není"
 
 #: admin/classes/domain/Resource.php:950
 msgid "Fund: "
-msgstr "Fonds :"
+msgstr "Finanční zdroj: "
 
 #: admin/classes/domain/Resource.php:954 admin/classes/domain/Resource.php:964
 #: admin/classes/domain/Resource.php:973
 msgid "Resource Type: none"
-msgstr "Type de ressource : aucun"
+msgstr "Typ zdroje: není"
 
 #: admin/classes/domain/Resource.php:958
 msgid "Resource Type: "
-msgstr "Type de ressource :"
+msgstr "Typ zdroje: "
 
 #: admin/classes/domain/Resource.php:968
 msgid "General Subject: "
-msgstr "Sugjet général :"
+msgstr "Obor: "
 
 #: admin/classes/domain/Resource.php:977
 msgid "Detailed Subject: "
-msgstr "Sujet spécifique :"
+msgstr "Podobor: "
 
 #: admin/classes/domain/Resource.php:982
 msgid "Note Type: none"
-msgstr "Type de remarque : aucun"
+msgstr "Typ poznámky: není"
 
 #: admin/classes/domain/Resource.php:986
 msgid "Note Type: "
-msgstr "Type de remarque :"
+msgstr "Typ poznámky: "
 
 #: admin/classes/domain/Resource.php:992
 msgid "Purchase Site: none"
-msgstr "Site d'achat : aucun"
+msgstr "Nakupující oddělení: není"
 
 #: admin/classes/domain/Resource.php:996
 msgid "Purchase Site: "
-msgstr "Site d'achat :"
+msgstr "Nakupující oddělení: "
 
 #: admin/classes/domain/Resource.php:1002
 msgid "Authorized Site: none"
-msgstr "Site autorisé : aucun"
+msgstr "Přístup z: není"
 
 #: admin/classes/domain/Resource.php:1006
 msgid "Authorized Site: "
-msgstr "Site autorisé : "
+msgstr "Přístup z: "
 
 #: admin/classes/domain/Resource.php:1012
 msgid "Administering Site: none"
-msgstr "Site gérant : aucun"
+msgstr "Spravující oddělení: není"
 
 #: admin/classes/domain/Resource.php:1016
 msgid "Administering Site: "
-msgstr "Site gérant : "
+msgstr "Spravující oddělení: "
 
 #: admin/classes/domain/Resource.php:1022
 msgid "Authentication Type: none"
-msgstr "Type d'authentification : aucun"
+msgstr "Typ autentizace uživatelů: není"
 
 #: admin/classes/domain/Resource.php:1026
 msgid "Authentication Type: "
-msgstr "Type d'authentification : "
+msgstr "Typ autentizace uživatelů: "
 
 #: admin/classes/domain/Resource.php:1031
 msgid "Cataloging Status: none"
-msgstr "Statut de catalogage : aucun"
+msgstr "Stav katalogizace: není"
 
 #: admin/classes/domain/Resource.php:1035
 msgid "Cataloging Status: "
-msgstr "Statut de catalogage : "
+msgstr "Stav katalogizace: "
 
 #: ajax_forms.php:25
 msgid "Form action "
-msgstr "Action du formulaire "
+msgstr "Akce formuláře "
 
 #: ajax_forms.php:25 ajax_htmldata.php:25 ajax_processing.php:27
 msgid " not set up!"
-msgstr " Non défini !"
+msgstr " není nastaveno!"
 
 #: ajax_forms/getAccessForm.php:59
 msgid "Edit Access"
-msgstr "Modifier l'accès"
+msgstr "Upravit přístup"
 
 #: ajax_forms/getAccessForm.php:68
 msgid "Access"
-msgstr "Accès"
+msgstr "Přístup"
 
 #: ajax_forms/getAccessForm.php:75 ajax_htmldata/getAccessDetails.php:57
 #: summary.php:694
 msgid "Authentication Type:"
-msgstr "Type d'authentification :"
+msgstr "Typ autentizace uživatelů:"
 
 #: ajax_forms/getAccessForm.php:90 ajax_forms/getAccountForm.php:58
 msgid "Username:"
-msgstr "Nom d'utilisateur:"
+msgstr "Login:"
 
 #: ajax_forms/getAccessForm.php:94 ajax_htmldata/getAccessDetails.php:102
 #: summary.php:731
 msgid "Access Method:"
-msgstr "Méthode d'accès :"
+msgstr "Způsob přístupu:"
 
 #: ajax_forms/getAccessForm.php:109 ajax_forms/getAccountForm.php:65
 #: ajax_htmldata/getAccountDetails.php:80
 msgid "Password:"
-msgstr "Mot de passe:"
+msgstr "Heslo:"
 
 #: ajax_forms/getAccessForm.php:113 ajax_htmldata/getAccessDetails.php:88
 #: summary.php:724
 msgid "Storage Location:"
-msgstr "Lieu de stockage :"
+msgstr "Lokace uložení:"
 
 #: ajax_forms/getAccessForm.php:128 ajax_htmldata/getAccessDetails.php:72
 #: summary.php:708
 msgid "Simultaneous User Limit:"
-msgstr "Limite du nombre d'utilisateurs simultanés :"
+msgstr "Limit současně přistupujících uživatelů:"
 
 #: ajax_forms/getAccessForm.php:145 ajax_htmldata/getAccessDetails.php:95
 msgid "Coverage:"
-msgstr "Plage d'accès :"
+msgstr "Pokrytí:"
 
 #: ajax_forms/getAccessForm.php:163
 msgid "Authorized Site(s)"
-msgstr "Site(s) autorisé(s)"
+msgstr "Přístup z"
 
 #: ajax_forms/getAccessForm.php:208
 msgid "Administering Site(s)"
-msgstr "Site(s) gérant(s)"
+msgstr "Spravující oddělení"
 
 #: ajax_forms/getAccessForm.php:251 ajax_forms/getAccountForm.php:86
 #: ajax_forms/getAdminAlertDaysForm.php:34
@@ -903,7 +899,7 @@ msgstr "Site(s) gérant(s)"
 #: ajax_forms/getResourceStepForm.php:64
 #: ajax_forms/getUpdateProductForm.php:429 resources/cataloging_edit.php:102
 msgid "submit"
-msgstr "Valider"
+msgstr "odeslat"
 
 #: ajax_forms/getAccessForm.php:252 ajax_forms/getAccountForm.php:87
 #: ajax_forms/getAdminAlertDaysForm.php:35
@@ -928,19 +924,19 @@ msgstr "Valider"
 #: ajax_forms/getUpdateProductForm.php:430 importFunds.php:64
 #: resources/cataloging_edit.php:103
 msgid "cancel"
-msgstr "annuler"
+msgstr "zrušit"
 
 #: ajax_forms/getAccountForm.php:17
 msgid "Edit Account"
-msgstr "Modifier un compte"
+msgstr "Upravit účet"
 
 #: ajax_forms/getAccountForm.php:17
 msgid "Add Account"
-msgstr "Ajouter un compte"
+msgstr "Přidat účet"
 
 #: ajax_forms/getAccountForm.php:27
 msgid "Login Type:"
-msgstr "Type de connexion :"
+msgstr "Typ loginu:"
 
 #: ajax_forms/getAccountForm.php:44 ajax_forms/getNewResourceForm.php:115
 #: ajax_forms/getUpdateProductForm.php:101 summary.php:804
@@ -949,44 +945,44 @@ msgstr "URL:"
 
 #: ajax_forms/getAccountForm.php:51 ajax_htmldata/getAccountDetails.php:96
 msgid "Registered Email:"
-msgstr "Adresse email enregistrée :"
+msgstr "Registrovaný e-mail:"
 
 #: ajax_forms/getAccountForm.php:72 ajax_forms/getContactForm.php:138
 #: ajax_forms/getNoteForm.php:48 ajax_htmldata/getAccountDetails.php:104
 #: ajax_htmldata/getContactDetails.php:165
 msgid "Notes:"
-msgstr "Remarques :"
+msgstr "Poznámky:"
 
 #: ajax_forms/getAdminAlertDaysForm.php:14
 msgid "Edit Alert Days In Advance"
-msgstr "Modifier le message d'alerte Jours en avance"
+msgstr "Upravit jak dopředu zaslat upozornění"
 
 #: ajax_forms/getAdminAlertDaysForm.php:14
 msgid "Add Alert Days In Advance"
-msgstr "Ajouter des messages Jours en avance"
+msgstr "Přidat upozornění x dní dopředu"
 
 #: ajax_forms/getAdminAlertEmailForm.php:14
 msgid "Edit Alert Email Address"
-msgstr "Modifier l'adresse email des messages"
+msgstr "Upravit e-mail pro upozornění"
 
 #: ajax_forms/getAdminAlertEmailForm.php:14
 msgid "Add Alert Email Address"
-msgstr "Ajouter une adresse email pour les messages"
+msgstr "Přidat e-mail pro upozornění"
 
 #: ajax_forms/getAdminCurrencyUpdateForm.php:14
 msgid "Edit Currency"
-msgstr "Modifier une devise monétaire"
+msgstr "Upravit měnu"
 
 #: ajax_forms/getAdminCurrencyUpdateForm.php:14
 msgid "Add Currency"
-msgstr "Ajouter une devise monétaire"
+msgstr "Přidat měnu"
 
 #: ajax_forms/getAdminCurrencyUpdateForm.php:24
 #: ajax_forms/getAdminFundUpdateForm.php:25
 #: ajax_htmldata/getAdminCurrencyDisplay.php:14
 #: ajax_htmldata/getAdminFundDisplay.php:14
 msgid "Code"
-msgstr "Code"
+msgstr "Kód"
 
 #: ajax_forms/getAdminCurrencyUpdateForm.php:27
 #: ajax_forms/getAdminFundUpdateForm.php:28
@@ -997,31 +993,31 @@ msgstr "Code"
 #: ajax_htmldata/getSearchResources.php:113
 #: ajax_htmldata/getSubmittedQueue.php:15
 msgid "Name"
-msgstr "Nom"
+msgstr "Jméno"
 
 #: ajax_forms/getAdminFundUpdateForm.php:15
 msgid "Edit Fund"
-msgstr "Modifier le fonds"
+msgstr "Upravit finanční zdroj"
 
 #: ajax_forms/getAdminFundUpdateForm.php:15
 msgid "Add Fund"
-msgstr "Ajouter fonds"
+msgstr "Přidat finanční zdroj"
 
 #: ajax_forms/getAdminFundUpdateForm.php:32
 msgid "Archived"
-msgstr "Archivé"
+msgstr "Archivováno"
 
 #: ajax_forms/getAdminImportConfigUpdateForm.php:22
 msgid "Edit Import Configuration"
-msgstr "Modifier une configuration importée"
+msgstr "Upravit nastavení importu"
 
 #: ajax_forms/getAdminImportConfigUpdateForm.php:24
 msgid "Add Import Configuration"
-msgstr "Ajouter une configuration importée"
+msgstr "Přidat konfiguraci importu"
 
 #: ajax_forms/getAdminImportConfigUpdateForm.php:31
 msgid "Configuration Name"
-msgstr "Nom de la configuration"
+msgstr "Název konfigurace"
 
 #: ajax_forms/getAdminImportConfigUpdateForm.php:34
 msgid ""
@@ -1037,63 +1033,60 @@ msgid ""
 "Note Types, and Organization Roles that you can assign to your mapped "
 "columns can be configured on the Admin page."
 msgstr ""
-"Pour chaque champ de ressource, veuillez entrer le numéro de colonne de "
-"votre fichier CSV correspondant au champ de la ressource. Par exemple, si "
-"votre fichier importé a une deuxième colonne nommée Nom qui correspond au "
-"Titre de la ressource, entrez 2 comme valeur dans le champ Titre de la "
-"ressource. Pour les colonnes comportant plusieurs valeurs délimitées par des "
-"caractères, indiquez le délimiteur en sélectionnant l’option Si délimité, "
-"Délimité par champ. Pour les champs ayant des valeurs dans plusieurs "
-"colonnes, ajoutez des ensembles de données supplémentaires en cliquant sur "
-"les liens +Ajouter. Utilisez la fonction Dédupliquer sur cette colonne pour "
-"les ensembles ISBN/ISSN pour ignorer les éventuelles valeurs dupliquées qui "
-"pourraient apparaître dans ces colonnes. Les Types d’alias, les Types de "
-"remarques et les Rôles d’organisation que vous pouvez attribuer à vos "
-"colonnes mappées peuvent être paramétrées dans la page Administration."
+"U každého z polí zdrojů vložte číslo sloupce v souboru CSV, který odpovídá "
+"poli zdroje. Pokud má například soubor importu druhý sloupec nazvaný Název, "
+"který odpovídá Titulku zdroje, zadáte hodnotu 2 pro hodnotu pro pole Titulek "
+"zdroje. U sloupců s více hodnotami, které jsou odděleny znakem, označte "
+"oddělovač pomocí pole Oddělovač. U polí s hodnotami ve více sloupcích "
+"přidávejte další sady pomocí + Přidat další odkazy. Použijte volbu "
+"Deduplikovat tento sloupec pro sady ISBN / ISSN ignorovat duplicitní "
+"hodnoty, které by mohly nastat v těchto sloupcích. Typy zkratek, typy "
+"poznámek a role organizací, které můžete přiřadit mapovaným sloupcům, lze "
+"konfigurovat na stránce Administrace."
 
 #: ajax_forms/getAdminUpdateForm.php:16
 #: ajax_forms/getDetailSubjectUpdateForm.php:16
 #: ajax_forms/getGeneralSubjectUpdateForm.php:16
 msgid "Edit "
-msgstr "Modifier "
+msgstr "Upravit "
 
 #: ajax_forms/getAdminUpdateForm.php:16
 #: ajax_forms/getDetailSubjectUpdateForm.php:16
 #: ajax_forms/getGeneralSubjectUpdateForm.php:16
 msgid "Add "
-msgstr "Ajouter "
+msgstr "Přidat "
 
 #: ajax_forms/getAdminUpdateForm.php:31
 msgid "Show stats button?"
-msgstr "Afficher le bouton des statistiques ?"
+msgstr "Zobrazit tlačítko statistik"
 
 #: ajax_forms/getAdminUserGroupForm.php:17
 msgid "Edit User Group"
-msgstr "Modifier le groupe d'utilisateurs"
+msgstr "Upravit skupinu uživatelů"
 
 #: ajax_forms/getAdminUserGroupForm.php:17
 msgid "Add User Group"
-msgstr "Ajouter un groupe d'utilisateurs"
+msgstr "Přidat skupinu uživatelů"
 
 #: ajax_forms/getAdminUserGroupForm.php:26
 msgid "User Group"
-msgstr "Groupe d'utilisateurs"
+msgstr "Uživatelská skupina"
 
 #: ajax_forms/getAdminUserGroupForm.php:34
 msgid "Group Name:"
-msgstr "Nom du groupe :"
+msgstr "Název skupiny:"
 
 #: ajax_forms/getAdminUserGroupForm.php:41
 msgid "Email Address:"
-msgstr "Adresse email :"
+msgstr "E-mail:"
 
 #: ajax_forms/getAdminUserGroupForm.php:58
 msgid "Assigned Users"
-msgstr "Utilisateurs attribués"
+msgstr "Přiřazení uživatelé"
 
 #: ajax_forms/getAdminUserGroupForm.php:82
 msgid "add user"
-msgstr "Ajouter un utilisateur"
+msgstr "přidat uživatele"
 
 #: ajax_forms/getAdminUserGroupForm.php:82
 #: ajax_forms/getAdminWorkflowForm.php:155 ajax_forms/getCostForm.php:184
@@ -1106,65 +1099,65 @@ msgstr "Ajouter un utilisateur"
 #: ajax_forms/getUpdateProductForm.php:266
 #: ajax_forms/getUpdateProductForm.php:359
 msgid "Add"
-msgstr "Ajouter"
+msgstr "Přidat"
 
 #: ajax_forms/getAdminUserUpdateForm.php:21
 msgid "Edit User"
-msgstr "Modifier un utilisateur"
+msgstr "Upravit uživatele"
 
 #: ajax_forms/getAdminUserUpdateForm.php:21
 msgid "Add New User"
-msgstr "Ajouter un utilisateur"
+msgstr "Přidat uživatele"
 
 #: ajax_forms/getAdminUserUpdateForm.php:32
 #: ajax_htmldata/getAdminUserDisplay.php:22
 msgid "Login ID"
-msgstr "Identifiant de connexion"
+msgstr "Login"
 
 #: ajax_forms/getAdminUserUpdateForm.php:33
 #: ajax_htmldata/getAdminUserDisplay.php:23
 msgid "First Name"
-msgstr "Prénom"
+msgstr "Jméno"
 
 #: ajax_forms/getAdminUserUpdateForm.php:34
 #: ajax_htmldata/getAdminUserDisplay.php:24
 msgid "Last Name"
-msgstr "Nom"
+msgstr "Příjmení"
 
 #: ajax_forms/getAdminUserUpdateForm.php:35
 #: ajax_htmldata/getAdminAlertDisplay.php:16
 #: ajax_htmldata/getAdminUserDisplay.php:27
 #: ajax_htmldata/getAdminWorkflowDisplay.php:73
 msgid "Email Address"
-msgstr "Adresse email"
+msgstr "E-mail"
 
 #: ajax_forms/getAdminUserUpdateForm.php:36
 #: ajax_htmldata/getAdminUserDisplay.php:25
 msgid "Privilege"
-msgstr "Privilège"
+msgstr "Privilegia"
 
 #: ajax_forms/getAdminUserUpdateForm.php:54
 #: ajax_htmldata/getAdminUserDisplay.php:26
 msgid "View Accounts"
-msgstr "Afficher les comptes"
+msgstr "Zobrazit účty"
 
 #: ajax_forms/getAdminWorkflowForm.php:42
 msgid "Edit Workflow"
-msgstr "Modifier le workflow"
+msgstr "Upravit proces"
 
 #: ajax_forms/getAdminWorkflowForm.php:51
 msgid "Resource Entry Requirements"
-msgstr "Conditions d'entrée des ressources"
+msgstr "Požadavky na vložení informačního zdroje"
 
 #: ajax_forms/getAdminWorkflowForm.php:58 ajax_forms/getOrderForm.php:46
 #: ajax_htmldata/getAcquisitionsDetails.php:111 summary.php:435
 msgid "Acquisition Type:"
-msgstr "Type d'acquisition :"
+msgstr "Typ akvizice:"
 
 #: ajax_forms/getAdminWorkflowForm.php:74
 #: ajax_forms/getUpdateProductForm.php:176
 msgid "Format:"
-msgstr "Format :"
+msgstr "Formát:"
 
 #: ajax_forms/getAdminWorkflowForm.php:89 ajax_forms/getAttachmentForm.php:35
 #: ajax_forms/getUpdateProductForm.php:195
@@ -1172,204 +1165,204 @@ msgstr "Format :"
 #: ajax_htmldata/getAttachmentDetails.php:47
 #: ajax_htmldata/getDowntimeList.php:17
 msgid "Type:"
-msgstr "Type :"
+msgstr "Typ:"
 
 #: ajax_forms/getAdminWorkflowForm.php:114
 msgid "Workflow Steps"
-msgstr "Étapes du workflow"
+msgstr "Kroky procesu"
 
 #: ajax_forms/getAdminWorkflowForm.php:123 ajax_forms/getAttachmentForm.php:27
 #: ajax_forms/getContactForm.php:43 ajax_forms/getImportSaveCfgForm.php:16
 #: ajax_forms/getNewResourceForm.php:100 ajax_forms/getUpdateProductForm.php:91
 msgid "Name:"
-msgstr "Nom :"
+msgstr "Název:"
 
 #: ajax_forms/getAdminWorkflowForm.php:124
 msgid "Approval/Notification Group:"
-msgstr "Groupe de validation/notification :"
+msgstr "Skupina pro schválení / upozornění:"
 
 #: ajax_forms/getAdminWorkflowForm.php:125
 msgid "Parent Step"
-msgstr "Étape principale"
+msgstr "Předchozí krok"
 
 #: ajax_forms/getAdminWorkflowForm.php:155
 msgid "add step"
-msgstr "Ajouter une étape"
+msgstr "přidat krok"
 
 #: ajax_forms/getAttachmentForm.php:16
 msgid "Edit Attachment"
-msgstr "Modifier une pièce jointe"
+msgstr "Upravit přílohu"
 
 #: ajax_forms/getAttachmentForm.php:16
 msgid "Add Attachment"
-msgstr "Ajouter une pièce jointe"
+msgstr "Přidat přílohu"
 
 #: ajax_forms/getAttachmentForm.php:55
 msgid "File:"
-msgstr "Fichier :"
+msgstr "Soubor:"
 
 #: ajax_forms/getAttachmentForm.php:61
 msgid "replace with new file"
-msgstr "Remplacer par un nouveau fichier"
+msgstr "nahradit novým souborem"
 
 #: ajax_forms/getAttachmentForm.php:76
 #: ajax_htmldata/getAttachmentDetails.php:55 summary.php:544
 msgid "Details:"
-msgstr "Détails :"
+msgstr "Detaily:"
 
 #: ajax_forms/getContactForm.php:30
 msgid "Edit Contact"
-msgstr "Modifier un contact"
+msgstr "Upravit kontakt"
 
 #: ajax_forms/getContactForm.php:30
 msgid "Add Contact"
-msgstr "Ajouter un contact"
+msgstr "Přidat kontakt"
 
 #: ajax_forms/getContactForm.php:50 ajax_htmldata/getContactDetails.php:100
 msgid "Title:"
-msgstr "Titre :"
+msgstr "Pozice:"
 
 #: ajax_forms/getContactForm.php:57 ajax_htmldata/getContactDetails.php:133
 msgid "Phone:"
-msgstr "Numéro de téléphone :"
+msgstr "Tel. číslo:"
 
 #: ajax_forms/getContactForm.php:64 ajax_htmldata/getContactDetails.php:141
 msgid "Alt Phone:"
-msgstr "Autre numéro de téléphone :"
+msgstr "Druhé tel. číslo:"
 
 #: ajax_forms/getContactForm.php:71 ajax_htmldata/getContactDetails.php:149
 msgid "Fax:"
-msgstr "Numéro de fax :"
+msgstr "Fax:"
 
 #: ajax_forms/getContactForm.php:78 ajax_htmldata/getContactDetails.php:157
 msgid "Email:"
-msgstr "Adresse email :"
+msgstr "E-mail:"
 
 #: ajax_forms/getContactForm.php:85 ajax_htmldata/getContactDetails.php:108
 msgid "Address:"
-msgstr "Adresse :"
+msgstr "Adresa:"
 
 #: ajax_forms/getContactForm.php:92 ajax_forms/getUpdateProductForm.php:214
 #: ajax_htmldata/getProductDetails.php:111
 msgid "Archived:"
-msgstr "Archivé :"
+msgstr "Archivovat:"
 
 #: ajax_forms/getContactForm.php:102
 msgid "Role(s):"
-msgstr "Rôle(s) :"
+msgstr "Role:"
 
 #: ajax_forms/getCostForm.php:52
 msgid "Edit Cost Information"
-msgstr "Modifier les informations de coût"
+msgstr "Upravit informaci o platbě"
 
 #: ajax_forms/getCostForm.php:59 ajax_htmldata/getAcquisitionsDetails.php:172
 #: summary.php:492
 msgid "Cost History"
-msgstr "Historique du coût"
+msgstr "Historie plateb"
 
 #: ajax_forms/getCostForm.php:67 ajax_htmldata/getAcquisitionsDetails.php:181
 msgid "Year"
-msgstr "Année"
+msgstr "Rok"
 
 #: ajax_forms/getCostForm.php:68 ajax_htmldata/getAcquisitionsDetails.php:182
 msgid "Sub Start"
-msgstr "Début de l'abonnement :"
+msgstr "Začátek předplatného"
 
 #: ajax_forms/getCostForm.php:69 ajax_htmldata/getAcquisitionsDetails.php:183
 msgid "Sub End"
-msgstr "Fin de l'abonnement :"
+msgstr "Konec předplatného"
 
 #: ajax_forms/getCostForm.php:71 ajax_htmldata/getAcquisitionsDetails.php:185
 #: ajax_htmldata/getAdminFundDisplay.php:8 index.php:87
 msgid "Fund"
-msgstr "Fonds"
+msgstr "Finanční zdroj"
 
 #: ajax_forms/getCostForm.php:73 ajax_htmldata/getAcquisitionsDetails.php:187
 msgid "Tax Excl."
-msgstr "TVA Excl."
+msgstr "Bez DPH"
 
 #: ajax_forms/getCostForm.php:74 ajax_htmldata/getAcquisitionsDetails.php:188
 msgid "Tax Rate"
-msgstr "Taux de TVA"
+msgstr "DPH"
 
 #: ajax_forms/getCostForm.php:75 ajax_htmldata/getAcquisitionsDetails.php:189
 msgid "Tax Incl."
-msgstr "TVA Incl."
+msgstr "S DPH"
 
 #: ajax_forms/getCostForm.php:77 ajax_htmldata/getAcquisitionsDetails.php:191
 msgid "Payment"
-msgstr "Paiement"
+msgstr "Platba"
 
 #: ajax_forms/getCostForm.php:79 ajax_htmldata/getAcquisitionsDetails.php:195
 msgid "Type"
-msgstr "Type"
+msgstr "Typ"
 
 #: ajax_forms/getCostForm.php:83 ajax_forms/getImportConfigForm.php:148
 #: ajax_forms/getImportConfigForm.php:162
 #: ajax_forms/getImportConfigForm.php:271
 msgid "Note"
-msgstr "Remarque"
+msgstr "Poznámka"
 
 #: ajax_forms/getCostForm.php:85 ajax_htmldata/getAcquisitionsDetails.php:201
 msgid "Invoice"
-msgstr "Facture"
+msgstr "Číslo faktury"
 
 #: ajax_forms/getCostForm.php:184
 msgid "add payment"
-msgstr "Ajouter paiement"
+msgstr "přidat platbu"
 
 #: ajax_forms/getGeneralDetailSubjectForm.php:18
 msgid "Add / Edit Subject Relationships"
-msgstr "Ajouter / modifier les liens entre sujets"
+msgstr "Přidat / upravit vztahy oborů"
 
 #: ajax_forms/getGeneralDetailSubjectForm.php:27
 #: ajax_htmldata/getAdminSubjectDisplay.php:9
 #: ajax_htmldata/getAdminSubjectDisplay.php:98 index.php:257
 msgid "General Subject"
-msgstr "Sujet général"
+msgstr "Obor"
 
 #: ajax_forms/getGeneralDetailSubjectForm.php:53
 msgid "Detailed Subjects"
-msgstr "Sujets spécifiques"
+msgstr "Podobory"
 
 #: ajax_forms/getGeneralDetailSubjectForm.php:76
 msgid "add detail subject"
-msgstr "Ajouter un sujet spécifique"
+msgstr "přidat podobor"
 
 #: ajax_forms/getGeneralDetailSubjectForm.php:109
 #: ajax_htmldata/getAdminSubjectDisplay.php:30
 #: ajax_htmldata/getAdminSubjectDisplay.php:71
 msgid "subject in use"
-msgstr "Sujet en cours d'utilisation"
+msgstr "obor je využíván"
 
 #: ajax_forms/getImportConfigForm.php:43
 msgid "General Resource Fields"
-msgstr "Champs généraux de la ressource"
+msgstr "Obecná pole zdroje"
 
 #: ajax_forms/getImportConfigForm.php:45
 msgid "Resource Title"
-msgstr "Titre de la ressource"
+msgstr "Název zdroje"
 
 #: ajax_forms/getImportConfigForm.php:46
 msgid "Description"
-msgstr "Description"
+msgstr "Popis"
 
 #: ajax_forms/getImportConfigForm.php:47
 msgid "Resource URL"
-msgstr "URL de la ressource"
+msgstr "URL zdroje"
 
 #: ajax_forms/getImportConfigForm.php:48
 msgid "Alternate URL"
-msgstr "Autre URL"
+msgstr "Alternativní URL"
 
 #: ajax_forms/getImportConfigForm.php:52
 msgid "Alias Sets"
-msgstr "Ensembles d'alias"
+msgstr "Množiny zkratek"
 
 #: ajax_forms/getImportConfigForm.php:56 ajax_forms/getImportConfigForm.php:70
 #: ajax_forms/getImportConfigForm.php:247
 msgid "Alias"
-msgstr "Alias"
+msgstr "Zkratka"
 
 #: ajax_forms/getImportConfigForm.php:66 ajax_forms/getImportConfigForm.php:76
 #: ajax_forms/getImportConfigForm.php:104
@@ -1383,84 +1376,84 @@ msgstr "Alias"
 #: ajax_forms/getImportConfigForm.php:265
 #: ajax_forms/getImportConfigForm.php:271
 msgid "If delimited, delimited by"
-msgstr "Si délimité, délimiter par"
+msgstr "Oddělovač"
 
 #: ajax_forms/getImportConfigForm.php:79
 msgid "+ Add another alias set"
-msgstr "+ Ajouter un autre ensemble d'alias"
+msgstr "+ Přidat množinu zkratek"
 
 #: ajax_forms/getImportConfigForm.php:81
 msgid "Resource Parents"
-msgstr "Ressources principales"
+msgstr "Nadřazené zdroje"
 
 #: ajax_forms/getImportConfigForm.php:85 ajax_forms/getImportConfigForm.php:89
 #: ajax_forms/getImportConfigForm.php:253
 msgid "Parent Resource"
-msgstr "Ressource principale"
+msgstr "Nadřazený zdroj"
 
 #: ajax_forms/getImportConfigForm.php:92
 msgid "+ Add another parent resource"
-msgstr "+ Ajouter une autre ressource principale"
+msgstr "+ Přidat nadřazený zdroj"
 
 #: ajax_forms/getImportConfigForm.php:97
 msgid "ISBN/ISSN Sets"
-msgstr "Ensembles ISBN/ISSN"
+msgstr "Množiny ISBN / ISSN"
 
 #: ajax_forms/getImportConfigForm.php:103
 #: ajax_forms/getImportConfigForm.php:109
 #: ajax_forms/getImportConfigForm.php:259
 msgid "ISBN or ISSN"
-msgstr "ISBN ou ISSN"
+msgstr "ISBN nebo ISSN"
 
 #: ajax_forms/getImportConfigForm.php:105
 #: ajax_forms/getImportConfigForm.php:111
 #: ajax_forms/getImportConfigForm.php:259
 msgid "Dedupe on this column"
-msgstr "Dédupliquer sur cette colonne"
+msgstr "Deduplikovat tento sloupec"
 
 #: ajax_forms/getImportConfigForm.php:114
 msgid "+ Add another ISBN or ISSN set"
-msgstr "+ Ajouter un autre ensemble ISBN ou ISSN"
+msgstr "+ Přidat množinu ISBN nebo ISSN"
 
 #: ajax_forms/getImportConfigForm.php:121
 msgid "Subject Sets"
-msgstr "Ensembles de sujets"
+msgstr "Množiny oborů"
 
 #: ajax_forms/getImportConfigForm.php:127
 #: ajax_forms/getImportConfigForm.php:132
 #: ajax_forms/getImportConfigForm.php:265
 msgid "Subject"
-msgstr "Sujet"
+msgstr "Obor"
 
 #: ajax_forms/getImportConfigForm.php:136
 msgid "+ Add another subject set"
-msgstr "+ Ajouter un autre ensemble de sujets"
+msgstr "+ Přidat další obor"
 
 #: ajax_forms/getImportConfigForm.php:143
 msgid "Note Sets"
-msgstr "Ensembles de remarques"
+msgstr "Množina poznámek"
 
 #: ajax_forms/getImportConfigForm.php:171
 msgid "+ Add another note set"
-msgstr "+ Ajouter un autre ensemble de remarques"
+msgstr "+ Přidat množinu poznámek"
 
 #: ajax_forms/getImportConfigForm.php:180
 msgid "Organization Sets"
-msgstr "Ensembles d'organisations"
+msgstr "Množina organizací"
 
 #: ajax_forms/getImportConfigForm.php:184
 #: ajax_forms/getImportConfigForm.php:196
 #: ajax_forms/getImportConfigForm.php:277
 msgid "Organization"
-msgstr "Organisation"
+msgstr "Organizace"
 
 #: ajax_forms/getImportConfigForm.php:203
 msgid "+ Add another organization set"
-msgstr "+ Ajouter un autre ensemble d'organisations"
+msgstr "+ Přidat množinu organizací"
 
 #: ajax_forms/getImportConfigForm.php:208
 msgid "Organization Name Mapping"
-msgstr "Mappage du nom de l'organisation"
+msgstr "Mapování názvů organizací"
 
 #: ajax_forms/getImportConfigForm.php:209
 msgid ""
@@ -1472,79 +1465,79 @@ msgid ""
 "created. Each column that is added to an Organization set above is checked "
 "against the complete list of mappings that you create. "
 msgstr ""
-"Utilisez ces mappages pour normaliser les différentes variations du nom "
-"d’une organisation en une seule valeur. Par exemple, un éditeur pourrait "
-"avoir trois variantes de nom dans votre fichier importé : EditionBleue, "
-"EditionB et EB. Vous pouvez créer un mappage pour chaque variation et les "
-"normaliser toutes à EditionBleue, pour éviter la création d’organisations "
-"dupliquées. Chaque colonne ajoutée à un ensemble d’Organisations ci-dessus "
-"est comparée à la liste complète des mappages que vous avez créés."
+"Pomocí těchto mapování můžete normalizovat různé varianty názvu organizace "
+"na jednu hodnotu. Můžete například mít v souboru importu majitele stránek s "
+"třemi variantami svého jména: PublisherHouse, PublisherH a PH. Můžete "
+"vytvořit mapování pro každý z nich a normalizovat je všechny do "
+"PublisherHouse, aby se zabránilo vytváření duplicitních organizací. Každý "
+"sloupec, který je přidán do výše uvedené organizace, je kontrolován proti "
+"seznamu všech mapování, který vytvoříte. "
 
 #: ajax_forms/getImportConfigForm.php:209
 msgid "PCRE regular expressions"
-msgstr "Expressions régulières PCRE"
+msgstr "Regulární výrazy PCRE"
 
 #: ajax_forms/getImportConfigForm.php:209
 msgid " are supported for these mappings."
-msgstr " sont supportées avec ces mappages."
+msgstr " jsou podporovány pro tato mapování."
 
 #: ajax_forms/getImportConfigForm.php:213
 msgid "Organization Name"
-msgstr "Nom d'organisation"
+msgstr "Název organizace"
 
 #: ajax_forms/getImportConfigForm.php:214
 msgid "Will Be Mapped To"
-msgstr "Sera mappé à"
+msgstr "Bude namapován na"
 
 #: ajax_forms/getImportConfigForm.php:231
 msgid "+ Add another mapping"
-msgstr "+ Ajouter un autre mappage"
+msgstr "+ Přidat další mapování"
 
 #: ajax_forms/getImportSaveCfgForm.php:6
 msgid "Save Import Configuration"
-msgstr "Enregistrer la configuration importée"
+msgstr "Uložit konfiguraci importu"
 
 #: ajax_forms/getImportSaveCfgForm.php:27 ajax_forms/getNewResourceForm.php:294
 msgid "save"
-msgstr "Enregistrer"
+msgstr "uložit"
 
 #: ajax_forms/getLicenseForm.php:50
 msgid "Edit Licenses"
-msgstr "Modifier les licences"
+msgstr "Upravit licence"
 
 #: ajax_forms/getLicenseForm.php:60
 msgid "License Records"
-msgstr "Fiches de licence"
+msgstr "Záznam licence"
 
 #: ajax_forms/getLicenseForm.php:76
 msgid "add license"
-msgstr "Ajouter une licence"
+msgstr "přidat licenci"
 
 #: ajax_forms/getLicenseForm.php:103
 msgid "remove license link"
-msgstr "Supprimer le lien de la licence"
+msgstr "odstranit licenci"
 
 #: ajax_forms/getLicenseForm.php:103 ajax_forms/getUpdateProductForm.php:306
 msgid "remove "
-msgstr "Supprimer "
+msgstr "odstranit "
 
 #: ajax_forms/getLicenseForm.php:103
 msgid " license"
-msgstr " licence"
+msgstr " licenci"
 
 #: ajax_forms/getLicenseForm.php:128
 msgid "Licensing Status"
-msgstr "Statut des licences"
+msgstr "Stav licence"
 
 #: ajax_forms/getLicenseForm.php:136
 #: ajax_htmldata/getAcquisitionsDetails.php:286
 #: ajax_htmldata/getProductDetails.php:101 summary.php:218 summary.php:578
 msgid "Status:"
-msgstr "Statut :"
+msgstr "Stav:"
 
 #: ajax_forms/getLicenseForm.php:160
 msgid "History:"
-msgstr "Historique :"
+msgstr "Historie:"
 
 #: ajax_forms/getLicenseForm.php:166 ajax_htmldata/getAccessDetails.php:173
 #: ajax_htmldata/getAcquisitionsDetails.php:292
@@ -1563,256 +1556,253 @@ msgstr "Historique :"
 #: summary.php:232 summary.php:258 summary.php:413 summary.php:584
 #: summary.php:659 summary.php:781 summary.php:894
 msgid " by "
-msgstr " par "
+msgstr " uživatelem "
 
 #: ajax_forms/getLicenseForm.php:169
 #: ajax_htmldata/getAcquisitionsDetails.php:295 summary.php:587
 msgid "No license status information available."
-msgstr "Informations de statut de licence indisponibles."
+msgstr "Není k dispozici stav licence."
 
 #: ajax_forms/getNewDowntimeForm.php:54
 msgid "Resource Downtime Report"
-msgstr "Rapport d'indisponibilité de la ressource"
+msgstr "Hlášení výpadku zdroje"
 
 #: ajax_forms/getNewDowntimeForm.php:58 ajax_htmldata/getDowntimeList.php:20
 msgid "Downtime Start:"
-msgstr "Début du temps d'indisponibilité :"
+msgstr "Začátek výpadku:"
 
 #: ajax_forms/getNewDowntimeForm.php:61 ajax_forms/getNewDowntimeForm.php:78
 msgid "Date"
-msgstr "Date"
+msgstr "Datum"
 
 #: ajax_forms/getNewDowntimeForm.php:66 ajax_forms/getNewDowntimeForm.php:83
 msgid "Time"
-msgstr "Heure"
+msgstr "Čas"
 
 #: ajax_forms/getNewDowntimeForm.php:75
 msgid "Downtime Resolution:"
-msgstr "Résolution de l'indisponibilité :"
+msgstr "Konec výpadku:"
 
 #: ajax_forms/getNewDowntimeForm.php:92
 msgid "Problem Type:"
-msgstr "Type de problème :"
+msgstr "Typ problému:"
 
 #: ajax_forms/getNewDowntimeForm.php:107
 msgid "Link to open issue:"
-msgstr "Lien pour ouvrir l'incident :"
+msgstr "Odkaz na otevřený problém:"
 
 #: ajax_forms/getNewDowntimeForm.php:123 ajax_htmldata/getDowntimeList.php:39
 #: summary.php:549
 msgid "Note:"
-msgstr "Remarque :"
+msgstr "Poznámka:"
 
 #: ajax_forms/getNewDowntimeForm.php:141
 msgid ""
 "Creating downtime requires an organization or a resource to be associated "
 "with an organization."
 msgstr ""
-"Créer un temps d'indisponibilité nécessite qu'une organisation ou une "
-"ressource soit associée à une organisation."
+"Pro zadání výpadku musí být zdroj nebo organizace propojena s organizací."
 
 #: ajax_forms/getNewIssueForm.php:24
 msgid "Report New Problem"
-msgstr "Signaler un nouveau problème"
+msgstr "Nahlásit problém"
 
 #: ajax_forms/getNewIssueForm.php:25
 msgid "* required fields"
-msgstr "* champs obligatoires"
+msgstr "* povinná pole"
 
 #: ajax_forms/getNewIssueForm.php:29 ajax_forms/getUpdateProductForm.php:244
 #: ajax_htmldata/getContactDetails.php:83
 msgid "Organization:"
-msgstr "Organisation:"
+msgstr "Organizace:"
 
 #: ajax_forms/getNewIssueForm.php:36
 msgid "Contact:"
-msgstr "Contact :"
+msgstr "Kontakt:"
 
 #: ajax_forms/getNewIssueForm.php:57 ajax_htmldata/getContactDetails.php:43
 #: ajax_htmldata/getContactDetails.php:187
 #: ajax_htmldata/getContactDetails.php:197
 msgid "add contact"
-msgstr "Ajouter un contact"
+msgstr "přidat kontakt"
 
 #: ajax_forms/getNewIssueForm.php:65
 msgid "CC myself:"
-msgstr "Me copier dans l'email :"
+msgstr "Přidat se do kopie:"
 
 #: ajax_forms/getNewIssueForm.php:72
 msgid "CC:"
-msgstr "CC :"
+msgstr "Kopie:"
 
 #: ajax_forms/getNewIssueForm.php:77
 msgid "Current CCs:"
-msgstr "Adresses emails ajoutées en CC :"
+msgstr "Aktuální kopie:"
 
 #: ajax_forms/getNewIssueForm.php:84 ajax_htmldata/getIssuesList.php:58
 msgid "Subject:"
-msgstr "Objet :"
+msgstr "Obor:"
 
 #: ajax_forms/getNewIssueForm.php:91 ajax_htmldata/getIssuesList.php:61
 msgid "Body:"
-msgstr "Contenu du message :"
+msgstr "Zpráva:"
 
 #: ajax_forms/getNewIssueForm.php:98 ajax_htmldata/getIssuesList.php:47
 msgid "Applies to:"
-msgstr "S'applique à :"
+msgstr "Platí na:"
 
 #: ajax_forms/getNewIssueForm.php:102
 msgid "Applies only to"
-msgstr "S'applique uniquement à"
+msgstr "Platí na"
 
 #: ajax_forms/getNewIssueForm.php:105
 msgid "Applies to all"
-msgstr "S'applique à tous"
+msgstr "Platí pro všechny"
 
 #: ajax_forms/getNewIssueForm.php:108
 msgid "Applies to selected"
-msgstr "S'applique aux personnes sélectionnées"
+msgstr "Platí na vybrané"
 
 #: ajax_forms/getNewIssueForm.php:124
 msgid "Send me a reminder every"
-msgstr "Envoyer-moi un rappel tous les"
+msgstr "Zašli mi upozornění každé"
 
 #: ajax_forms/getNewIssueForm.php:127
 msgid "day(s)"
-msgstr "jour(s)"
+msgstr "dny"
 
 #: ajax_forms/getNewIssueForm.php:141
 msgid ""
 "Opening an issue requires a resource to be associated with an organization."
-msgstr ""
-"Signaler un incident nécessite qu'une ressource soit associée à une "
-"organisation."
+msgstr "Založení problému vyžaduje propojení zdroje s organizací."
 
 #: ajax_forms/getNewResourceForm.php:84
 msgid "Edit Saved Resource"
-msgstr "Modifier une ressource enregistrée"
+msgstr "Upravit uložený zdroj"
 
 #: ajax_forms/getNewResourceForm.php:84
 msgid "Add New Resource"
-msgstr "Ajouter une nouvelle ressource"
+msgstr "Přidat zdroj"
 
 #: ajax_forms/getNewResourceForm.php:85
 msgid "required fields"
-msgstr "champs obligatoires"
+msgstr "povinná pole"
 
 #: ajax_forms/getNewResourceForm.php:91 ajax_forms/getUpdateProductForm.php:81
 msgid "Product"
-msgstr "Produit"
+msgstr "Produkt"
 
 #: ajax_forms/getNewResourceForm.php:105 ajax_forms/getUpdateProductForm.php:96
 #: ajax_htmldata/getProductDetails.php:286 summary.php:361
 msgid "Description:"
-msgstr "Description :"
+msgstr "Popis:"
 
 #: ajax_forms/getNewResourceForm.php:110
 msgid "Provider:"
-msgstr "Fournisseur :"
+msgstr "Poskytovatel:"
 
 #: ajax_forms/getNewResourceForm.php:120
 #: ajax_forms/getUpdateProductForm.php:106
 #: ajax_htmldata/getProductDetails.php:278 summary.php:353
 msgid "Alt URL:"
-msgstr "Autre URL :"
+msgstr "Alternativní URL:"
 
 #: ajax_forms/getNewResourceForm.php:131
 msgid "Format"
-msgstr "Format"
+msgstr "Formát"
 
 #: ajax_forms/getNewResourceForm.php:269
 #: ajax_htmldata/getAcquisitionsDetails.php:199
 msgid "Notes"
-msgstr "Remarques"
+msgstr "Poznámky"
 
 #: ajax_forms/getNewResourceForm.php:278
 msgid "Include any additional information"
-msgstr "Ajoutez des informations supplémentaires"
+msgstr "Připojit další informace"
 
 #: ajax_forms/getNoteForm.php:18
 msgid "Edit Note"
-msgstr "Modifier une remarque"
+msgstr "Upravit poznámku"
 
 #: ajax_forms/getNoteForm.php:18
 msgid "Add Note"
-msgstr "Ajouter une remarque"
+msgstr "Přidat poznámku"
 
 #: ajax_forms/getNoteForm.php:28
 msgid "Note Type:"
-msgstr "Type de remarque :"
+msgstr "Typ poznámky:"
 
 #: ajax_forms/getOrderForm.php:33
 msgid "Edit Acquisitions Information"
-msgstr "Modifier les informations d'acquisition"
+msgstr "Upravit informace o akvizici"
 
 #: ajax_forms/getOrderForm.php:40 ajax_htmldata/getAcquisitionsDetails.php:101
 #: summary.php:428
 msgid "Order"
-msgstr "Commande"
+msgstr "Objednávka"
 
 #: ajax_forms/getOrderForm.php:64 ajax_htmldata/getAcquisitionsDetails.php:118
 #: summary.php:442
 msgid "Order Number:"
-msgstr "Numéro de commande :"
+msgstr "Číslo objednávky:"
 
 #: ajax_forms/getOrderForm.php:69 ajax_htmldata/getAcquisitionsDetails.php:125
 #: summary.php:449
 msgid "System Number:"
-msgstr "Numéro système :"
+msgstr "Systémové číslo:"
 
 #: ajax_forms/getOrderForm.php:74 ajax_htmldata/getAcquisitionsDetails.php:146
 #: summary.php:472
 msgid "Sub Start:"
-msgstr "Début de l'abonnement :"
+msgstr "Začátek předplatného:"
 
 #: ajax_forms/getOrderForm.php:79 summary.php:479
 msgid "Current Sub End:"
-msgstr "Fin de l'abonnement en cours :"
+msgstr "Konec předplatného:"
 
 #: ajax_forms/getOrderForm.php:89
 msgid "Enable Alert"
-msgstr "Activer les messages d'alerte"
+msgstr "Zapnout upozornění"
 
 #: ajax_forms/getOrderForm.php:111
 msgid "Purchasing Site(s)"
-msgstr "Site(s) d'achat(s)"
+msgstr "Nakupující oddělení"
 
 #: ajax_forms/getResourceStepForm.php:25
 msgid "Edit Resource Step"
-msgstr "Modifier l'étape de la ressource"
+msgstr "Upravit krok zdroje"
 
 #: ajax_forms/getResourceStepForm.php:32
 msgid "Reassign Resource Step"
-msgstr "Réassigner l'étape de la ressource"
+msgstr "Znovy zadat krok zdroje"
 
 #: ajax_forms/getResourceStepForm.php:40
 msgid "Step name: "
-msgstr "Nom de l'étape :"
+msgstr "Název kroku: "
 
 #: ajax_forms/getResourceStepForm.php:42
 msgid "Group: "
-msgstr "Groupe :"
+msgstr "Skupina: "
 
 #: ajax_forms/getResourceStepForm.php:53
 msgid "Apply to all later steps?"
-msgstr "Appliquer à toutes les étapes suivantes ?"
+msgstr "Aplikovat i na následující kroky?"
 
 #: ajax_forms/getResourceSubjectForm.php:7
 msgid "Add General / Detail Subject Link"
-msgstr "Ajouter un lien Sujet général / spécifique"
+msgstr "Přidat obor / podobor"
 
 #: ajax_forms/getResourceSubjectForm.php:14
 msgid "General Subject Name"
-msgstr "Nom du sujet général"
+msgstr "Název oboru"
 
 #: ajax_forms/getResourceSubjectForm.php:15
 msgid "Detail Subject Name"
-msgstr "Nom du sujet spécifique"
+msgstr "Název podoboru"
 
 #: ajax_forms/getResourceSubjectForm.php:26
 #: ajax_forms/getResourceSubjectForm.php:33
 msgid "add"
-msgstr "Ajouter"
+msgstr "přidat"
 
 #: ajax_forms/getResourceSubjectForm.php:44
 #: ajax_htmldata/getAdminAlertDisplay.php:35
@@ -1827,64 +1817,64 @@ msgstr "Ajouter"
 #: ajax_htmldata/getAdminWorkflowDisplay.php:100
 #: ajax_htmldata/getGeneralSubjectDisplay.php:35
 msgid "(none found)"
-msgstr "(aucun trouvé)"
+msgstr "(nenalezeno)"
 
 #: ajax_forms/getUpdateProductForm.php:72
 msgid "Edit Resource"
-msgstr "Modifier une ressource"
+msgstr "Upravit zdroj"
 
 #: ajax_forms/getUpdateProductForm.php:118
 msgid "Parents:"
-msgstr "Ressources principales :"
+msgstr "Nadřazené zdroje:"
 
 #: ajax_forms/getUpdateProductForm.php:124
 msgid "add Parent Resource"
-msgstr "Ajouter une ressource principale"
+msgstr "přidat nadřazený zdroj"
 
 #: ajax_forms/getUpdateProductForm.php:148
 #: ajax_htmldata/getProductDetails.php:218 summary.php:298
 msgid "ISSN / ISBN:"
-msgstr "ISSN / ISBN :"
+msgstr "ISSN / ISBN:"
 
 #: ajax_forms/getUpdateProductForm.php:153
 msgid "add Isbn"
-msgstr "Ajouter ISBN"
+msgstr "přidat ISBN"
 
 #: ajax_forms/getUpdateProductForm.php:243
 msgid "Role:"
-msgstr "Rôle :"
+msgstr "Role:"
 
 #: ajax_forms/getUpdateProductForm.php:266
 msgid "add organization"
-msgstr "Ajouter une organisation"
+msgstr "přidat organizaci"
 
 #: ajax_forms/getUpdateProductForm.php:306
 msgid "remove organization"
-msgstr "Supprimer une organisation"
+msgstr "odstranit organizaci"
 
 #: ajax_forms/getUpdateProductForm.php:306
 msgid "organization"
-msgstr "organisation"
+msgstr "organizace"
 
 #: ajax_forms/getUpdateProductForm.php:328
 msgid "Aliases"
-msgstr "Alias"
+msgstr "Zkratky"
 
 #: ajax_forms/getUpdateProductForm.php:337
 msgid "Alias:"
-msgstr "Alias :"
+msgstr "Zkratka:"
 
 #: ajax_forms/getUpdateProductForm.php:359
 msgid "add alias"
-msgstr "Ajouter des alias"
+msgstr "přidat zkratku"
 
 #: ajax_htmldata.php:25
 msgid "Data action "
-msgstr "Action des données "
+msgstr "Akce s daty "
 
 #: ajax_htmldata/getAccessDetails.php:31 summary.php:673
 msgid "Access Information"
-msgstr "Accéder aux informations"
+msgstr "Informace o přístupu"
 
 #: ajax_htmldata/getAccessDetails.php:35 ajax_htmldata/getAccessDetails.php:170
 #: ajax_htmldata/getAccountDetails.php:44
@@ -1907,43 +1897,43 @@ msgstr "Accéder aux informations"
 #: ajax_htmldata/getProductDetails.php:75
 #: ajax_htmldata/getProductDetails.php:446 ajax_htmldata/getSavedQueue.php:49
 msgid "edit"
-msgstr "Modifier"
+msgstr "upravit"
 
 #: ajax_htmldata/getAccessDetails.php:35
 #: ajax_htmldata/getAcquisitionsDetails.php:280
 #: ajax_htmldata/getProductDetails.php:76
 msgid "edit resource"
-msgstr "Modifier la ressource"
+msgstr "upravit zdroj"
 
 #: ajax_htmldata/getAccessDetails.php:43 summary.php:687
 msgid "Administering Sites:"
-msgstr "Sites gérants :"
+msgstr "Spravující oddělení:"
 
 #: ajax_htmldata/getAccessDetails.php:50 summary.php:464
 msgid "Authorized Sites:"
-msgstr "Sites autorisés :"
+msgstr "Přístup z:"
 
 #: ajax_htmldata/getAccessDetails.php:65 summary.php:701
 msgid "Username / Password:"
-msgstr "Nom d'utilisateur / mot de passe :"
+msgstr "Login / Heslo:"
 
 #: ajax_htmldata/getAccessDetails.php:80 summary.php:716
 msgid "Registered IP Address:"
-msgstr "Adresse IP enregistrée :"
+msgstr "Registrovaná IP adresa:"
 
 #: ajax_htmldata/getAccessDetails.php:109
 msgid "No access information available"
-msgstr "Aucune information d'accès disponible"
+msgstr "Není k dispozici informace o přístupu"
 
 #: ajax_htmldata/getAccessDetails.php:116
 msgid "edit access information"
-msgstr "Modifier les informations d'accès"
+msgstr "upravit informaci o přístupu"
 
 #: ajax_htmldata/getAccessDetails.php:159
 #: ajax_htmldata/getAcquisitionsDetails.php:372
 #: ajax_htmldata/getProductDetails.php:435 resources/cataloging.php:207
 msgid "Additional Notes"
-msgstr "Remarques supplémentaires"
+msgstr "Dodatečné poznámky"
 
 #: ajax_htmldata/getAccessDetails.php:162
 #: ajax_htmldata/getAccessDetails.php:181
@@ -1953,98 +1943,98 @@ msgstr "Remarques supplémentaires"
 #: ajax_htmldata/getProductDetails.php:457 resources/cataloging.php:210
 #: resources/cataloging.php:229
 msgid "add new note"
-msgstr "Ajouter une nouvelle remarque"
+msgstr "přidat poznámku"
 
 #: ajax_htmldata/getAccessDetails.php:170
 #: ajax_htmldata/getAcquisitionsDetails.php:383
 #: ajax_htmldata/getProductDetails.php:446 resources/cataloging.php:218
 msgid "edit note"
-msgstr "Modifier remarque"
+msgstr "upravit poznámku"
 
 #: ajax_htmldata/getAccessDetails.php:170
 #: ajax_htmldata/getAcquisitionsDetails.php:383
 #: ajax_htmldata/getContactDetails.php:69
 #: ajax_htmldata/getProductDetails.php:446 resources/cataloging.php:218
 msgid "remove note"
-msgstr "Supprimer une remarque"
+msgstr "odstranit poznámku"
 
 #: ajax_htmldata/getAccountDetails.php:14
 #: ajax_htmldata/getContactDetails.php:35
 msgid "Resource Specific:"
-msgstr "Ressource spécifique :"
+msgstr "Specifika zdroje:"
 
 #: ajax_htmldata/getAccountDetails.php:18
 msgid "No Resource Specific Accounts"
-msgstr "Aucun compte de ressource spécifique"
+msgstr "Žádné specifické účty pro zdroj"
 
 #: ajax_htmldata/getAccountDetails.php:22
 #: ajax_htmldata/getAccountDetails.php:119
 msgid "add new account"
-msgstr "Ajouter un compte"
+msgstr "přidat účet"
 
 #: ajax_htmldata/getAccountDetails.php:27
 #: ajax_htmldata/getContactDetails.php:48
 msgid "Inherited:"
-msgstr "Hérité de :"
+msgstr "Zděděno:"
 
 #: ajax_htmldata/getAccountDetails.php:44
 msgid "edit account"
-msgstr "Modifier un compte"
+msgstr "upravit účet"
 
 #: ajax_htmldata/getAccountDetails.php:44
 msgid "remove account"
-msgstr "Supprimer un compte"
+msgstr "odstranit účet"
 
 #: ajax_htmldata/getAccountDetails.php:57
 msgid "Visit Account in Organizations Module"
-msgstr "Afficher le compte dans le module Organisations"
+msgstr "Přejít na účet v modulu organizací"
 
 #: ajax_htmldata/getAccountDetails.php:65
 msgid "Visit Login URL"
-msgstr "Aller à l'URL de connexion"
+msgstr "Navštívit přihlašovací URL"
 
 #: ajax_htmldata/getAccountDetails.php:72
 msgid "User Name:"
-msgstr "Nom d'utilisateur :"
+msgstr "Login:"
 
 #: ajax_htmldata/getAccountDetails.php:88
 #: ajax_htmldata/getContactDetails.php:173
 msgid "Last Updated:"
-msgstr "Dernière mise à jour le :"
+msgstr "Poslední úprava:"
 
 #: ajax_htmldata/getAccountDetails.php:114
 msgid "No accounts available"
-msgstr "Aucun compte disponible"
+msgstr "Žádné účty nejsou k dispozici"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:103
 #: ajax_htmldata/getAcquisitionsDetails.php:162 resources/cataloging.php:104
 msgid "edit order information"
-msgstr "Modifier les informations de commande"
+msgstr "upravit informaci o objednávce"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:130
 msgid "catalog view"
-msgstr "Affichage du catalogue"
+msgstr "zobrazit katalog"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:139
 msgid "Purchasing Sites:"
-msgstr "Sites d'achats :"
+msgstr "Nakupující oddělení:"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:155 summary.php:481
 msgid "Expiration Alert Enabled"
-msgstr "Message d'expiration activé"
+msgstr "Upozornění o vypršení zapnuto"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:174
 #: ajax_htmldata/getAcquisitionsDetails.php:269
 msgid "edit cost history"
-msgstr "Modifier l'historique de coût"
+msgstr "upravit historii plateb"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:197
 msgid "Details"
-msgstr "Détails"
+msgstr "Detaily"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:263
 msgid "No payment information available"
-msgstr "Informations de paiement indisponibles"
+msgstr "Informace o platbě není k dispozici"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:278 summary.php:573
 msgid "License"
@@ -2052,27 +2042,27 @@ msgstr "Licence"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:292 summary.php:584
 msgid " on "
-msgstr " sur "
+msgstr " na "
 
 #: ajax_htmldata/getAcquisitionsDetails.php:305 summary.php:595
 msgid "Licenses:"
-msgstr "Licences :"
+msgstr "Licence:"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:311
 msgid "View License"
-msgstr "Afficher une licence"
+msgstr "Zobrazit licenci"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:314 summary.php:604
 msgid "No associated licenses available."
-msgstr "Aucune licence associée disponible."
+msgstr "Není připojena žádná licence."
 
 #: ajax_htmldata/getAcquisitionsDetails.php:328
 msgid "edit license and status"
-msgstr "Modifier une licence et son statut"
+msgstr "upravit licenci a stav"
 
 #: ajax_htmldata/getAcquisitionsDetails.php:330
 msgid "edit license status"
-msgstr "Modifier le statut de la licence"
+msgstr "upravit stav licence"
 
 #: ajax_htmldata/getAdminAlertDisplay.php:26
 #: ajax_htmldata/getAdminAlertDisplay.php:56
@@ -2085,486 +2075,483 @@ msgstr "Modifier le statut de la licence"
 #: ajax_htmldata/getAdminWorkflowDisplay.php:91
 #: ajax_htmldata/getGeneralSubjectDisplay.php:26
 msgid "remove"
-msgstr "Supprimer"
+msgstr "odstranit"
 
 #: ajax_htmldata/getAdminAlertDisplay.php:38
 msgid "add email address"
-msgstr "Ajouter une adresse email"
+msgstr "přidat e-mail"
 
 #: ajax_htmldata/getAdminAlertDisplay.php:46
 msgid "Days in advance of expiration"
-msgstr "Jours avant expiration"
+msgstr "Dnů před vypršením"
 
 #: ajax_htmldata/getAdminAlertDisplay.php:71
 msgid "add days"
-msgstr "Ajouter des jours"
+msgstr "přidat dny"
 
 #: ajax_htmldata/getAdminCurrencyDisplay.php:38
 msgid "add new currency"
-msgstr "Ajouter une devise monétaire"
+msgstr "přidat měnu"
 
 #: ajax_htmldata/getAdminDisplay.php:19
 #: ajax_htmldata/getAdminSubjectDisplay.php:15
 #: ajax_htmldata/getAdminSubjectDisplay.php:57
 #: ajax_htmldata/getGeneralSubjectDisplay.php:16
 msgid "Value"
-msgstr "Valeur"
+msgstr "Hodnota"
 
 #: ajax_htmldata/getAdminDisplay.php:41
 #: ajax_htmldata/getAdminSubjectDisplay.php:44
 #: ajax_htmldata/getAdminSubjectDisplay.php:84
 #: ajax_htmldata/getGeneralSubjectDisplay.php:38
 msgid "add new "
-msgstr "Ajouter "
+msgstr "přidat nový "
 
 #: ajax_htmldata/getAdminFundDisplay.php:46
 msgid "add new fund"
-msgstr "Ajouter nouveau fonds"
+msgstr "přidat finanční zdroj"
 
 #: ajax_htmldata/getAdminFundDisplay.php:47
 msgid "import funds"
-msgstr "Importer des fonds"
+msgstr "importovat finanční zdroj"
 
 #: ajax_htmldata/getAdminImportConfigDisplay.php:34
 msgid "add new import configuration"
-msgstr "Ajouter une configuration importée"
+msgstr "přidat konfiguraci importu"
 
 #: ajax_htmldata/getAdminSubjectDisplay.php:51
 #: ajax_htmldata/getAdminSubjectDisplay.php:99 index.php:288
 msgid "Detailed Subject"
-msgstr "Sujet spécifique"
+msgstr "Podobor"
 
 #: ajax_htmldata/getAdminSubjectDisplay.php:92
 msgid "Subject Relationships"
-msgstr "Liens entre les sujets"
+msgstr "Vztahy oborů"
 
 #: ajax_htmldata/getAdminUserDisplay.php:47
 msgid "edit user"
-msgstr "Modifier un utilisateur"
+msgstr "upravit uživatele"
 
 #: ajax_htmldata/getAdminUserDisplay.php:54
 #: ajax_htmldata/getAdminUserDisplay.php:58
 msgid "add new user"
-msgstr "Ajouter utilisateur"
+msgstr "přidat uživatele"
 
 #: ajax_htmldata/getAdminWorkflowDisplay.php:10
 msgid "Workflow Setup"
-msgstr "Configuration du workflow"
+msgstr "Nastavení procesu"
 
 #: ajax_htmldata/getAdminWorkflowDisplay.php:54
 msgid "add workflow"
-msgstr "Ajouter un workflow"
+msgstr "přidat proces"
 
 #: ajax_htmldata/getAdminWorkflowDisplay.php:56
 msgid "You must set up at least one user group before you can add workflows"
-msgstr ""
-"Configurez au moins un groupe d'utilisateurs avant d'ajouter des workflows"
+msgstr "Pro vytvoření procesu přidejte alespoň jednu skupinu uživatelů"
 
 #: ajax_htmldata/getAdminWorkflowDisplay.php:66
 msgid "User Group Setup"
-msgstr "Configuration du groupe d'utilisateurs"
+msgstr "Nastavení uživatelské skupiny"
 
 #: ajax_htmldata/getAdminWorkflowDisplay.php:72
 msgid "Group Name"
-msgstr "Nom du groupe"
+msgstr "Název skupiny"
 
 #: ajax_htmldata/getAdminWorkflowDisplay.php:104
 msgid "add user group"
-msgstr "Ajouter un groupe d'utilisateurs"
+msgstr "přidat uživatelskou skupinu"
 
 #: ajax_htmldata/getAttachmentDetails.php:30
 msgid "view attachment"
-msgstr "Afficher la pièce jointe"
+msgstr "zobrazit přílohu"
 
 #: ajax_htmldata/getAttachmentDetails.php:35
 msgid "edit attachment"
-msgstr "Modifier la pièce jointe"
+msgstr "upravit přílohu"
 
 #: ajax_htmldata/getAttachmentDetails.php:35
 msgid "remove this attachment"
-msgstr "Supprimer cette pièce jointe"
+msgstr "odstranit přílohu"
 
 #: ajax_htmldata/getAttachmentDetails.php:67
 msgid "No attachments available"
-msgstr "Aucune pièce jointe disponible"
+msgstr "Žádné přílohy"
 
 #: ajax_htmldata/getAttachmentDetails.php:72
 msgid "add new attachment"
-msgstr "Ajouter une pièce jointe"
+msgstr "přidat přílohu"
 
 #: ajax_htmldata/getContactDetails.php:23
 msgid "The following are archived contacts:"
-msgstr "Les contacts ci-dessous sont archivés :"
+msgstr "Následující kontakty jsou archivovány:"
 
 #: ajax_htmldata/getContactDetails.php:39
 msgid "No Resource Specific Contacts"
-msgstr "Aucun contact n'est rattaché à des ressources spécifiques"
+msgstr "Zdroj nemá specifické kontakty"
 
 #: ajax_htmldata/getContactDetails.php:68
 msgid "edit contact"
-msgstr "Modifier le contact"
+msgstr "upravit kontakt"
 
 #: ajax_htmldata/getContactDetails.php:69
 msgid "remove contact"
-msgstr "Supprimer un contact"
+msgstr "odstranit kontakt"
 
 #: ajax_htmldata/getContactDetails.php:84
 msgid "Visit Contact in Organizations Module"
-msgstr "Afficher le contact dans le module Organisations"
+msgstr "Přejít na kontakt v organizačním modulu"
 
 #: ajax_htmldata/getContactDetails.php:92
 msgid "No longer valid:"
-msgstr "N'est plus valide :"
+msgstr "Už není validní:"
 
 #: ajax_htmldata/getContactDetails.php:116
 msgid "Location:"
-msgstr "Localisation :"
+msgstr "Lokace:"
 
 #: ajax_htmldata/getContactDetails.php:195
 msgid "No contacts available"
-msgstr "Aucun contact disponible"
+msgstr "Žádný kontakt"
 
 #: ajax_htmldata/getContactDetails.php:205
 msgid " archived contact(s) available."
-msgstr " contact(s) archivé(s) disponible(s)."
+msgstr " archivovaných kontaktů."
 
 #: ajax_htmldata/getContactDetails.php:205
 msgid "show archived contacts"
-msgstr "Afficher les contacts archivés"
+msgstr "zobrazit archivované kontakty"
 
 #: ajax_htmldata/getContactDetails.php:209
 msgid "hide archived contacts"
-msgstr "Masquer les contacts archivés"
+msgstr "skrýt archivované kontakty"
 
 #: ajax_htmldata/getDowntimeList.php:22
 msgid "Downtime Resolved:"
-msgstr "Temps d'indisponibilité résolu :"
+msgstr "Výpadek vyřešen:"
 
 #: ajax_htmldata/getDowntimeList.php:33
 msgid "Linked issue:"
-msgstr "Incident associé :"
+msgstr "Propojený problém:"
 
 #: ajax_htmldata/getDowntimeList.php:54 ajax_htmldata/getIssuesList.php:72
 msgid "Organizational"
-msgstr "Organisationnel"
+msgstr "Organizační"
 
 #: ajax_htmldata/getDowntimeList.php:68
 msgid "There are no organization level downtimes."
-msgstr "Il n'y aucun temps d'indisponibilité au niveau organisationnel."
+msgstr "Žádné odstávky na úrovni organizace."
 
 #: ajax_htmldata/getDowntimeList.php:79 ajax_htmldata/getIssuesList.php:97
 #: templates/header.php:96
 msgid "Resources"
-msgstr "Ressources"
+msgstr "Informační zdroje"
 
 #: ajax_htmldata/getDowntimeList.php:85
 msgid "There are no resource level downtimes."
-msgstr "Il n'y a aucun temps d'indisponibilité au niveau Ressources."
+msgstr "Žádné odstávky na úrovni zdroje."
 
 #: ajax_htmldata/getIssues.php:17
 msgid "Issues/Problems"
-msgstr "Incidents/problèmes"
+msgstr "Problémy"
 
 #: ajax_htmldata/getIssues.php:20
 msgid "report new issue"
-msgstr "Signaler un nouvel incident"
+msgstr "nahlásit problém"
 
 #: ajax_htmldata/getIssues.php:24
 msgid "view open issues"
-msgstr "Voir les incidents ouverts"
+msgstr "zobrazit aktivní problémy"
 
 #: ajax_htmldata/getIssues.php:31
 msgid "view archived issues"
-msgstr "Voir les incidents archivés"
+msgstr "zobrazit archivované problémy"
 
 #: ajax_htmldata/getIssues.php:40
 msgid "Downtime"
-msgstr "Temps d'indisponibilité"
+msgstr "Odstávka"
 
 #: ajax_htmldata/getIssues.php:43
 msgid "report new Downtime"
-msgstr "Signaler un nouveau temps d'indisponibilité"
+msgstr "nahlásit novou odstávku"
 
 #: ajax_htmldata/getIssues.php:47
 msgid "view current/upcoming downtime"
-msgstr "Voir les temps d'indisponibilité actuels/à venir"
+msgstr "zobrazit aktivní / nadcházející odstávky"
 
 #: ajax_htmldata/getIssues.php:54
 msgid "view archived downtime"
-msgstr "Voir le temps d'indisponibilité archivé"
+msgstr "zobrazit archivované odstávky"
 
 #: ajax_htmldata/getIssuesList.php:15
 msgid "close"
-msgstr "fermer"
+msgstr "zavřít"
 
 #: ajax_htmldata/getIssuesList.php:17 ajax_htmldata/getIssuesList.php:19
 msgid "downtime"
-msgstr "Temps d'indisponibilité"
+msgstr "odstávka"
 
 #: ajax_htmldata/getIssuesList.php:24
 msgid "Date reported:"
-msgstr "Date signalé :"
+msgstr "Datum nahlášení:"
 
 #: ajax_htmldata/getIssuesList.php:28
 msgid "Date closed:"
-msgstr "Date fermé :"
+msgstr "Datum uzavření:"
 
 #: ajax_htmldata/getIssuesList.php:34
 msgid "Contact(s):"
-msgstr "Contact(s) :"
+msgstr "Kontakty:"
 
 #: ajax_htmldata/getIssuesList.php:91
 msgid "There are no organization level issues."
-msgstr "Il n'y a aucun incident au niveau organisationnel."
+msgstr "Žádné problémy na úrovni organizace."
 
 #: ajax_htmldata/getIssuesList.php:109
 msgid "There are no resource level issues."
-msgstr "Il n'y a aucun incident au niveau ressource."
+msgstr "Žádné problémy na úrovni zdroje."
 
 #: ajax_htmldata/getOutstandingQueue.php:7 queue.php:51
 msgid "Outstanding Tasks"
-msgstr "Tâches en attente"
+msgstr "Aktivní úkoly"
 
 #: ajax_htmldata/getOutstandingQueue.php:12
 msgid "No outstanding requests"
-msgstr "Aucune demande en attente"
+msgstr "Žádné aktivní úkoly"
 
 #: ajax_htmldata/getOutstandingQueue.php:19 ajax_htmldata/getSavedQueue.php:17
 #: ajax_htmldata/getSearchResources.php:114
 #: ajax_htmldata/getSubmittedQueue.php:14
 msgid "ID"
-msgstr "Identifiant"
+msgstr "ID"
 
 #: ajax_htmldata/getOutstandingQueue.php:22 index.php:559
 msgid "Routing Step"
-msgstr "Étape de routage"
+msgstr "Krok"
 
 #: ajax_htmldata/getOutstandingQueue.php:23
 #: ajax_htmldata/getRoutingDetails.php:24
 msgid "Start Date"
-msgstr "Date de début"
+msgstr "Datum začátku"
 
 #: ajax_htmldata/getProductDetails.php:84
 #: ajax_htmldata/getProductDetails.php:85
 msgid "remove resource"
-msgstr "Supprimer une ressource"
+msgstr "odstranit informační zdroj"
 
 #: ajax_htmldata/getProductDetails.php:91
 #: ajax_htmldata/getProductDetails.php:92
 msgid "remove resource and its children"
-msgstr "Supprimer la ressource et ses éléments subsidiaires"
+msgstr "odstranit inf. zdroj a jeho dceřiné zdroje"
 
 #: ajax_htmldata/getProductDetails.php:136 summary.php:224
 msgid "Created:"
-msgstr "Créée le :"
+msgstr "Vytvořeno:"
 
 #: ajax_htmldata/getProductDetails.php:161 summary.php:250
 msgid "Last Update:"
-msgstr "Dernière mise à jour le :"
+msgstr "Poslední úprava:"
 
 #: ajax_htmldata/getProductDetails.php:186 summary.php:275
 msgid "Related Products:"
-msgstr "Produits associés :"
+msgstr "Související produkty:"
 
 #: ajax_htmldata/getProductDetails.php:194
 #: ajax_htmldata/getProductDetails.php:202
 msgid "view resource"
-msgstr "Afficher la ressource"
+msgstr "zobrazit zdroj"
 
 #: ajax_htmldata/getProductDetails.php:194
 #: ajax_htmldata/getProductDetails.php:202
 #: ajax_htmldata/getProductDetails.php:256
 msgid "View "
-msgstr "Afficher "
+msgstr "Zobrazit "
 
 #: ajax_htmldata/getProductDetails.php:232 summary.php:307
 msgid "Aliases:"
-msgstr "Alias :"
+msgstr "Zkratky:"
 
 #: ajax_htmldata/getProductDetails.php:249 summary.php:324
 msgid "Organizations:"
-msgstr "Organisations :"
+msgstr "Organizace:"
 
 #: ajax_htmldata/getProductDetails.php:270 summary.php:345
 msgid "Resource URL:"
-msgstr "URL de la ressource :"
+msgstr "URL zdroje:"
 
 #: ajax_htmldata/getProductDetails.php:271
 msgid "Visit Resource URL"
-msgstr "Aller à l'URL de la ressource"
+msgstr "Navštívit URL zdroje"
 
 #: ajax_htmldata/getProductDetails.php:279
 msgid "Visit Secondary Resource URL"
-msgstr "Aller à l'URL secondaire de la ressource"
+msgstr "Navštívit sekundární URL zdroje"
 
 #: ajax_htmldata/getProductDetails.php:294
 msgid "edit product details"
-msgstr "Modifier les détails du produit"
+msgstr "upravit detaily produktu"
 
 #: ajax_htmldata/getProductDetails.php:366
 #: ajax_htmldata/getProductDetails.php:367
 msgid "remove subject"
-msgstr "Supprimer un sujet"
+msgstr "smazat obor"
 
 #: ajax_htmldata/getProductDetails.php:388
 msgid "add new subject"
-msgstr "Ajouter un nouveau sujet"
+msgstr "přidat obor"
 
 #: ajax_htmldata/getRightPanel.php:40
 msgid "Print View"
-msgstr "Version imprimable"
+msgstr "Náhled tisku"
 
 #: ajax_htmldata/getRightPanel.php:42
 msgid "Catalog View"
-msgstr "Affichage du catalogue"
+msgstr "Zobrazit katalog"
 
 #: ajax_htmldata/getRightPanel.php:50
 msgid "Parent Record(s)"
-msgstr "Fiche(s) principale(s)"
+msgstr "Nadřazené záznamy"
 
 #: ajax_htmldata/getRightPanel.php:58
 msgid "Child Record(s)"
-msgstr "Fiche(s) subsidiaire(s)"
+msgstr "Dceřinné záznamy"
 
 #: ajax_htmldata/getRightPanel.php:77
 msgid "Organizations Module"
-msgstr "Module Organisations"
+msgstr "Organizace"
 
 #: ajax_htmldata/getRightPanel.php:93
 msgid "Licensing Module"
-msgstr "Module des Licences"
+msgstr "Licence"
 
 #: ajax_htmldata/getRightPanel.php:111
 msgid "Usage Statistics Module"
-msgstr "Module Statistiques d'utilisation"
+msgstr "Statistiky využití"
 
 #: ajax_htmldata/getRightPanel.php:117
 msgid "Get Statistics"
-msgstr "Obtenir des statistiques"
+msgstr "Získat statistiku"
 
 #: ajax_htmldata/getRoutingDetails.php:13
 msgid ""
 "No workflow steps have been set up for this resource's combination of "
 "Acquisition Type and Resource Format."
 msgstr ""
-"Aucune étape de workflow n'a été configurée pour cet ensemble de Type "
-"d'acquisition et de Format de ressource."
+"Pro tento zdroj nebyly zadány žádné kroky procesu ohledně typu akvizice a "
+"formátu zdroje."
 
 #: ajax_htmldata/getRoutingDetails.php:13
 msgid ""
 "If you think this is in error, please contact your workflow administrator."
-msgstr ""
-"Si vous pensez qu'il s'agit d'une erreur, contactez votre administrateur de "
-"workflows."
+msgstr "Pokud nastala chyba, kontaktujte administrátora."
 
 #: ajax_htmldata/getRoutingDetails.php:15
 msgid "Not entered into workflow."
-msgstr "Non-entré dans le workflow."
+msgstr "Není zadán do procesu."
 
 #: ajax_htmldata/getRoutingDetails.php:21
 msgid "Step"
-msgstr "Étape"
+msgstr "Krok"
 
 #: ajax_htmldata/getRoutingDetails.php:23
 msgid "Group"
-msgstr "Groupe"
+msgstr "Skupina"
 
 #: ajax_htmldata/getRoutingDetails.php:25
 msgid "Complete"
-msgstr "Terminé"
+msgstr "Hotovo"
 
 #: ajax_htmldata/getRoutingDetails.php:26
 msgid "Delete"
-msgstr "Supprimer"
+msgstr "Smazat"
 
 #: ajax_htmldata/getRoutingDetails.php:60
 msgid "mark complete"
-msgstr "Marquer comme terminé"
+msgstr "označit za hotové"
 
 #: ajax_htmldata/getRoutingDetails.php:88
 #: ajax_htmldata/getRoutingDetails.php:90
 msgid "Workflow completed on "
-msgstr "Workflow terminé le "
+msgstr "Proces dokončen "
 
 #: ajax_htmldata/getRoutingDetails.php:94
 #: ajax_htmldata/getRoutingDetails.php:96
 msgid "Workflow restarted on "
-msgstr "Workflow redémarré le "
+msgstr "Proces restartován "
 
 #: ajax_htmldata/getRoutingDetails.php:106
 msgid "restart workflow"
-msgstr "Redémarrer le workflow"
+msgstr "restartovat proces"
 
 #: ajax_htmldata/getRoutingDetails.php:107
 msgid "mark entire workflow complete"
-msgstr "Marquer tout le workflow comme Terminé"
+msgstr "označit celý proces za hotový"
 
 #: ajax_htmldata/getSavedQueue.php:6 queue.php:52
 msgid "Saved Requests"
-msgstr "Demandes enregistrées"
+msgstr "Uložené požadavky"
 
 #: ajax_htmldata/getSavedQueue.php:11
 msgid "No saved requests"
-msgstr "Aucune demande enregistrée"
+msgstr "Žádné uložené požadavky"
 
 #: ajax_htmldata/getSavedQueue.php:19 ajax_htmldata/getSearchResources.php:116
 #: ajax_htmldata/getSubmittedQueue.php:16
 msgid "Date Created"
-msgstr "Créée le"
+msgstr "Datum vytvoření"
 
 #: ajax_htmldata/getSavedQueue.php:21 ajax_htmldata/getSearchResources.php:118
 #: ajax_htmldata/getSubmittedQueue.php:18 index.php:138
 msgid "Status"
-msgstr "Statut"
+msgstr "Stav"
 
 #: ajax_htmldata/getSavedQueue.php:49
 msgid "edit request"
-msgstr "Modifier une demande"
+msgstr "upravit požadavek"
 
 #: ajax_htmldata/getSavedQueue.php:50
 msgid "remove request"
-msgstr "Supprimer une demande"
+msgstr "odstranit požadavek"
 
 #: ajax_htmldata/getSearchResources.php:38
 msgid "Sorry, no requests fit your query"
-msgstr "Désolé, aucune demande ne répond à votre requête"
+msgstr "Žádný záznam neodpovídá dotazu"
 
 #: ajax_htmldata/getSearchResources.php:53
 #, php-format
 msgid "Displaying %d to %d of %d Resource Record"
 msgid_plural "Displaying %d to %d of %d Resource Records"
-msgstr[0] "Affichage de %d à %d de %d fiche de ressource"
-msgstr[1] "Affichage de %d à %d de %d fiches de ressource"
+msgstr[0] "Zobrazuji %d až %d z %d záznamu zdrojů"
+msgstr[1] "Zobrazuji %d až %d ze %d záznamů zdrojů"
 
 #: ajax_htmldata/getSearchResources.php:66
 #: ajax_htmldata/getSearchResources.php:173
 msgid "previous page"
-msgstr "Page précédente"
+msgstr "předchozí stránka"
 
 #: ajax_htmldata/getSearchResources.php:100
 #: ajax_htmldata/getSearchResources.php:207
 msgid "next page"
-msgstr "Page suivante"
+msgstr "následující stránka"
 
 #: ajax_htmldata/getSearchResources.php:115 index.php:169
 msgid "Creator"
-msgstr "Créé par"
+msgstr "Tvůrce"
 
 #: ajax_htmldata/getSearchResources.php:224
 msgid "records per page"
-msgstr "résultats par page"
+msgstr "záznamů na stránku"
 
 #: ajax_htmldata/getSubmittedQueue.php:5 queue.php:53
 msgid "Submitted Requests"
-msgstr "Demandes envoyées"
+msgstr "Odeslané požadavky"
 
 #: ajax_htmldata/getSubmittedQueue.php:8
 msgid "No submitted requests"
-msgstr "Aucune demande envoyée"
+msgstr "Žádné odeslané požadavky"
 
 #: ajax_processing.php:27
 msgid "Processing action "
-msgstr "Traitement de l'opération en cours"
+msgstr "Zpracovávám akci "
 
 #: ajax_processing/deleteDetailedSubject.php:12
 #: ajax_processing/deleteGeneralSubject.php:12
@@ -2573,89 +2560,85 @@ msgid ""
 "Unable to delete.  Please make sure no resources are set up with this "
 "information."
 msgstr ""
-"Suppression impossible. Vérifiez qu'aucune ressource n'est paramétrée avec "
-"cette information."
+"Nepodařilo se smazat. Ujistěte se, že žádný zdroj není propojen s touto "
+"informací."
 
 #: ajax_processing/deleteImportConfig.php:7
 msgid "Import configuration successfully deleted."
-msgstr "La configuration importée a été supprimée avec succès."
+msgstr "Úspěšně smazána konfigurace importu."
 
 #: ajax_processing/deleteInstance.php:12
 msgid "Unable to delete  - this "
-msgstr "Impossible de supprimer - ceci "
+msgstr "Nepodařilo se smazat - tato "
 
 #: ajax_processing/deleteInstance.php:12
 msgid ""
 " is in use.  Please make sure no resources are set up with this information."
 msgstr ""
-" est utilisé. Merci de vérifier qu'aucune ressource n'est configurée avec "
-"cette information."
+" je používán. Ujistěte se, že žádný zdroj není propojen s touto informací."
 
 #: ajax_processing/deleteResource.php:7
 #: ajax_processing/deleteResourceAndChildren.php:8
 msgid "Resource successfully deleted."
-msgstr "Ressource supprimée avec succès."
+msgstr "Zdroj úspěšně smazán."
 
 #: ajax_processing/deleteResourceNote.php:7
 msgid "Note successfully deleted."
-msgstr "Remarque supprimée avec succès."
+msgstr "Poznámka úspěšně smazána."
 
 #: ajax_processing/removeResourceSubjectRelationship.php:10
 msgid "Subject successfully removed."
-msgstr "Sujet supprimé avec succès."
+msgstr "Obor úspěšně smazán."
 
 #: ajax_processing/updateDetailedSubject.php:22
 #: ajax_processing/updateGeneralSubject.php:21
 msgid "A duplicate "
-msgstr "Présence d'un "
+msgstr "Duplikát "
 
 #: ajax_processing/updateDetailedSubject.php:22
 #: ajax_processing/updateGeneralSubject.php:21
 msgid " exists."
-msgstr " doublon."
+msgstr " nalezen."
 
 #: ajax_processing/updateUserData.php:26
 msgid "User successfully saved."
-msgstr "Utilisateur enregistré avec succès."
+msgstr "Uživatel úspěšně uložen."
 
 #: ajax_processing/uploadAttachment.php:29
 msgid "There was a problem saving your file to "
-msgstr "Il y a eu un problème lors de l'enregistrement de votre fichier sur "
+msgstr "Nastala chyba při ukládání souboru do "
 
 #: ajax_processing/uploadAttachment.php:29
 msgid ".  Please ensure your attachments directory is writable."
-msgstr ""
-". Merci de vérifier que votre dossier de pièces jointes est accessible en "
-"écriture."
+msgstr ". Ujistěte se, že složka s přílohami je nastavena pro zápis."
 
 #: import.php:15
 msgid "Resources import"
-msgstr "Importer des ressources"
+msgstr "Import inf. zdrojů"
 
 #: import.php:18
 msgid "Delimited File Import"
-msgstr "Importer un fichier délimité"
+msgstr "Import souboru s oddělovači"
 
 #: import.php:38 importFunds.php:21
 msgid "The file has been successfully uploaded."
-msgstr "Le fichier a été téléchargé avec succès."
+msgstr "Soubor byl úspěšně nahrán."
 
 #: import.php:52 importFunds.php:31
 msgid "Unable to get columns headers from the file"
-msgstr ""
-"Impossible d'obtenir les noms des en-têtes de colonne à partir du fichier"
+msgstr "Nepodařilo se získat hlavičky sloupců ze souboru"
 
 #: import.php:58 importFunds.php:34
 msgid "Unable to open the uploaded file"
-msgstr "Impossible d'ouvrir le fichier téléchargé"
+msgstr "Nepodařilo se otevřít nahraný soubor"
 
 #: import.php:63
 msgid "Unable to upload the file"
-msgstr "Impossible de télécharger le fichier"
+msgstr "Nepodařilo se nahrát soubor"
 
 #: import.php:67 importFunds.php:37
 msgid "Error: "
-msgstr "Erreur : "
+msgstr "Chyba: "
 
 #: import.php:71
 msgid ""
@@ -2672,474 +2655,468 @@ msgid ""
 "Organization Roles that you can assign to your mapped columns can be "
 "configured on the Admin page."
 msgstr ""
-"Si vous n’avez pas créé précédemment de Configuration d’importation, pour "
-"chaque champ de ressource veuillez entrer le numéro de la colonne de votre "
-"fichier CSV qui correspond au champ de la ressource. Par exemple, si votre "
-"fichier importé a une deuxième colonne nommée Nom qui correspond au Titre de "
-"la ressource, entrez 2 comme valeur dans le champ Titre de la ressource. "
-"Pour les colonnes comportant plusieurs valeurs délimitées par des "
-"caractères, indiquez le délimiteur en sélectionnant l’option Si délimité, "
-"Délimité par champ. Pour les champs ayant des valeurs dans plusieurs "
-"colonnes, ajoutez des ensembles de données supplémentaires en cliquant sur "
-"les liens +Ajouter. Utilisez la fonction Dédupliquer sur cette colonne pour "
-"les ensembles ISBN/ISSN pour ignorer les éventuelles valeurs dupliquées qui "
-"pourraient apparaître dans ces colonnes. Les Types d’alias, les Types de "
-"remarques et les Rôles d’organisation que vous pouvez attribuer à vos "
-"colonnes mappées peuvent être paramétrées dans la page Administration."
+"Pokud jste ještě nevytvořil konfiguraci pro import, pak u každého z polí "
+"zdrojů vložte číslo sloupce v souboru CSV, který odpovídá poli zdroje. Pokud "
+"má například soubor importu druhý sloupec nazvaný Název, který odpovídá "
+"Titulku zdroje, zadáte hodnotu 2 pro hodnotu pro pole Titulek zdroje. U "
+"sloupců s více hodnotami, které jsou odděleny znakem, označte oddělovač "
+"pomocí pole Oddělovač. U polí s hodnotami ve více sloupcích přidávejte další "
+"sady pomocí + Přidat další odkazy. Použijte volbu Deduplikovat tento sloupec "
+"pro sady ISBN / ISSN ignorovat duplicitní hodnoty, které by mohly nastat v "
+"těchto sloupcích. Typy zkratek, typy poznámek a role organizací, které "
+"můžete přiřadit mapovaným sloupcům, lze konfigurovat na stránce Administrace."
 
 #: import.php:72
 msgid "Please select the import configuration to load: "
-msgstr "Veuillez sélectionner la configuration importée à charger : "
+msgstr "Vyberte konfiguraci importu pro načtení: "
 
 #: import.php:73
 msgid "Select Configuration"
-msgstr "Sélectionnez une configuration"
+msgstr "Vyberte konfiguraci"
 
 #: import.php:80
 msgid "Please choose columns from your CSV file:"
-msgstr "Choisissez les colonnes de votre fichier CSV :"
+msgstr "Vyberte sloupce z nahraného CSV:"
 
 #: import.php:265
 msgid "Settings"
-msgstr "Paramètres"
+msgstr "Nastavení"
 
 #: import.php:266
 msgid "Importing and deduping isbnOrISSN on the following columns: "
-msgstr "Importer et dédoublonner isbnOuISSN dans les colonnes suivantes : "
+msgstr "Import a deduplikace ISBN nebo ISSN na následujících sloupcích: "
 
 #: import.php:549
 msgid "Organization "
-msgstr "Organisation "
+msgstr "Organizaci "
 
 #: import.php:549
 msgid " could not be added."
-msgstr " n'a pu être ajouté."
+msgstr " se nepodařilo přidat."
 
 #: import.php:562 import.php:586
 msgid "Error: more than one organization is called "
-msgstr "Erreur : Plusieurs organisations ont le même nom "
+msgstr "Chyba: je načítána více než jedna organizace "
 
 #: import.php:562
 msgid ". Please consider deduping."
-msgstr ". Pensez à supprimer les doublons."
+msgstr ". Zvažte deduplikaci."
 
 #: import.php:586
 msgid " Please consider deduping."
-msgstr " Pensez à supprimer les doublons."
+msgstr " Zvažte deduplikaci."
 
 #: import.php:652 importFunds.php:52
 msgid "Results"
-msgstr "Résultats"
+msgstr "Výsledky"
 
 #: import.php:653
 msgid " rows have been processed. "
-msgstr " lignes ont été traitées. "
+msgstr " řádků bylo zpracováno. "
 
 #: import.php:653
 msgid " rows have been inserted."
-msgstr " lignes ont été ajoutées."
+msgstr " řádků bylo vloženo."
 
 #: import.php:654
 msgid " parents have been created. "
-msgstr " principales ont été créées. "
+msgstr " nadřazených zdrojů bylo vytvořeno. "
 
 #: import.php:654
 msgid " resources have been attached to an existing parent."
-msgstr " ressources ont été rattachées à une ressource principale existante."
+msgstr " zdrojů bylo napojeno na existující nadřazený zdroj."
 
 #: import.php:655
 msgid " organizations have been created"
-msgstr " organisations ont été créées"
+msgstr " organizací bylo vytvořeno"
 
 #: import.php:665
 msgid " resources have been attached to an existing organization."
-msgstr " ressources ont été rattachées à une organisation existante."
+msgstr " zdrojů bylo připojeno k existujícím organizacím."
 
 #: import.php:666
 msgid " resource types have been created"
-msgstr " types de ressource ont été créés"
+msgstr " typů zdrojů bylo vytvořeno"
 
 #: import.php:667
 msgid " resource formats have been created"
-msgstr " formats de ressources ont été créés"
+msgstr " formátů zdrojů bylo vytvořeno"
 
 #: import.php:668
 msgid " general subjects have been created"
-msgstr " sujets généraux ont été créés"
+msgstr " obory byly vytvořeny"
 
 #: import.php:669
 msgid " aliases have been created"
-msgstr " alias ont été créés"
+msgstr " zkratek bylo vytvořeno"
 
 #: import.php:670
 msgid " notes have been created"
-msgstr " remarques ont été créées"
+msgstr " poznámek bylo vytvořeno"
 
 #: import.php:676
 msgid ""
 "The first line of the CSV file must contain column names, and not data. "
 "These names will be used during the import process."
 msgstr ""
-"La première ligne du fichier CSV doit contenir des noms de colonnes et non "
-"des données. Ces noms seront utilisés pendant le processus d'importation."
+"První řádek CSV souboru musí obsahovat názvy sloupců. Tato jména jsou "
+"využívána dále v importu."
 
 #: import.php:679
 msgid "File selection"
-msgstr "Sélection du fichier"
+msgstr "Vyberte soubor"
 
 #: import.php:680
 msgid "CSV File"
-msgstr "Fichier CSV"
+msgstr "CSV soubor"
 
 #: import.php:684
 msgid "Import options"
-msgstr "Options d'importation"
+msgstr "Nastavení importu"
 
 #: import.php:685
 msgid "CSV delimiter"
-msgstr "Délimiteur CSV"
+msgstr "CSV oddělovač"
 
 #: import.php:687
 msgid "(comma)"
-msgstr "(virgule)"
+msgstr "(čárka)"
 
 #: import.php:688
 msgid "(semicolon)"
-msgstr "(point-virgule)"
+msgstr "(středník)"
 
 #: import.php:689
 msgid "(pipe)"
-msgstr "(barre verticale)"
+msgstr "(svislice)"
 
 #: import.php:692
 msgid "Upload"
-msgstr "Télcharger"
+msgstr "Nahrát"
 
 #: importFunds.php:53
 msgid "rows have been processed."
-msgstr "lignes ont été traitées."
+msgstr "řádků bylo zpracováno."
 
 #: importFunds.php:60
 msgid "Import Funds"
-msgstr "Importer des fonds"
+msgstr "Importovat finanční zdroje"
 
 #: importFunds.php:61
 msgid "Select File"
-msgstr "Sélectionnez un fichier"
+msgstr "Vyberte soubor"
 
 #: importFunds.php:63
 msgid "import"
-msgstr "Importer"
+msgstr "import"
 
 #: index.php:36 templates/header.php:168
 msgid "Home"
-msgstr "Accueil"
+msgstr "Domů"
 
 #: index.php:55
 msgid "Search"
-msgstr "Rechercher"
+msgstr "Hledat"
 
 #: index.php:56
 msgid "new search"
-msgstr "Nouvelle recherche"
+msgstr "nové hledání"
 
 #: index.php:65
 msgid "Name (contains)"
-msgstr "Nom (contient)"
+msgstr "Název (obsahuje)"
 
 #: index.php:69 index.php:80 index.php:384 index.php:401
 msgid "go!"
-msgstr "OK !"
+msgstr "OK!"
 
 #: index.php:76
 msgid "ISBN/ISSN"
-msgstr "ISBN/ISSN"
+msgstr "ISBN / ISSN"
 
 #: index.php:90 index.php:118 index.php:141 index.php:172 index.php:204
 #: index.php:228 index.php:260 index.php:291 index.php:353 index.php:411
 #: index.php:443 index.php:475 index.php:505 index.php:535 index.php:562
 #: index.php:583
 msgid "All"
-msgstr "Tous"
+msgstr "Vše"
 
 #: index.php:93 index.php:95 index.php:233 index.php:235 index.php:265
 #: index.php:267 index.php:296 index.php:298 index.php:357 index.php:359
 #: index.php:415 index.php:417 index.php:447 index.php:449 index.php:479
 #: index.php:481 index.php:509 index.php:511 index.php:538 index.php:540
 msgid "(none)"
-msgstr "(aucun)"
+msgstr "(žádný)"
 
 #: index.php:319
 msgid "Starts with"
-msgstr "Commençant par"
+msgstr "Začíná na"
 
 #: index.php:380
 msgid "Note (contains)"
-msgstr "Remarque (contient)"
+msgstr "Poznámka (obsahuje)"
 
 #: index.php:392
 msgid "Date Created Between"
-msgstr "Date de création entre"
+msgstr "Datum vytvoření mezi"
 
 #: index.php:394
 msgid "and"
-msgstr "et"
+msgstr "a"
 
 #: index.php:408
 msgid "Purchase Site"
-msgstr "Site d'achat"
+msgstr "Nakupující oddělení"
 
 #: index.php:584
 msgid "Parent"
-msgstr "Parent"
+msgstr "Nadřazený zdroj"
 
 #: index.php:585
 msgid "Child"
-msgstr "Enfant"
+msgstr "Dceřinný zdroj"
 
 #: queue.php:26 queue.php:40 templates/header.php:183
 msgid "My Queue"
-msgstr "Ma file d'attente"
+msgstr "K vyřízení"
 
 #: resource.php:53
 msgid "Success!"
-msgstr "Opération réussie !"
+msgstr "Úspěch!"
 
 #: resource.php:53
 msgid "New resource added"
-msgstr "Nouvelle ressource ajoutée"
+msgstr "Přidán nový zdroj"
 
 #: resource.php:71
 msgid "product"
-msgstr "Produit"
+msgstr "produkt"
 
 #: resource.php:91
 msgid "acquisitions"
-msgstr "acquisitions"
+msgstr "akvizice"
 
 #: resource.php:116
 msgid "access"
-msgstr "accès"
+msgstr "přístup"
 
 #: resource.php:134
 msgid "contacts"
-msgstr "contacts"
+msgstr "kontakty"
 
 #: resource.php:151
 msgid "issues"
-msgstr "Incidents"
+msgstr "problémy"
 
 #: resource.php:171
 msgid "accounts"
-msgstr "Comptes"
+msgstr "účty"
 
 #: resource.php:190
 msgid "attachments"
-msgstr "Pièces jointes"
+msgstr "přílohy"
 
 #: resource.php:206
 msgid "routing"
-msgstr "En transit"
+msgstr "kroky"
 
 #: resource.php:226
 msgid "cataloging"
-msgstr "Catalogage"
+msgstr "katalogizace"
 
 #: resource.php:240
 msgid "Helpful Links"
-msgstr "Liens utiles"
+msgstr "Související odkazy"
 
 #: resource.php:250
 msgid "Send feedback on this resource"
-msgstr "Envoyer un commentaire sur cette ressource"
+msgstr "Odeslat zpětnou vazbu na tento zdroj"
 
 #: resources/cataloging.php:101 summary.php:792
 msgid "Cataloging"
-msgstr "Catalogage"
+msgstr "Katalogizace"
 
 #: resources/cataloging.php:112 summary.php:798
 msgid "Identifier:"
-msgstr "Identifiant :"
+msgstr "Identifikátor:"
 
 #: resources/cataloging.php:118
 msgid "Source URL:"
-msgstr "URL de la source :"
+msgstr "URL zdroje:"
 
 #: resources/cataloging.php:119
 msgid "Visit Source URL"
-msgstr "Aller à l'URL de la source"
+msgstr "Navštívit URL zdroje"
 
 #: resources/cataloging.php:126 summary.php:812
 msgid "Cataloging Type:"
-msgstr "Type de catalogage :"
+msgstr "Typ katalogizace:"
 
 #: resources/cataloging.php:134 summary.php:820
 msgid "Cataloging Status:"
-msgstr "Statut de catalogage :"
+msgstr "Stav katalogizace:"
 
 #: resources/cataloging.php:139
 msgid "Number of Records Available"
-msgstr "Nombre de fiches disponibles"
+msgstr "Počet dostupných zdrojů"
 
 #: resources/cataloging.php:140 summary.php:826
 msgid "# Records Available:"
-msgstr "Nbre de fiches disponibles :"
+msgstr "Počet dostupných zdrojů:"
 
 #: resources/cataloging.php:145
 msgid "Number of Records Loaded"
-msgstr "Nombre de fiches chargées"
+msgstr "Počet načtených zdrojů"
 
 #: resources/cataloging.php:146 summary.php:832
 msgid "# Records Loaded:"
-msgstr "Nbre de fiches chargées :"
+msgstr "Počet načtených zdrojů:"
 
 #: resources/cataloging.php:151 summary.php:838
 msgid "OCLC Holdings:"
-msgstr "Fonds OCLC :"
+msgstr "Sbírky OCLC:"
 
 #: resources/cataloging.php:152 summary.php:839
 msgid "Yes"
-msgstr "Oui"
+msgstr "Ano"
 
 #: resources/cataloging.php:152 summary.php:839
 msgid "No"
-msgstr "Non"
+msgstr "Ne"
 
 #: resources/cataloging.php:157 summary.php:845
 msgid "No cataloging information available."
-msgstr "Informations de catalogage non disponibles."
+msgstr "Nejsou katalogizační informace."
 
 #: resources/cataloging.php:163
 msgid "edit cataloging details"
-msgstr "Modifier les détails de catalogage"
+msgstr "upravit katalogizační záznam"
 
 #: resources/cataloging_edit.php:15
 msgid "Edit Cataloging"
-msgstr "Modifier le catalogage"
+msgstr "Upravit katalogizaci"
 
 #: resources/cataloging_edit.php:24
 msgid "Record Set"
-msgstr "Ensemble de fiches"
+msgstr "Množina záznamů"
 
 #: resources/cataloging_edit.php:36
 msgid "Identifier"
-msgstr "Identifiant"
+msgstr "Identifikátor"
 
 #: resources/cataloging_edit.php:42
 msgid "Source URL"
-msgstr "URL de la source "
+msgstr "URL zdroje"
 
 #: resources/cataloging_edit.php:68
 msgid "# Records Available"
-msgstr "Nbre de fiches disponibles"
+msgstr "Počet dostupných záznamů"
 
 #: resources/cataloging_edit.php:75
 msgid "# Records Loaded"
-msgstr "Nbre de fiches chargées"
+msgstr "Počet načtených zdrojů"
 
 #: resources/cataloging_edit.php:82
 msgid "OCLC Holdings"
-msgstr "Fonds OCLC"
+msgstr "Sbírky OCLC"
 
 #: sendAlerts.php:73
 msgid "No Resources found fitting alert day criteria"
-msgstr "Aucune ressource ne répond aux critères de messages de jours"
+msgstr "Zadanému kritériu data upozornění neodpovídá žádný záznam"
 
 #: sendAlerts.php:95
 msgid "No Issues found fitting alert day criteria"
-msgstr "Aucun incident trouvé répondant aux critères d'alerte de jour"
+msgstr "Zadanému kritériu data upozornění neodpovídá žádný záznam"
 
 #: sendAlerts.php:98
 msgid "Alerts not enabled in configuration.ini file"
-msgstr "Les messages ne sont pas activés dans le fichier configuration.ini"
+msgstr "Upozornění nejsou aktivována v configuration.ini"
 
 #: setuser.php:44
 msgid ""
 "LDAP Connection is not working or has timed out.  Please check configuration."
 "ini to verify settings."
-msgstr ""
-"La connexion LDAP ne fonctionne pas ou a expiré. Merci de vérifier les "
-"paramètres du fichier configuration.ini."
+msgstr "LDAP propojení nefunguje. Zkontrolujte configuration.ini."
 
 #: summary.php:36
 msgid " Summary"
-msgstr " Résumé"
+msgstr " Přehled"
 
 #: summary.php:212
 msgid "Record ID:"
-msgstr "Numéro de fiche :"
+msgstr "ID záznamu:"
 
 #: summary.php:281
 msgid "(Parent)"
-msgstr "(Principal)"
+msgstr "(nadřazený)"
 
 #: summary.php:408
 msgid "Additional Product Notes"
-msgstr "Remarques supplémentaires sur le produit"
+msgstr "Dodatečné poznámky"
 
 #: summary.php:457
 msgid "Purchasing Site:"
-msgstr "Site achetant :"
+msgstr "Nakupující oddělení:"
 
 #: summary.php:502
 msgid "Year:"
-msgstr "Année :"
+msgstr "Rok:"
 
 #: summary.php:506
 msgid "Sub StartDate:"
-msgstr "Début de l'abonnement :"
+msgstr "Začátek předplatného:"
 
 #: summary.php:510
 msgid "Sub EndDate:"
-msgstr "Fin de l'abonnement :"
+msgstr "Konec předplatného:"
 
 #: summary.php:515
 msgid "Fund:"
-msgstr "Fonds :"
+msgstr "Finanční zdroj:"
 
 #: summary.php:520
 msgid "Tax Excl.:"
-msgstr "TVA Excl. :"
+msgstr "Bez DPH:"
 
 #: summary.php:524
 msgid "Tax Rate:"
-msgstr "Taux de TVA :"
+msgstr "DPH:"
 
 #: summary.php:529
 msgid "Tax Incl.:"
-msgstr "TVA Incl. :"
+msgstr "S DPH:"
 
 #: summary.php:535
 msgid "Payment:"
-msgstr "Paiement :"
+msgstr "Platba:"
 
 #: summary.php:539
 msgid "Order Type:"
-msgstr "Type de commande :"
+msgstr "Typ objednávky:"
 
 #: summary.php:554
 msgid "Invoice No.:"
-msgstr "Numéro de facture :"
+msgstr "Číslo faktury:"
 
 #: summary.php:563
 msgid "No payment information available."
-msgstr "Informations de paiement indisponibles."
+msgstr "Informace o platbě není k dispozici."
 
 #: summary.php:651
 msgid "Additional Acquisitions Notes"
-msgstr "Notes supplémentaires sur l'acquisition"
+msgstr "Dodatečné poznámky"
 
 #: summary.php:681
 msgid "No access information available."
-msgstr "Aucune information d'accès disponible."
+msgstr "Není k dispozici informace o přístupu."
 
 #: summary.php:776
 msgid "Additional Access Notes"
-msgstr "Remarques supplémentaires sur l'accès"
+msgstr "Dodatečné poznámky"
 
 #: summary.php:889
 msgid "Additional Cataloging Notes"
-msgstr "Remarques supplémentaires de catalogage"
+msgstr "Dodatečné poznámky"
 
 #: templates/footer.php:31
 msgid "Copyright"
@@ -3147,15 +3124,15 @@ msgstr "Copyright"
 
 #: templates/footer.php:31
 msgid "Resources Module version"
-msgstr "Version du Module des Ressources"
+msgstr "Verze modulu Informační zdroje"
 
 #: templates/footer.php:31
 msgid "CORAL Project Website"
-msgstr "Site web du Projet CORAL"
+msgstr "Webová stránka projektu CORAL"
 
 #: templates/footer.php:31
 msgid "Report an issue"
-msgstr "Signaler un incident"
+msgstr "Nahlásit problém"
 
 #: templates/header.php:76
 msgid ""
@@ -3163,73 +3140,72 @@ msgid ""
 "JavaScript is either disabled or not supported by your browser. To use "
 "CORAL, enable JavaScript by changing your browser options, then "
 msgstr ""
-"JavaScript doit être activé pour utiliser CORAL. JavaScript semble désactivé "
-"ou n'est pas supporté par votre navigateur web. Pour utiliser CORAL, activez "
-"le JavaScript en modifiant les options de votre navigateur web, puis "
+"Pro správnou funkčnost webu musí být zapnut JavaScript. Zapněte si "
+"JavaScript ve svém prohlížeči a "
 
 #: templates/header.php:76
 msgid "try again"
-msgstr "réessayez"
+msgstr "opakujte akci"
 
 #: templates/header.php:97
 msgid "Powered by"
-msgstr "Alimenté par"
+msgstr "Systém postaven na"
 
 #: templates/header.php:103
 msgid "Hello"
-msgstr "Bonjour"
+msgstr "Dobrý den"
 
 #: templates/header.php:113
 msgid "logout"
-msgstr "Se déconnecter"
+msgstr "odhlásit"
 
 #: templates/header.php:113
 msgid "Help"
-msgstr "Aide"
+msgstr "Pomoc"
 
 #: templates/header.php:131
 msgid "Invalid translation route!"
-msgstr "Chemin d'accès aux traductions invalide !"
+msgstr "Chyba v překladu!"
 
 #: templates/header.php:176
 msgid "New Resource"
-msgstr "Nouvelle ressource"
+msgstr "Nový zdroj"
 
 #: templates/header.php:190
 msgid "File Import"
-msgstr "Importer"
+msgstr "Import souboru"
 
 #: templates/header.php:198
 msgid "Admin"
-msgstr "Administration"
+msgstr "Admin"
 
 #: templates/header.php:217
 msgid "Change Module"
-msgstr "Changer de module"
+msgstr "Změnit modul"
 
 #: templates/header.php:220
 msgid "Main Menu"
-msgstr "Menu principal"
+msgstr "Hlavní menu"
 
 #: templates/header.php:230
 msgid "Licensing"
-msgstr "Licences"
+msgstr "Licence"
 
 #: templates/header.php:235
 msgid "Usage Statistics"
-msgstr "Statistiques d'utilisation"
+msgstr "Statistiky využití"
 
 #: templates/header.php:240
 msgid "Management"
-msgstr "Gestion"
+msgstr "Management"
 
 #: user.php:95
 msgid ""
 "Login is not working.  Check the .htaccess file and the "
 "remoteAuthVariableName specified in /admin/configuration.ini"
 msgstr ""
-"La connexion ne fonctionne pas. Vérifiez le fichier .htaccess et la valeur "
-"remoteAuthVariableName indiquée dans le fichier /admin/configuration.ini"
+"Login nefunguje. Zkontrolujte .htaccess a remoteAuthVariableName v "
+"configuration.ini"
 
 #~ msgid "Resource ID: "
 #~ msgstr "Identifiant de ressource: "

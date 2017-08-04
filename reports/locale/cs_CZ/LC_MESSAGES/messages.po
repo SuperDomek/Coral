@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "POT-Creation-Date: 2016-10-04 09:23-0600\n"
-"PO-Revision-Date: 2016-10-16 20:18-0600\n"
-"Last-Translator: <>\n"
+"PO-Revision-Date: 2017-08-04 11:31+0200\n"
+"Last-Translator: Dominik Bláha <blaha.dominik@gmail.com>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -12,75 +12,74 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.8.10\n"
+"X-Generator: Poedit 2.0.3\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: js/plugins/jquery.js\n"
 
 #: js/index.js:21
 msgid "Refreshing Contents..."
-msgstr "Rechargement des contenus..."
+msgstr "Obnovuji obsah..."
 
 #: admin/classes/domain/ReportNotes.php:53
 msgid "Platform Interface Notes (if available)"
-msgstr "Notes de l'interface de la plateforme (si disponible)"
+msgstr "Poznámky k rozhraní platformy"
 
 #: admin/classes/domain/ReportNotes.php:54
 msgid "Publisher Notes (if available)"
-msgstr "Notes de l'éditeur (si disponible)"
+msgstr "Poznámky k vydavateli"
 
 #: admin/classes/domain/ReportTable.php:109
 msgid "Sorry, no rows were returned."
-msgstr "Désolé, aucune rangée dans les résultats."
+msgstr "Nenalezena shoda."
 
 #: admin/classes/domain/ReportTable.php:183
 #: admin/classes/domain/ReportTable.php:185
 msgid "view related titles"
-msgstr "Voir les titres connexes"
+msgstr "zobrazit související tituly"
 
 #: admin/classes/domain/ReportTable.php:190
 msgid "view in link resolver"
-msgstr "Afficher dans le résolveur de liens"
+msgstr "zobrazit v SFX"
 
 #: index.php:38 report.php:117
 msgid "Usage Reports"
-msgstr "Rapports d'utilisation"
+msgstr "Statistiky využití"
 
 #: index.php:41 report.php:120
 msgid "Powered by"
-msgstr "Alimenté par"
+msgstr "Systém postaven na"
 
 #: index.php:60
 msgid "Invalid translation route!"
-msgstr "Chemin d'accès aux traductions invalide !"
+msgstr "Chyba v překladu!"
 
 #: index.php:87
 msgid "Help"
-msgstr "Aide"
+msgstr "Pomoc"
 
 #: index.php:97
 msgid "Select Report"
-msgstr "Sélectionnez un rapport"
+msgstr "Vyberte report"
 
 #: index.php:147
 msgid "Submit"
-msgstr "Envoyer"
+msgstr "Odeslat"
 
 #: index.php:148
 msgid "Reset"
-msgstr "Réinitialiser"
+msgstr "Resetovat"
 
 #: popup.php:66
 msgid "Frequently Asked Questions"
-msgstr "Foire aux Questions"
+msgstr "Často kladené dotazy"
 
 #: popup.php:67
 msgid ""
 "Q. Why isn't the HTML number double the PDF number for interfaces that "
 "automatically download HTML?"
 msgstr ""
-"Q. Pour les interfaces téléchargeant automatiquement les fichiers HTML, "
-"pourquoi est-ce que le nombre de fichiers HTML n'est-il pas le double du "
-"nombre de fichiers PDF ?"
+"Otázka: Proč není u rozhraní automaticky stahujících HTML počet HTML stažení "
+"dvojnásobek počtu PDF?"
 
 #: popup.php:69
 msgid ""
@@ -88,18 +87,16 @@ msgid ""
 "of Contents browse interface, so even platforms such as ScienceDirect "
 "occasionally have higher PDF than HTML counts."
 msgstr ""
-"R. Souvent ces sites NE téléchargent PAS automatiquement les fichiers HTML "
-"de l'interface de la Table des matières du navigateur, donc même les "
-"plateformes comme ScienceDirect ont parfois un nombre supérieur de fichiers "
-"PDF plutôt que de fichiers HTML."
+"Odpověď: Tyto stránky často nestahují HTML při procházení obsahů, takže i na "
+"platformách jako ScienceDirect mají PDF občas více než HTML."
 
 #: popup.php:71
 msgid ""
 "Q. I thought COUNTER standards prevented double-counting of article "
 "downloads."
 msgstr ""
-"Q. Je pensais que les normes COUNTER empêcheraient de compter deux fois le "
-"téléchargement des articles."
+"Otázka: Myslel jsem si, že standard COUNTER zabraňuje dvojímu započítání "
+"stažení článku."
 
 #: popup.php:73
 msgid ""
@@ -110,22 +107,19 @@ msgid ""
 "and/or print the PDF version, this interface significantly inflates total "
 "article usage."
 msgstr ""
-"R. COUNTER requiert effectivement que les clics dupliqués sur les fichiers "
-"HTML ou les PDF dans une courte période de temps ne soient comptés qu'une "
-"seule fois. Mais la norme COUNTER en elle-même n'empêche pas de compter deux "
-"les différents formats--HTML et PDF. Comme certains éditeurs choisissent le "
-"HTML pour les utilisateurs, et comme de nombreux utilisateurs préfèrent "
-"enregistrer/imprimer la version PDF, cette interface augmente "
-"considérablement la comptabilisation totale de l'utilisation des articles."
+"Odpověď: COUNTER vyžaduje, aby duplicitní kliky v rámci jednoho formátu "
+"HTML, nebo PDF během krátkého času za sebou byly počítány jednou. Nicméně "
+"COUNTER nezakazuje dvojí počítání různých formátů - HTML a PDF. Protože "
+"někteří vydavatelé automaticky zobrazují HTML a zároveň mnoho uživatelů si "
+"raději stáhne PDF, může se výsledný součet značně nafouknout."
 
 #: popup.php:75
 msgid ""
 "Q. Why do some Highwire Press publishers have high HTML ratios to PDFs, but "
 "some appear to have a very low ratio?"
 msgstr ""
-"Q. Pourquoi est-ce que certains éditeurs Highwire Press ont des ratios de "
-"fichiers HTML très élevés par rapport aux fichiers PDF, mais que certains "
-"éditeurs semblent avoir un ratio très bas ?"
+"Otázka: Proč mají někteří vydavatelé v Highwire Press vysoký poměr HTML ku "
+"PDF, ale někteří naopak nízký?"
 
 #: popup.php:77
 msgid ""
@@ -134,64 +128,61 @@ msgid ""
 "through the DOI registry. Because this platform includes multiple "
 "publishers, the interface impact is not consistent."
 msgstr ""
-"R. Certains éditeurs ont activé l'affichage automatique du HTML sur Highwire "
-"tandis que d'autres ne l'ont pas activé. Ceci s'explique par le fait que "
-"l'éditeur peut préciser une page de lien préférée via le registre DOI. Comme "
-"cette plateforme comprend de nombreux éditeurs, l'impact sur l'interface "
-"n'est pas uniforme."
+"Odpověď: Někteří vydavatelé automaticky zobrazují HTML a někteří ne. To je "
+"zapříčiněno tím, že vydavatel může přes DOI link indikovat preferovanou "
+"stránku k prolinkování. Protože je na této platformě více vydavatelů s "
+"různým nastavením, statistiky nejsou konzistentní."
 
 #: popup.php:85
 msgid "Invalid type!!"
-msgstr "Type non-valide !!"
+msgstr "Chybný typ!!"
 
 #: report.php:74
 msgid "CORAL Usage Statistics Reporting"
-msgstr "Rapports des statistiques d'utilisation CORAL"
+msgstr "Statistiky využití"
 
 #: report.php:136
 msgid "Click to show information about this report"
-msgstr "Cliquez ici pour afficher des informations sur ce rapport"
+msgstr "Klikněte pro zobrazení informací o tomto reportu"
 
 #: report.php:142
 msgid "Modify Parameters"
-msgstr "Modifier les paramètres"
+msgstr "Upravit parametry"
 
 #: report.php:146
 msgid "Create New Report"
-msgstr "Créer un nouveau rapport"
+msgstr "Vytvořit report"
 
 #: report.php:187
 msgid "By Month and Resource"
-msgstr "Par mois et par ressource"
+msgstr "Podle měsíce a zdroje"
 
 #: report.php:190
 msgid "from an Archive"
-msgstr "d'une Archive"
+msgstr "z archivu"
 
 #: report.php:195
 #, php-format
 msgid "Number of Successful Full-Text Article Requests %s"
-msgstr "Nombre de demandes réussies d'articles en texte intégral %s"
+msgstr "Počet úspěšných stažený plných textů článků %s"
 
 #: report.php:240 report.php:297
 msgid ""
 "Multiple titles with the same print ISSN (generally multiple parts) have "
 "been merged together"
-msgstr ""
-"Plusieurs titres avec le même ISSN de la version imprimée (généralement "
-"plusieurs parties) ont été fusionnés ensemble"
+msgstr "Záznamy se stejným ISSN byly spojeny dohromady"
 
 #: report.php:247
 msgid "Key"
-msgstr "Clé"
+msgstr "Klíč"
 
 #: report.php:252
 msgid "not been adjusted"
-msgstr "non-ajusté"
+msgstr "nebylo upraveno"
 
 #: report.php:252
 msgid "been adjusted manually by Electronic Resources"
-msgstr "ajusté manuellement par les Ressources électroniques"
+msgstr "bylo upraveno ručně elektronickým zdrojem"
 
 #: report.php:260
 #, php-format
@@ -199,8 +190,8 @@ msgid ""
 "Programmatically flagged as outlier based on previous 12 month average. The "
 "number has %s"
 msgstr ""
-"Marqué par le programme comme étant une valeur hors norme basée sur la "
-"moyenne des 12 derniers mois. Le nombre a été %s"
+"Automaticky označeno jako okrajový titul na základě průměru z předchozích 12 "
+"měsíců. Výsledné číslo %s"
 
 #: report.php:273 report.php:340
 #, php-format
@@ -208,29 +199,28 @@ msgid ""
 "Programmatically flagged as outlier using the following formula: Count is %d "
 "over %d%% of the previous 12 month average."
 msgstr ""
-"Marqué par le programme comme étant une valeur hors norme selon la formule "
-"suivante : Le décompte est de %d sur %d%% de la moyenne des 12 derniers mois."
+"Automaticky označeno jako okrajový titul podle následujícího vzorce: Součet "
+"je %d za %d%% z průměru za předchozích 12 měsíců."
 
 #: report.php:295
 msgid ""
 "Programmatically flagged as outlier based on previous 12 month average. The "
 "number has not been adjusted."
 msgstr ""
-"Marqué par le programme comme étant une valeur hors norme basée sur la "
-"moyenne des 12 derniers mois. Le nombre n'a pas été ajusté."
+"Automaticky označeno jako okrajový titul na základě průměru za předchozích "
+"12 měsíců. Výsledné číslo nebylo upraveno."
 
 #: report.php:296
 msgid ""
 "Programmatically flagged as outlier based on previous 12 month average. The "
 "number has been adjusted manually by Electronic Resources."
 msgstr ""
-"Marqué par le programme comme étant une valeur hors norme basée sur la "
-"moyenne des 12 derniers mois. Le nombre a été ajusté par les Ressources "
-"électroniques."
+"Automaticky označeno za okrajový titul na základě průměru za předchozích 12 "
+"měsíců. Číslo bylo upraveno ručně elektronickým zdrojem."
 
 #: report.php:305 report.php:327
 msgid "Color Background Key"
-msgstr "Légende des couleurs en arrière-plan"
+msgstr "Barva pozadí klíče"
 
 #: templates/header.php:72
 msgid ""
@@ -238,17 +228,9 @@ msgid ""
 "JavaScript is either disabled or not supported by your browser. To use "
 "CORAL, enable JavaScript by changing your browser options, then"
 msgstr ""
-"JavaScript doit être activé pour utiliser CORAL. Cepandant, il semble que "
-"JavaScript soit désactivé ou n'est pas supporté par votre navigateur web. "
-"Pour utiliser CORAL, activez JavaScript en modifiant les options de votre "
-"navigateur, puis"
+"Pro správnou funkčnost webu musí být zapnut JavaScript. Zapněte si "
+"JavaScript ve svém prohlížeči a"
 
 #: templates/header.php:72
 msgid "try again"
-msgstr "réessayez"
-
-#~ msgid ""
-#~ "Programmatically flagged as outlier using the following formula: Count is "
-#~ "%d over %d% of the previous 12 month average."
-#~ msgstr ""
-#~ "使用如下公式以编程的方式标记为离群值：计数是%d高于之前12个月平均值的%d%。"
+msgstr "opakujte akci"
